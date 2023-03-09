@@ -4,7 +4,7 @@ description: >-
   proposals.
 ---
 
-# GATA Constitution
+# ⚖ GATA Constitution
 
 With each governance proposal, the GATA DAO community is writing a constitution, setting ways for GATA DAO.&#x20;
 

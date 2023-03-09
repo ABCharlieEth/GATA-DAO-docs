@@ -2,7 +2,7 @@
 description: Objectives of GATA DAO.
 ---
 
-# DAO Objectives
+# ⛽ DAO Objectives
 
 ## An NFT DAO
 

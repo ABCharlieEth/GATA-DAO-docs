@@ -4,7 +4,7 @@ description: >-
   Validator nodes and DAO staked assets across Cosmos.
 ---
 
-# DAO Ventures
+# 🎯 DAO Ventures
 
 * GATA DAO Validators
 * GATA DAO NFT collections

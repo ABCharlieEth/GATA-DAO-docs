@@ -1,11 +1,11 @@
 # Table of contents
 
-* [About GATA DAO](README.md)
+* [🐈⬛ About GATA DAO](README.md)
 
-## GATA DAO Information
+## 📌 GATA DAO Information
 
-* [DAO Objectives](gata-dao-information/dao-objectives.md)
-* [DAO Ventures](gata-dao-information/dao-ventures/README.md)
+* [⛽ DAO Objectives](gata-dao-information/dao-objectives.md)
+* [🎯 DAO Ventures](gata-dao-information/dao-ventures/README.md)
   * [Collections](gata-dao-information/dao-ventures/collections/README.md)
     * [GATA series (DAO Voting rights)](gata-dao-information/dao-ventures/collections/gata-series-dao-voting-rights/README.md)
       * [Origin of γάτα](gata-dao-information/dao-ventures/collections/gata-series-dao-voting-rights/origin-of-gata.md)
@@ -15,9 +15,9 @@
         * [Yield Gorilla Delegations](gata-dao-information/dao-ventures/collections/non-gata-series/yield-gorilla/yield-gorilla-delegations.md)
   * [Validators | Slash Protected](gata-dao-information/dao-ventures/validators-or-slash-protected.md)
   * [GATA Staking/Delegations](gata-dao-information/dao-ventures/gata-staking-delegations.md)
-* [DAO Revenue](gata-dao-information/dao-revenue.md)
+* [💱 DAO Revenue](gata-dao-information/dao-revenue.md)
 * [💰 DAO Treasury ](gata-dao-information/dao-treasury.md)
-* [DAO Revenue Distribution](gata-dao-information/dao-revenue-distribution.md)
+* [💵 DAO Revenue Distribution](gata-dao-information/dao-revenue-distribution.md)
 
 ## 🛣 GATA DAO Road Map
 
@@ -29,7 +29,7 @@
 
 ***
 
-* [FAQs](faqs/README.md)
+* [⁉ FAQs](faqs/README.md)
   * [What is GATA DAO?](faqs/what-is-gata-dao.md)
   * [What are colonial Cats?](faqs/what-are-colonial-cats.md)
   * [What are the benefits of holding GATA NFT?](faqs/what-are-the-benefits-of-holding-gata-nft.md)
@@ -39,8 +39,8 @@
   * [Total supply of GATA Series NFT?](faqs/total-supply-of-gata-series-nft.md)
   * [When is DAO revenue distributed?](faqs/when-is-dao-revenue-distributed.md)
   * [GATA Price?](faqs/gata-price.md)
-* [GATA Paper](gata-paper.md)
-* [GATA Constitution](gata-constitution/README.md)
+* [📜 GATA Paper](gata-paper.md)
+* [⚖ GATA Constitution](gata-constitution/README.md)
   * [Governance proposal 1](gata-constitution/governance-proposal-1.md)
   * [Governance proposal 2](gata-constitution/governance-proposal-2.md)
   * [Governance proposal 3](gata-constitution/governance-proposal-3.md)
@@ -52,7 +52,7 @@
   * [Governance proposal 9](gata-constitution/governance-proposal-9.md)
   * [Governance proposal 10](gata-constitution/governance-proposal-10.md)
   * [Governance proposal 11](gata-constitution/governance-proposal-11.md)
-* [Disclaimer](disclaimer.md)
+* [📙 Disclaimer](disclaimer.md)
 
 ## 🧑🤝🧑 What's cooking in DAO community
 

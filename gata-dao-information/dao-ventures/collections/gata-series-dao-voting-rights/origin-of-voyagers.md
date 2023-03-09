@@ -22,4 +22,4 @@ We have been on the ground but calls are being made from space. We did our part 
 14. Christa
 15. Eugene
 
-<figure><img src="../../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>All the respected voyagers</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>All the respected voyagers</p></figcaption></figure>

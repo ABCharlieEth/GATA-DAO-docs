@@ -1,4 +1,4 @@
-# Disclaimer
+# 📙 Disclaimer
 
 The information in this GATA gitBook is subject to changes or updates and shouldn’t be considered a commitment, promise, or guarantee to any individual. This document does not constitute an offer or solicitation to buy something that any user doesn’t want to. This is not financial advice either, users/readers are responsible for their own decision and financial engagement. It must be noted that any investment involves substantial risks such as volatility, inadequate liquidity, or the potential complete loss of investment. We have prepared all information here by our vision that we believe to be accurate and reliable.
 

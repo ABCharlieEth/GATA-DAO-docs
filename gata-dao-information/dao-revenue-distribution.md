@@ -1,4 +1,4 @@
-# DAO Revenue Distribution
+# 💵 DAO Revenue Distribution
 
 The revenue compounding phase has ended, We are now accumulating Atom to reward distribution wallet for distributing Epoch-wise. \
 \

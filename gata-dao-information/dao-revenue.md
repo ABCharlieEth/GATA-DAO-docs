@@ -2,7 +2,7 @@
 description: The simplest of GATA DAO revenue flow model
 ---
 
-# DAO Revenue
+# 💱 DAO Revenue
 
 ## Updated Revenue Model after Felis update
 
@@ -14,4 +14,4 @@ description: The simplest of GATA DAO revenue flow model
 Illustration of GATA DAO revenue generation and its flow. &#x20;
 {% endhint %}
 
-![ ](<../.gitbook/assets/WhatsApp Image 2022-04-29 at 11.24.26 AM.jpeg>)
+![ ](<../.gitbook/assets/WhatsApp Image 2022-04-29 at 11.24.26 AM (1).jpeg>)
