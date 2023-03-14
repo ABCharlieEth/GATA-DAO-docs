@@ -7,7 +7,7 @@ description: Total assets/tokens present in the DAO treasury.
 ### Tokens held in the GATA DAO treasury
 
 {% hint style="info" %}
-Treasury figures last edited March 1, 2023
+Treasury figures last edited March 12, 2023
 {% endhint %}
 
 The complete list and detail of assets Staked or liquid in DAO Treasury is as follows

@@ -23,7 +23,7 @@ Yield Gorillas are the first collection of yield series and has been launched on
 \
 Supply: 10,000\
 Secondary market: Teritori \
-![](<../../../../.gitbook/assets/image (16).png>)
+![](<../../../../.gitbook/assets/image (1).png>)
 
 ## 2- PFP Series
 
