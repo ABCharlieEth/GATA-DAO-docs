@@ -9,12 +9,12 @@ description: >-
 Following is the list of total Staked assets in GATA DAO treasury, and GATA-operated nodes including self-bonded assets.&#x20;
 
 {% hint style="info" %}
-last updated March 12, 2023
+last updated March 20, 2023
 {% endhint %}
 
 | Blockchain  | Quantity     | Wallet        | Status | Validator |
 | ----------- | ------------ | ------------- | ------ | --------- |
-| COSMOS HUB  | 2492 Atom    | Cosmos Node   | Staked | GATA      |
+| COSMOS HUB  | 2940 Atom    | Cosmos Node   | Staked | GATA      |
 | Osmosis     | 2000 Osmo    | Osmosis Node  | Staked | GATA      |
 | Juno        | 1500 Juno    | Juno Node     | Staked | GATA      |
 | Evmos       | 10000 Evmos  | Evmos Node    | Staked | GATA      |
