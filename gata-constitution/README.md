@@ -6,7 +6,17 @@ description: >-
 
 # ⚖ GATA Constitution
 
-With each governance proposal, the GATA DAO community is writing a constitution, setting ways for GATA DAO.&#x20;
+A DAO (decentralized autonomous organization) is a blockchain-based organization that operates without the need for intermediaries such as banks or governments. Instead, a DAO relies on smart contracts and decentralized decision-making processes to govern its operations.
+
+One of the key aspects of a DAO is its governance structure. Governance refers to the mechanisms and processes used by the DAO to make decisions and manage its operations. This includes decision-making processes, membership rules, and procedures for resolving disputes.
+
+In order to establish a clear and effective governance structure for the GATA DAO, the community is working on creating a constitution. A constitution is a formal document that outlines the principles, rules, and procedures that govern the DAO.
+
+With each governance proposal, the GATA DAO community is reviewing and updating its constitution to ensure that it reflects the changing needs and priorities of the community. This process of ongoing review and revision ensures that the constitution remains relevant and effective over time.
+
+The constitution plays a critical role in the governance of the GATA DAO. It sets out the rules and procedures for decision-making, membership, and dispute resolution, and helps to ensure that the DAO operates transparently and in the best interests of its members.
+
+In summary, the process of writing a constitution with each governance proposal is an important part of establishing a clear and effective governance structure for the GATA DAO. It helps to ensure that the DAO operates transparently and in the best interests of its members.
 
 ## Governance proposals and results
 
