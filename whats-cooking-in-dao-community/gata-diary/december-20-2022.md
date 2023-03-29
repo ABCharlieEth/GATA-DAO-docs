@@ -6,7 +6,7 @@ description: Year end, and start of 2023 Shenanigans
 
 **How has it been?**&#x20;
 
-The year has been a total roller coaster for the GATA family. We began our journey during the decline of the bull market but had not expected the bear market too early thereafter. After the launch of our first collection the [Colonial Cats](../../gata-dao-information/dao-ventures/collections/gata-series-dao-voting-rights/origin-of-gata.md) or the Original γάτα series, we launched two more collections; the [Voyager Cats](../../gata-dao-information/dao-ventures/collections/gata-series-dao-voting-rights/origin-of-voyagers.md) and the non-gata yield series, the [Yield Gorilla](../../gata-dao-information/dao-ventures/collections/yield-series/about-yield-gorilla/). One at the possible lowest of the bear market or at least when the fear meter was at extreme highs, the other when the seasonal trader had gone home.
+The year has been a total roller coaster for the GATA family. We began our journey during the decline of the bull market but had not expected the bear market too early thereafter. After the launch of our first collection the [Colonial Cats](../../gata-dao-information/dao-ventures/collections/gata-series-dao-voting-rights/origin-of-gata.md) or the Original γάτα series, we launched two more collections; the [Voyager Cats](../../gata-dao-information/dao-ventures/collections/gata-series-dao-voting-rights/origin-of-voyagers.md) and the non-gata yield series, the [Yield Gorilla](../../gata-dao-information/dao-ventures/collections/non-gata-series/yield-gorilla/). One at the possible lowest of the bear market or at least when the fear meter was at extreme highs, the other when the seasonal trader had gone home.
 
 **One step at a time**
 
