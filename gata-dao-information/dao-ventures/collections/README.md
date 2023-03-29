@@ -16,4 +16,4 @@ Total of 9 collections have been planned comprising approximately 5000 NFT for G
 
 ## Non-GATA series
 
-Non-GATA series, mainly profile picture (PFP) and different utility from the GATA series i.e. these will not have the GATA series utility. They are primarily purposed for marketing and staking yield. yield gorillas (the first non-gata series) is the first collection of this series. [details](non-gata-series/yield-gorilla/)
+Non-GATA series, mainly profile picture (PFP) and different utility from the GATA series i.e. these will not have the GATA series utility. They are primarily purposed for marketing and staking yield. yield gorillas (the first non-gata series) is the first collection of this series. [details](yield-series/yield-gorilla/)
