@@ -15,6 +15,7 @@ The complete list and detail of assets Staked or liquid in DAO Treasury is as fo
 | Token              | Total         | Available | Staked       | Address                                        |
 | ------------------ | ------------- | --------- | ------------ | ---------------------------------------------- |
 | $Atom              | 1000 $ATOM    | 0 $ATOM   | 1000 $Atom   | scosmos1whjay3z7ww5zzhydxpt8xffu587jh9905f7jvf |
+| $ETH               | 0.212 ETH     | 0.212 ETH | 0 ETH        |                                                |
 | $STARS             | 100000 $Stars | 0 $Stars  | 100k $STARS  | stars1whjay3z7ww5zzhydxpt8xffu587jh990q4f08c   |
 | $MNTL (airdropped) | 1815 $MNTL    | 605 $MNTL | 1210 $MNTL   | mantle1whjay3z7ww5zzhydxpt8xffu587jh9902d9hnr  |
 | $USDC-AXL          | 0 $USDC       | 0 USDC    | -            | osmo1whjay3z7ww5zzhydxpt8xffu587jh990ujdz6m    |

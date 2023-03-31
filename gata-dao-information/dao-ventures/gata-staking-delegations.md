@@ -19,7 +19,7 @@ last updated March 25, 2023
 | Juno        | 1500 Juno    | Juno Node     | Staked | GATA      |
 | Evmos       | 10000 Evmos  | Evmos Node    | Staked | GATA      |
 | Teritori    | 115000 Tori  | TORI Node     | Staked | GATA      |
-| Nomic BTC   | 4175 NOM     | NOMIC Node    | Staked | GATA      |
+| Nomic BTC   | 43955 NOM    | NOMIC Node    | Staked | GATA      |
 | Rebus       | 1500 Rebus   | Rebus Node    | Staked | GATA      |
 | Sifchain    | 100 Rowan    | Sifchain Node | Staked | GATA      |
 | Stargaze    | 100000 Stars | DAO treasury  | Staked | 0base.vc  |
