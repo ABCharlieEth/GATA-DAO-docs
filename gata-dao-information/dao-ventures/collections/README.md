@@ -1,11 +1,11 @@
 ---
-description: GATA DAO has 2 types of collection. GATA series and Non-GATA series.
+description: GATA DAO NFT collections
 ---
 
 # Collections
 
-## GATA series
-
+{% tabs %}
+{% tab title="GATA Series" %}
 GATA series NFT comes with the utility that gives you earning and power to vote. \
 Every GATA series NFT will have the same utility regardless of rank, minting date, and name.\
 Total of 9 collections have been planned comprising approximately 5000 NFT for GATA series.\
@@ -13,7 +13,28 @@ Total of 9 collections have been planned comprising approximately 5000 NFT for G
 **Colonial Cats (GATAc)** being the very first GATA series collection with a total of 999 NFTs.
 
 **Voyager Cats (GATAv)** being the second GATA series collection with a total of 888 NFTs.
+{% endtab %}
 
-## Non-GATA series
+{% tab title="Yield Series" %}
+## Yield Series NFT
 
-Non-GATA series, mainly profile picture (PFP) and different utility from the GATA series i.e. these will not have the GATA series utility. They are primarily purposed for marketing and staking yield. yield gorillas (the first non-gata series) is the first collection of this series. [details](non-gata-series/yield-gorilla/)
+Introducing the first NON-GATA series, This yield series will have multiple collections on different platforms across the cosmos chains. \
+\
+&#x20;**key features of the Yield series are** \
+\
+_-It will be airdropped to GATA Minters or it will be sold on a minimum price, holders, and delegators, in a way that, the more you are supporting the DAO the more reward will be._\
+\
+_-After airdrop remaining will be sold in the different markets ( Stargaze, Omniflix, Passage, Teritori, and more)_ _-Nominal price 20$-30$_ or even lower according to market conditions. \
+\
+_- 100% of the mint will be staked to DAO validators_ _- All of the staking revenue will be distributed to Yield series holders._ \
+\
+**Benefits for GATA holders** \
+_-Airdrop / Whitelist_ priority \
+_-Increased earning from the validator commission, after all 100% of the mint proceed will be staked to DAO validator._ \
+_-Staking revenue from the Yield NFT_
+{% endtab %}
+
+{% tab title="Others" %}
+Non-GATA series, mainly profile picture (PFP) and less utility from the GATA series i.e. these will not have the GATA series utility. They are primarily purposed for marketing and staking yield. yield gorillas (the first non-gata series) is the first collection of this series. [details](non-gata-series/yield-gorilla/)
+{% endtab %}
+{% endtabs %}
