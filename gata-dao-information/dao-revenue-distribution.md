@@ -156,8 +156,7 @@ Distribution Date: April 1, 2023
 | Juno Validator                 | 11.3 Atom            | 135 USD            |
 | Rebus Validator                | 4.3 Atom             | 52 USD             |
 | Tori Validator                 | 26.4 Atom            | 315 USD            |
-| Osmo Validator                 | 7.7 Atom             |                    |
-| Treasury Staking rewards       | 35.5 Atom            |                    |
-| Royalties 0base.vc partnership | 8.6 Atom             |                    |
-| **Total**                      | **208  Atom**        |                    |
-|                                |                      |                    |
+| Osmo Validator                 | 7.7 Atom             | 92 USD             |
+| Treasury Staking rewards       | 35.5 Atom            | 426 USD            |
+| Royalties 0base.vc partnership | 8.6 Atom             | 103 USD            |
+| **Total**                      | **208  Atom**        | \~**2490 USD**     |
