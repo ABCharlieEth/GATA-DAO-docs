@@ -142,3 +142,22 @@ GATA DAO 7th Epoch addresses
 | Royalties + 0base partnership | 8 Atom                            | 104 USD                |
 | **Total**                     | **195 Atom**                      | **2535 USD**           |
 
+## GATA DAO Epoch 8
+
+GATA DOA epoch 8 form 1st March 2023 - 31st March 2023. Where 1727/1887 eligible GATA from Colonial cats and Voyager Cats collections earned 0.12/Atom/GATA. \
+\
+Total Atom Distributed: 208 Atom\
+Distribution Date: April 1, 2023
+
+| Source                         | Total Atom generated | Total USD @12/Atom |
+| ------------------------------ | -------------------- | ------------------ |
+| Atom Validator                 | 69 Atom              | 828 USD            |
+| Evmos Validator                | 44.7 Atom            | 536 USD            |
+| Juno Validator                 | 11.3 Atom            | 135 USD            |
+| Rebus Validator                | 4.3 Atom             | 52 USD             |
+| Tori Validator                 | 26.4 Atom            | 315 USD            |
+| Osmo Validator                 | 7.7 Atom             |                    |
+| Treasury Staking rewards       | 35.5 Atom            |                    |
+| Royalties 0base.vc partnership | 8.6 Atom             |                    |
+| **Total**                      | **208  Atom**        |                    |
+|                                |                      |                    |
