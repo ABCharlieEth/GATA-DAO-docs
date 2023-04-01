@@ -9,7 +9,7 @@ description: >-
 Following is the list of total Staked assets in GATA DAO treasury, and GATA-operated nodes including self-bonded assets.&#x20;
 
 {% hint style="info" %}
-last updated March 25, 2023
+last updated March 31, 2023
 {% endhint %}
 
 | Blockchain  | Quantity     | Wallet        | Status | Validator |

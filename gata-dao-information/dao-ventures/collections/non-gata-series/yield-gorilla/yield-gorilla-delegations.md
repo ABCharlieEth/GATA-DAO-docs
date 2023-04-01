@@ -1,5 +1,5 @@
 ---
-description: Last updated March 29, 2023
+description: Last updated March 31, 2023
 ---
 
 # Yield Gorilla Delegations
