@@ -17,15 +17,26 @@ _-Airdrop / Whitelist_ priority \
 _-Increased earning from the validator commission, after all 100% of the mint proceed will be staked to DAO validator._ \
 _-Staking revenue from the Yield NFT_
 
-## _Yield Gorillas_
-
+{% tabs %}
+{% tab title="Yield Gorillas" %}
 Yield Gorillas are the first collection of yield series and has been launched on the Teritori on November 16, 2022. Learn more about Yield Gorillas [here ](./#yield-gorillas)\
 \
 Supply: 10,000\
-Secondary market: Teritori \
-![](<../../../../.gitbook/assets/image (1).png>)
+Secondary market: Teritori&#x20;
 
-## 2- PFP Series
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Yield 2nd" %}
+WIP
+
+
+{% endtab %}
+{% endtabs %}
+
+## __
+
+##
 
 \
-&#x20;Details coming soon.&#x20;
+&#x20;
