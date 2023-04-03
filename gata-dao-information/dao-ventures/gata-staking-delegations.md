@@ -23,5 +23,5 @@ last updated March 31, 2023
 | Rebus       | 1500 Rebus   | Rebus Node    | Staked | GATA      |
 | Sifchain    | 100 Rowan    | Sifchain Node | Staked | GATA      |
 | Stargaze    | 100000 Stars | DAO treasury  | Staked | 0base.vc  |
-| AssetMantal | 1210 MNTL    | DAO treasury  | Staked | 0Base.vc  |
+| AssetMantal | 1210 MNTL    | DAO treasury  | Staked | 0base.vc  |
 

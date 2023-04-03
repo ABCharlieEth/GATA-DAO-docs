@@ -120,7 +120,7 @@ GATA DAO 6th Epoch addresses
 | Royalties + 0base partnership | 8 Atom                            | 115 USD                  |
 | **Total**                     | **175 Atom**                      | **2502 USD**             |
 
-## GATA DAO Epoch 7
+## GATA DAO EPOCH 7
 
 GATA DOA epoch 7 form 1st Feb 2023 - 28th Feb 2023. Where 1627/1887 eligible GATA from Colonial cats and Voyager Cats collections earned 0.12/Atom/GATA. \
 \
@@ -142,12 +142,16 @@ GATA DAO 7th Epoch addresses
 | Royalties + 0base partnership | 8 Atom                            | 104 USD                |
 | **Total**                     | **195 Atom**                      | **2535 USD**           |
 
-## GATA DAO Epoch 8
+## GATA DAO EPOCH 8
 
 GATA DOA epoch 8 form 1st March 2023 - 31st March 2023. Where 1727/1887 eligible GATA from Colonial cats and Voyager Cats collections earned 0.12/Atom/GATA. \
 \
 Total Atom Distributed: 208 Atom\
 Distribution Date: April 1, 2023
+
+{% file src="../.gitbook/assets/GATA_Epoch_8_reward_list.txt" %}
+GATA DAO 8th Epoch addresses
+{% endfile %}
 
 | Source                         | Total Atom generated | Total USD @12/Atom |
 | ------------------------------ | -------------------- | ------------------ |
