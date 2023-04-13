@@ -34,7 +34,13 @@ _-Increased earning from the validator commission, after all 100% of the mint pr
 _-Staking revenue from the Yield NFT_
 {% endtab %}
 
-{% tab title="Others" %}
+{% tab title="Souvenir Series " %}
+GATA DAO is thrilled to announce that we will be celebrating the blockchain events in different style, by minting the related souvenirs.  These souvenirs will be designed to commemorate the particular event and serve as a symbol of our commitment to supporting promising projects in the blockchain space.\
+\
+We will also add the exciting rewards during such mints to make these mints even more memorable.&#x20;
+{% endtab %}
+
+{% tab title="Other" %}
 Non-GATA series, mainly profile picture (PFP) and less utility from the GATA series i.e. these will not have the GATA series utility. They are primarily purposed for marketing and staking yield. yield gorillas (the first non-gata series) is the first collection of this series. [details](non-gata-series/yield-gorilla/)
 {% endtab %}
 {% endtabs %}
