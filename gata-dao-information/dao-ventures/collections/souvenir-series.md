@@ -12,7 +12,7 @@ As a holder of one of these souvenirs, you will have a chance to win exciting mi
 
 \
 **Minting**\
-_Collection Size : 5000_ \
+_Collection Size : 5209_\
 _Airdrop eligibility: Holding any of the GATA DAO collection_ \
 _Mint date: April 21, 2023_\
 _Mint price: 1 $FLIX_\
