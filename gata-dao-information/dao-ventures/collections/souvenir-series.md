@@ -15,16 +15,19 @@ As a holder of one of these souvenirs, you will have a chance to win exciting mi
 _Collection Size : 5000_ \
 _Airdrop eligibility: Holding any of the GATA DAO collection_ \
 _Mint date: April 21, 2023_\
-_Mint price: 1 $FLIX_
+_Mint price: 1 $FLIX_\
+\
+[_Trade here_](https://omniflix.market/collection/onftdenoma6a057db64674de0b129e9b5c087d404)
 
 **Mintout Rewards**\
 \-5x GATAv \
 \-1x Yield gorilla bull/legend\
-\-5x Yield gorilla Neat/elemental\
+\-8x Yield gorilla Neat/elemental\
 \
 **Monthly Rewards**\
 \~100 USD in rewards (Tokens & NFTs)&#x20;
 
 **Winners**\
 All winners will be selected automatically. \
+\
 &#x20;
