@@ -170,6 +170,20 @@ GATA DAO 8th Epoch addresses
 GATA DOA epoch 9 form 1st April 2023 - 30th April 2023. Where 1727/1887 eligible GATA from Colonial cats and Voyager Cats collections earned 0.12/Atom/GATA. \
 \
 Total Atom Distributed: 208 Atom\
-Distribution Date: May 2, 2023\
+Distribution Date: May 2, 2023
+
+| Source                         | Total Atom generated | Total USD @12/Atom |
+| ------------------------------ | -------------------- | ------------------ |
+| Atom Validator                 | 73.5 Atom            | 882 USD            |
+| Evmos Validator                | 44.7 Atom            | 537 USD            |
+| Juno Validator                 | 9.25 Atom            | 111 USD            |
+| Rebus Validator                | 4.3 Atom             | 52 USD             |
+| Tori Validator                 | 13.1 Atom            | 157 USD            |
+| Osmo Validator                 | 7.9 Atom             | 95 USD             |
+| Treasury staking rewards       | 44.5 Atom            | 534 USD            |
+| Royalties 0base.vc partnership | 9.3 Atom             | 112 USD            |
+| **Total**                      | **208 Atom**         | **2496 USD**       |
+
+\
 \
 \
