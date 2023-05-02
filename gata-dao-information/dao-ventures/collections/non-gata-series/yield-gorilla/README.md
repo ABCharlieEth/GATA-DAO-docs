@@ -2,7 +2,7 @@
 description: First of the yield series
 ---
 
-# Yield Gorilla
+# About Yield Gorilla
 
 <figure><img src="../../../../../.gitbook/assets/collection-banner.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -15,7 +15,7 @@ _The saga of Gorillas is a bit different from GATA's. While GATA are from greek 
 \
 **The narrative**
 
-﻿__﻿The DAO has launched the first non-GATA Yield series, the Yield Gorilla. The Yield Gorilla NFTs will derive their value from the staking rewards. The revenue from the mint will be, in total, staked on the GATA Validators and the rewards collected from staking will be distributed to the owners of the Yield Gorillas. A total of 10,000 Yield Gorillas will exist. Furthermore, the distribution of rewards will also depend on the rarity of the NFT.&#x20;
+﻿The DAO has launched the first non-GATA Yield series, the Yield Gorilla. The Yield Gorilla NFTs will derive their value from the staking rewards. The revenue from the mint will be, in total, staked on the GATA Validators and the rewards collected from staking will be distributed to the owners of the Yield Gorillas. A total of 10,000 Yield Gorillas will exist. Furthermore, the distribution of rewards will also depend on the rarity of the NFT.&#x20;
 
 <figure><img src="https://miro.medium.com/max/1100/1*s2MBbzsAfd58LsvA7rOD2g.webp" alt=""><figcaption><p>The picture depicts the rarity and allocation of revenue.</p></figcaption></figure>
 
