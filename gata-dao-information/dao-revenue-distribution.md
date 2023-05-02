@@ -164,3 +164,12 @@ GATA DAO 8th Epoch addresses
 | Treasury Staking rewards       | 35.5 Atom            | 426 USD            |
 | Royalties 0base.vc partnership | 8.6 Atom             | 103 USD            |
 | **Total**                      | **208  Atom**        | \~**2490 USD**     |
+
+## GATA DAO EPOCH 9
+
+GATA DOA epoch 9 form 1st April 2023 - 30th April 2023. Where 1727/1887 eligible GATA from Colonial cats and Voyager Cats collections earned 0.12/Atom/GATA. \
+\
+Total Atom Distributed: 208 Atom\
+Distribution Date: May 2, 2023\
+\
+\
