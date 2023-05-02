@@ -10,6 +10,8 @@ description: Epoch record of YG collection
 
 {% file src="../../../../../.gitbook/assets/YG_2nd_Epoch_Reward_list.txt" %}
 
+<figure><img src="../../../../../.gitbook/assets/gata-yg-rewards-2023-05-epoch-2.png" alt=""><figcaption></figcaption></figure>
+
 ## YG Epoch 1
 
 31st, March 2023
