@@ -167,10 +167,12 @@ GATA DAO 8th Epoch addresses
 
 ## GATA DAO EPOCH 9
 
-GATA DOA epoch 9 form 1st April 2023 - 30th April 2023. Where 1727/1887 eligible GATA from Colonial cats and Voyager Cats collections earned 0.12/Atom/GATA. \
+GATA DOA epoch 9 form 1st April 2023 - 30th April 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.12/Atom/GATA. \
 \
 Total Atom Distributed: 208 Atom\
 Distribution Date: May 2, 2023
+
+{% file src="../.gitbook/assets/GATA_epoch_9_reward_list.txt" %}
 
 | Source                         | Total Atom generated | Total USD @12/Atom |
 | ------------------------------ | -------------------- | ------------------ |
