@@ -8,8 +8,10 @@ description: GATA DAO NFT collections
 {% tab title="GATA Series" %}
 GATA series NFT comes with the utility that gives you earning and power to vote. \
 Every GATA series NFT will have the same utility regardless of rank, minting date, and name.\
-Total of 9 collections have been planned comprising approximately 5000 NFT for GATA series.\
+Total of 9 collections have been planned comprising approximately 5000 NFT for GATA series. \
 \
+[More details about the collection.  \
+](gata-series-dao-voting-rights/)\
 **Colonial Cats (GATAc)** being the very first GATA series collection with a total of 999 NFTs.
 
 **Voyager Cats (GATAv)** being the second GATA series collection with a total of 888 NFTs.
@@ -31,13 +33,17 @@ _- 100% of the mint will be staked to DAO validators_ _- All of the staking reve
 **Benefits for GATA holders** \
 _-Airdrop / Whitelist_ priority \
 _-Increased earning from the validator commission, after all 100% of the mint proceed will be staked to DAO validator._ \
-_-Staking revenue from the Yield NFT_
+_-Staking revenue from the Yield NFT_\
+\
+[_More details about the Yield Series_ ](./#yield-series)
 {% endtab %}
 
 {% tab title="Souvenir Series " %}
 GATA DAO is thrilled to announce that we will be celebrating the blockchain events in different style, by minting the related souvenirs.  These souvenirs will be designed to commemorate the particular event and serve as a symbol of our commitment to supporting promising projects in the blockchain space.\
 \
-We will also add the exciting rewards during such mints to make these mints even more memorable.&#x20;
+We will also add the exciting rewards during such mints to make these mints even more memorable. \
+\
+[More details about this Series ](./#souvenir-series)
 {% endtab %}
 
 {% tab title="Other" %}
