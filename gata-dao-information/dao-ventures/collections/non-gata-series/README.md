@@ -22,7 +22,7 @@ _-Staking revenue from the Yield NFT_
 Yield Gorillas are the first collection of yield series and has been launched on the Teritori on November 16, 2022. Learn more about Yield Gorillas [here ](./#yield-gorillas)\
 \
 Supply: 10,000\
-Secondary market: Teritori&#x20;
+Secondary market: [Teritori ](https://app.teritori.com/collection/tori-tori1999u8suptza3rtxwk7lspve02m406xe7l622erg3np3aq05gawxsrh9g0p)
 
 <figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
