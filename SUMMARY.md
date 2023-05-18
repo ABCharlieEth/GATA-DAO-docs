@@ -15,7 +15,7 @@
         * [Yield Gorilla Delegations](gata-dao-information/dao-ventures/collections/non-gata-series/yield-gorilla/yield-gorilla-delegations.md)
         * [Yield Gorilla reward distribution](gata-dao-information/dao-ventures/collections/yield-series/about-yield-gorilla/yield-gorilla-reward-distribution.md)
     * [Souvenir Series](gata-dao-information/dao-ventures/collections/souvenir-series.md)
-  * [GATA Validators](gata-dao-information/dao-ventures/gata-validators/README.md)
+  * [GATA Validators](gata-dao-information/dao-ventures/validators-or-slash-protected.md)
     * [Slash protection policy](gata-dao-information/dao-ventures/gata-validators/slash-protection-policy.md)
     * [ICS Partner chains](gata-dao-information/dao-ventures/gata-validators/ics-partner-chains.md)
   * [GATA Staking/Delegations](gata-dao-information/dao-ventures/gata-staking-delegations.md)
