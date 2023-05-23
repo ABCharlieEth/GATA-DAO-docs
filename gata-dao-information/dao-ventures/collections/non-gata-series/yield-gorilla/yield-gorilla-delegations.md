@@ -23,3 +23,20 @@ The original amount was staked at the end of the Mint.&#x20;
 | 1st March 2023 to 31st March 2023 | 338 Atom     | 0 Atom                                                                                                                | <p><a href="https://www.mintscan.io/teritori/txs/72562CBC1D982184BC52D2801B12E3F482FB039CD9DE1C7D6D98196DF9B202F6">16.6 Atom</a><br>17 YG burned</p>               | 9857 YG        | 0 Atom  | 7829.2 Atom       | <p>381000<br>Tori</p>  |
 | 1st April 2023 to 30th April 2023 | 230 Atom     | 0 Atom                                                                                                                | <p><a href="https://www.mintscan.io/cosmos/txs/A97B09B0678BC58A078269D8F3049B2982DFC89F6C05F4FD98C5063B8F8FFB5C?height=15120129">11.5 Atom</a><br>14 YG burned</p> | 9843 YG        | 0 Atom  | 7829.2 Atom       | <p>381000 <br>Tori</p> |
 
+<details>
+
+<summary>YG Burn activities</summary>
+
+50 GATAv from marketing wallet  were used to burn the YGs in discord auction style. \
+\
+**Rules of auction**
+
+* &#x20;Weightage Allocation _1 point for neat 4 for bear and pump 6 for mooned and 10 for legend/bull._&#x20;
+* Minimum bid _8 points are the minimum bid._&#x20;
+* &#x20;Auction Time _is 3 days, at the end of the 3rd day, and after that, the auction ends if there is no higher bid for 1 hour. The winner will be informed._
+* Batch allocation _Maximum of 10 GATAv will be auctioned at a time._
+* Transaction _At the end of the auction winner will be chosen and informed._&#x20;
+
+
+
+</details>
