@@ -7,29 +7,21 @@ description: Total assets/tokens present in the DAO treasury.
 ### Tokens held in the GATA DAO treasury
 
 {% hint style="info" %}
-Treasury figures last edited April 12, 2023
+Treasury figures last edited May 23, 2023
 {% endhint %}
 
 The complete list and detail of assets Staked or liquid in DAO Treasury is as follows
 
-| Token              | Total         | Available | Staked       | Address                                        |
-| ------------------ | ------------- | --------- | ------------ | ---------------------------------------------- |
-| $Atom              | 1000 $ATOM    | 0 $ATOM   | 1000 $Atom   | scosmos1whjay3z7ww5zzhydxpt8xffu587jh9905f7jvf |
-| $ETH               | 0.212 ETH     | 0.212 ETH | 0 ETH        | osmo1whjay3z7ww5zzhydxpt8xffu587jh990ujdz6m    |
-| $STARS             | 100000 $Stars | 0 $Stars  | 100k $STARS  | stars1whjay3z7ww5zzhydxpt8xffu587jh990q4f08c   |
-| $MNTL (airdropped) | 1815 $MNTL    | 605 $MNTL | 1210 $MNTL   | mantle1whjay3z7ww5zzhydxpt8xffu587jh9902d9hnr  |
-| $USDC-AXL          | 0 $USDC       | 0 USDC    | -            | osmo1whjay3z7ww5zzhydxpt8xffu587jh990ujdz6m    |
-| $TORI (Airdropped) | 100000 $TORI  | 0 $TORI   | 100000 $TORI | tori1dyduggaqthztgm8tnk59flkeu3l3qvpzj9w997    |
+| Token              | Total       | Available | Staked      | Address                                        |
+| ------------------ | ----------- | --------- | ----------- | ---------------------------------------------- |
+| $Atom              | 1000 $ATOM  | 0 $ATOM   | 1000 $Atom  | scosmos1whjay3z7ww5zzhydxpt8xffu587jh9905f7jvf |
+| $ETH               | 0.212 ETH   | 0.212 ETH | 0 ETH       | osmo1whjay3z7ww5zzhydxpt8xffu587jh990ujdz6m    |
+| $STARS             | 100K $Stars | 0 $Stars  | 100k $STARS | stars1whjay3z7ww5zzhydxpt8xffu587jh990q4f08c   |
+| $MNTL (airdropped) | 1815 $MNTL  | 605 $MNTL | 1210 $MNTL  | mantle1whjay3z7ww5zzhydxpt8xffu587jh9902d9hnr  |
+| $USDC-AXL          | 0 $USDC     | 0 USDC    | -           | osmo1whjay3z7ww5zzhydxpt8xffu587jh990ujdz6m    |
+| $TORI (Airdropped) | 100K $TORI  | 0 $TORI   | 100K $TORI  | tori1dyduggaqthztgm8tnk59flkeu3l3qvpzj9w997    |
 
 
-
-<details>
-
-<summary>Treasury Historic DATA</summary>
-
-
-
-</details>
 
 ### All the NFTs in GATA DAO Treasury&#x20;
 
