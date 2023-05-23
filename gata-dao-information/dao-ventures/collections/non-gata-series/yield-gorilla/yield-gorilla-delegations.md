@@ -25,7 +25,7 @@ The original amount was staked at the end of the Mint.&#x20;
 
 <details>
 
-<summary>YG Burn activities</summary>
+<summary>Additional YG Burn activities</summary>
 
 50 GATAv from marketing wallet  were used to burn the YGs in discord auction style. \
 \
