@@ -10,6 +10,8 @@ description: Epoch record of YG collection
 
 {% file src="../../../../../.gitbook/assets/YG_3rd_Epoch.txt" %}
 
+<figure><img src="../../../../../.gitbook/assets/0_Gms7s9gwl2Evkaqn.webp" alt=""><figcaption></figcaption></figure>
+
 ## YG Epoch 2
 
 30th, April 2023
