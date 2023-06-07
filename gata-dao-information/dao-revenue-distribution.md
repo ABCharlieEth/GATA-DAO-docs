@@ -186,6 +186,11 @@ Distribution Date: May 2, 2023
 | Royalties 0base.vc partnership | 9.3 Atom             | 112 USD            |
 | **Total**                      | **208 Atom**         | **2496 USD**       |
 
+## GATA DAO EPOCH 10
+
+GATA DOA epoch 10 form 1st May 2023 - 31st May 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.1/Atom/GATA. \
 \
+Total Atom Distributed: 175 Atom\
+Distribution Date: May 31, 2023\
 \
 \
