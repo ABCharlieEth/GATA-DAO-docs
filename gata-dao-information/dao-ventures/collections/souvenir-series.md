@@ -34,15 +34,12 @@ All winners will be selected automatically. \
 
 <details>
 
-<summary>Rewards </summary>
-
-## Mintout Rewards (May 2023)
-
-##
+<summary>Monthly Rewards </summary>
 
 ## First Monthly rewards (June 2023)
 
 10 YG neat/elemental 10 winners (\~80 USD)\
-100 Flix 10 winners 10 Flix each (\~20 USD)&#x20;
+100 Flix 10 winners 10 Flix each (\~20 USD) \
+[https://twitter.com/GataDaoZone/status/1670083887052242947?s=20](https://twitter.com/GataDaoZone/status/1670083887052242947?s=20)&#x20;
 
 </details>
