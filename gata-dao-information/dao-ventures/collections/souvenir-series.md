@@ -31,3 +31,18 @@ _Mint price: 1 $FLIX_\
 All winners will be selected automatically. \
 \
 &#x20;
+
+<details>
+
+<summary>Rewards </summary>
+
+## Mintout Rewards (May 2023)
+
+##
+
+## First Monthly rewards (June 2023)
+
+10 YG neat/elemental 10 winners (\~80 USD)\
+100 Flix 10 winners 10 Flix each (\~20 USD)&#x20;
+
+</details>
