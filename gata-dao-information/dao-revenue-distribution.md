@@ -195,16 +195,17 @@ Distribution Date: May 31, 2023
 
 | Source                             | Total Atom generated  | Total USD @11/Atom |
 | ---------------------------------- | --------------------- | ------------------ |
-| Atom validator                     |                       |                    |
-| Evmos Validator                    |                       |                    |
-| Juno Validator                     |                       |                    |
-| Rebus Validator                    |                       |                    |
-| Tori Validator                     |                       |                    |
-| Osmo Validator                     |                       |                    |
-| Treasury Staking rewards           |                       |                    |
-| Royalties and 0base.vc partnership |                       |                    |
-| **Total**                          |                       |                    |
+| Atom validator                     | 65.6 Atom             | 722 USD            |
+| Evmos Validator                    | 19.8 Atom             | 218 USD            |
+| Juno Validator                     | 4.5 Atom              | 50 USD             |
+| Rebus Validator                    | 2.8 Atom              | 31 USD             |
+| Tori Validator                     | 6.15 Atom             | 68 USD             |
+| Osmo Validator                     | 5.1 Atom              | 56 USD             |
+| Omniflix Validator                 | 51.2 Atom             | 632 USD            |
+| Treasury Staking rewards           | 7.6 Atom              | 84 USD             |
+| Royalties and 0base.vc partnership | 12.3 Atom             | 135 USD            |
+| **Total**                          | **175 Atom**          | **1995 USD**       |
 
-ta\
+\
 \
 \
