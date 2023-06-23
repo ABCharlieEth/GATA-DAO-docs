@@ -18,3 +18,9 @@ In summary, Interchain Security in Cosmos enables the Cosmos Hub to provide secu
 
 ## Resources
 
+[**Interchain Security Begins a New Era for Cosmos**](https://blog.cosmos.network/interchain-security-begins-a-new-era-for-cosmos-a2dc3c0be63)
+
+[**Interchain Security**](https://github.com/cosmos/gaia/blob/main/docs/interchain-security.md)
+
+[**Securing Cosmos - all you need to know about Interchain Security**](https://www.coinbase.com/cloud/discover/insights-analysis/all-you-need-to-know-about-interchain-security)
+
