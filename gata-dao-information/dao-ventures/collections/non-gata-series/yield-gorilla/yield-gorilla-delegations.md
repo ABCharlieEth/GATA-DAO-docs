@@ -1,5 +1,5 @@
 ---
-description: Last updated June 18, 2023
+description: Last updated July 8, 2023
 ---
 
 # Yield Gorilla Delegations
@@ -46,9 +46,9 @@ The original amount was staked at the end of the Mint.&#x20;
 ## YG supply table
 
 {% hint style="info" %}
-Last updated June 18, 2023.&#x20;
+Last updated July 8, 2023.&#x20;
 {% endhint %}
 
-<table><thead><tr><th width="193">Skin</th><th width="119">Initial supply</th><th width="137">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>383</td><td>7239</td></tr></tbody></table>
+<table><thead><tr><th width="193">Skin</th><th width="119">Initial supply</th><th width="137">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>400</td><td>7232</td></tr></tbody></table>
 
 *
