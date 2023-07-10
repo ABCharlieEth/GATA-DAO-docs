@@ -1,5 +1,5 @@
 ---
-description: First of the yield series
+description: First of the yield series, Yield gorilla also calls YGs
 ---
 
 # About Yield Gorilla
