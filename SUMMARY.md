@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🐈⬛ About GATA DAO](README.md)
+  * [Useful links](https://linktr.ee/gatadao)
 
 ## 📌 GATA DAO Information
 
