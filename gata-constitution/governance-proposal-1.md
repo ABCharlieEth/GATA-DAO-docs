@@ -11,7 +11,7 @@ After the discussion around the proposal, we are moving to the first DAO proposa
 3. To vote you need to do a magic transaction of 0.01 $Stars in the given address using Keplr. Along with your desired option in the memo field. For example, if you want to vote for opt 2, write 2 in the memo, If you want to vote on 1 and 2 write 1,2 in the memo. Address stars1eewzan3pa6ta7jr83sqzujsgnaupkfs67e0ew3
 4. The transaction must be sent from $GATA holding account. \*One transaction per account. Vote weighs as much GATA in an account. If an account has 10 GATA. Vote power would be 10/950 (edited) \[2:42 AM]
 
-***
+
 
 Proposal # 1 - $GATADAO (Voting period 48 hrs) Starting 16/Mar - Ending 18/Mar UTC Time 00:00
 
@@ -26,7 +26,7 @@ Available Validator Fund at time of proposal \~106k Stars stars1whjay3z7ww5zzhyd
 
     Includes 1 year plan for service costs of each validator All numbers mentioned are mere approximations subject to change with Stars price Incase option 5 is voted most, proposal will be acted upon in milestones (edited) \[2:45 AM]
 
-***
+
 
 Team's perspective: -Most important objective for us all should be to start generating rewards for DAO and GATA holders. The longer we wait, the more we miss. This is just the start, not the END! We also need to expand as is Cosmos every day. At the same time we need to be realistic, act smart and not just waste our funds/time/energy on unrealistic/unreasonable objectives. Look what we have, what we are doing and what we plan to do as a community. -Regarding Activation of validators, team is quite optimistic about delegation support from within community and through various future activities. All proposed validators if run and activated could generate rewards for each GATA equivalent of the GATA launch price per month. (Just an estimate, could be even lower or much higher) -The team has put extensive research and work behind this proposal and we feel this is the best for DAO and its objectives in every aspect at this time. -We are connected directly or indirectly to core teams of the above-proposed chains, in case we come across any issues we have the required support at our disposal.
 

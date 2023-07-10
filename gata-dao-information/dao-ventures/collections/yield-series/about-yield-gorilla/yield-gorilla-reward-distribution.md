@@ -4,6 +4,14 @@ description: Epoch record of YG collection
 
 # Yield Gorilla reward distribution
 
+## YG Epoch 4
+
+5th July 2023\
+\
+
+
+<figure><img src="../../../../../.gitbook/assets/0_-dCY079V42Qb1B0sjjjjjjjjj.webp" alt=""><figcaption><p>YG 4th Epoch</p></figcaption></figure>
+
 ## YG Epoch 3
 
 31st May 2023
