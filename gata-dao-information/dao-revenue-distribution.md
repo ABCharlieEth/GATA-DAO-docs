@@ -193,6 +193,8 @@ GATA DOA epoch 10 form 1st May 2023 - 31st May 2023. Where 1727/1887 eligible GA
 Total Atom Distributed: 175 Atom\
 Distribution Date: May 31, 2023
 
+{% file src="../.gitbook/assets/GATA_Epoch_10__YG_Epoch_3.txt" %}
+
 | Source                             | Total Atom generated  | Total USD @11/Atom |
 | ---------------------------------- | --------------------- | ------------------ |
 | Atom validator                     | 65.6 Atom             | 722 USD            |
@@ -207,5 +209,11 @@ Distribution Date: May 31, 2023
 | **Total**                          | **175 Atom**          | **1995 USD**       |
 
 \
+GATA DAO EPOCH 11
+-----------------
+
+GATA DOA epoch 11 form 1st June 2023 - 30th June 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.0.09/Atom/GATA. \
 \
+Total Atom Distributed: 155 Atom\
+Distribution Date: July 05, 2023\
 \
