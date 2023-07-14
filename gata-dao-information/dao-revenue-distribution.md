@@ -215,5 +215,21 @@ GATA DAO EPOCH 11
 GATA DOA epoch 11 form 1st June 2023 - 30th June 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.0.09/Atom/GATA. \
 \
 Total Atom Distributed: 155 Atom\
-Distribution Date: July 05, 2023\
+Distribution Date: July 05, 2023
+
 \
+\
+
+
+| Source                           | Total atom generated | Total USD @ 9/Atom |
+| -------------------------------- | -------------------- | ------------------ |
+| Atom Validator                   |                      |                    |
+| Evmos Validator                  |                      |                    |
+| Juno Validator                   |                      |                    |
+| Rebus Validator                  |                      |                    |
+| Teritori Validator               |                      |                    |
+| Osmosis Validator                |                      |                    |
+| Omniflix Validator               |                      |                    |
+| GATA DAO Treasury                |                      |                    |
+| Royalties + 0base.vc partnership |                      |                    |
+| **Total**                        |                      |                    |
