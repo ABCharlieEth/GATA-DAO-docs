@@ -223,13 +223,13 @@ Distribution Date: July 05, 2023
 
 | Source                           | Total atom generated | Total USD @ 9/Atom |
 | -------------------------------- | -------------------- | ------------------ |
-| Atom Validator                   |                      |                    |
-| Evmos Validator                  |                      |                    |
-| Juno Validator                   |                      |                    |
-| Rebus Validator                  |                      |                    |
-| Teritori Validator               |                      |                    |
-| Osmosis Validator                |                      |                    |
-| Omniflix Validator               |                      |                    |
-| GATA DAO Treasury                |                      |                    |
-| Royalties + 0base.vc partnership |                      |                    |
-| **Total**                        |                      |                    |
+| Atom Validator                   | 73.5 Atom            |                    |
+| Evmos Validator                  | 7.8 Atom             |                    |
+| Juno Validator                   | 4.8 Atom             |                    |
+| Rebus Validator                  | 2.5 Atom             |                    |
+| Teritori Validator               | 10.2 Atom            |                    |
+| Osmosis Validator                | 5.2 Atom             |                    |
+| Omniflix Validator               | 9.3 Atom             |                    |
+| GATA DAO Treasury                | 20 Atom              |                    |
+| Royalties + 0base.vc partnership | 11.7 Atom            |                    |
+| **Total**                        | 145 +10 Atom         |                    |
