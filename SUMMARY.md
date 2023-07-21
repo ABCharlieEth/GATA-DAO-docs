@@ -71,3 +71,7 @@
 
 * [ℹ Introduction to Cosmos](cosmos-ecosystem/introduction-to-cosmos.md)
 * [🔐 ICS](cosmos-ecosystem/ics.md)
+
+## 🎮 GATA Game
+
+* [AiG](gata-game/aig.md)
