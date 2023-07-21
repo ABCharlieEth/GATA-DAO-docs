@@ -13,7 +13,7 @@
       * [Origin of Voyagers](gata-dao-information/dao-ventures/collections/gata-series-dao-voting-rights/origin-of-voyagers.md)
     * [Yield series](gata-dao-information/dao-ventures/collections/non-gata-series/README.md)
       * [About Yield Gorilla](gata-dao-information/dao-ventures/collections/non-gata-series/yield-gorilla/README.md)
-        * [YGs Delegations](gata-dao-information/dao-ventures/collections/yield-series/about-yield-gorilla/ygs-delegations.md)
+        * [YG Delegations](gata-dao-information/dao-ventures/collections/yield-series/about-yield-gorilla/yg-delegations.md)
         * [YGs Reward Distribution](gata-dao-information/dao-ventures/collections/yield-series/about-yield-gorilla/ygs-reward-distribution.md)
     * [Souvenir Series](gata-dao-information/dao-ventures/collections/souvenir-series.md)
   * [GATA Validators](gata-dao-information/dao-ventures/validators-or-slash-protected.md)

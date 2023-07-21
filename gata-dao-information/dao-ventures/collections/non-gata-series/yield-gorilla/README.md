@@ -4,7 +4,7 @@ description: First of the yield series, Yield gorilla also calls YGs
 
 # About Yield Gorilla
 
-<figure><img src="../../../../../.gitbook/assets/collection-banner.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/collection-banner.jpg" alt=""><figcaption><p>YG Header</p></figcaption></figure>
 
 **Prologue**
 
