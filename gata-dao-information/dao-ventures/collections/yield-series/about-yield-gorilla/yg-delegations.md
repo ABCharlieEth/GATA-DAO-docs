@@ -55,4 +55,4 @@ Last updated July 8, 2023.&#x20;
 
 
 
-<table><thead><tr><th width="172">Token/Network</th><th>Amount airdropped</th><th width="175">Amount distributed</th><th>Amount staked</th></tr></thead><tbody><tr><td>Arch/Archway</td><td>2000 Arch</td><td>1500 Arch</td><td>500 Arch</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="172">Token/Network</th><th>Amount airdropped</th><th width="175">Amount distributed</th><th>Amount staked</th></tr></thead><tbody><tr><td>ARCH/Archway</td><td>2000 ARCH</td><td>1500 ARCH</td><td><a href="https://www.mintscan.io/archway/transactions/8313BE9D21576ADD3CCAD8106B6A8A6C9A9CAE335941229E0078EFDA8641FD14">500 ARCH</a></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>

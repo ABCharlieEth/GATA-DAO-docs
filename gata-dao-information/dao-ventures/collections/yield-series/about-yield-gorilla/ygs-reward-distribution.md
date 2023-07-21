@@ -2,7 +2,7 @@
 description: Epoch record of YG collection
 ---
 
-# Yield Gorilla reward distribution
+# YGs Reward Distribution
 
 ## YG Epoch 4
 
@@ -18,7 +18,7 @@ description: Epoch record of YG collection
 
 {% file src="../../../../../.gitbook/assets/YG_3rd_Epoch.txt" %}
 
-<figure><img src="../../../../../.gitbook/assets/0_Gms7s9gwl2Evkaqn.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/0_Gms7s9gwl2Evkaqn.webp" alt=""><figcaption><p>YG 3rd epoch</p></figcaption></figure>
 
 ## YG Epoch 2
 
@@ -26,7 +26,7 @@ description: Epoch record of YG collection
 
 {% file src="../../../../../.gitbook/assets/YG_2nd_Epoch_Reward_list.txt" %}
 
-<figure><img src="../../../../../.gitbook/assets/gata-yg-rewards-2023-05-epoch-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/gata-yg-rewards-2023-05-epoch-2.png" alt=""><figcaption><p>YG 2nd epoch</p></figcaption></figure>
 
 ## YG Epoch 1
 
@@ -34,4 +34,4 @@ description: Epoch record of YG collection
 
 {% file src="../../../../../.gitbook/assets/YG_1st_Epoch_Reward_list.txt" %}
 
-<figure><img src="../../../../../.gitbook/assets/gata-yg-rewards-2023-04-epoch-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/gata-yg-rewards-2023-04-epoch-1.png" alt=""><figcaption><p>YG 1st epoch</p></figcaption></figure>
