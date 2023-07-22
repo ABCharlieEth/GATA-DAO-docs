@@ -217,19 +217,19 @@ GATA DOA epoch 11 form 1st June 2023 - 30th June 2023. Where 1727/1887 eligible 
 Total Atom Distributed: 155 Atom\
 Distribution Date: July 05, 2023
 
-\
-\
 
+
+{% file src="../.gitbook/assets/GATA_Epoch_11_YG_Epoch_4_distribution.txt" %}
 
 | Source                           | Total atom generated | Total USD @ 9/Atom |
 | -------------------------------- | -------------------- | ------------------ |
-| Atom Validator                   | 73.5 Atom            |                    |
-| Evmos Validator                  | 7.8 Atom             |                    |
-| Juno Validator                   | 4.8 Atom             |                    |
-| Rebus Validator                  | 2.5 Atom             |                    |
-| Teritori Validator               | 10.2 Atom            |                    |
-| Osmosis Validator                | 5.2 Atom             |                    |
-| Omniflix Validator               | 9.3 Atom             |                    |
-| GATA DAO Treasury                | 20 Atom              |                    |
-| Royalties + 0base.vc partnership | 11.7 Atom            |                    |
-| **Total**                        | 145 +10 Atom         |                    |
+| Atom Validator                   | 73.5 Atom            | 662 USD            |
+| Evmos Validator                  | 7.8 Atom             | 70 USD             |
+| Juno Validator                   | 4.8 Atom             | 43 USD             |
+| Rebus Validator                  | 2.5 Atom             | 23 USD             |
+| Teritori Validator               | 10.2 Atom            |  92 USD            |
+| Osmosis Validator                | 5.2 Atom             | 47 USD             |
+| Omniflix Validator               | 9.3 Atom             | 84 USD             |
+| GATA DAO Treasury                | 20 Atom              | 180 USD            |
+| Royalties + 0base.vc partnership | 11.7 Atom            | 105 USD            |
+| **Total**                        | **145 +10 Atom**     | **1395 USD**       |
