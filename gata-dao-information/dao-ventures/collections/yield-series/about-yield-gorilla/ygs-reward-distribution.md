@@ -6,9 +6,9 @@ description: Epoch record of YG collection
 
 ## YG Epoch 4
 
-5th July 2023\
-\
+5th July 2023
 
+{% file src="../../../../../.gitbook/assets/GATA_Epoch_11_YG_Epoch_4_distribution.txt" %}
 
 <figure><img src="../../../../../.gitbook/assets/0_-dCY079V42Qb1B0sjjjjjjjjj.webp" alt=""><figcaption><p>YG 4th Epoch</p></figcaption></figure>
 
