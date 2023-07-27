@@ -39,3 +39,7 @@ In summary, the process of writing a constitution with each governance proposal 
 ### GATA DAO Proposal 11
 
 [QmRNxuCzpwYaaat6C9DJgXiZkpeFmjvgQpzW2nGFS4LmV6](https://gateway.pinata.cloud/ipfs/QmRNxuCzpwYaaat6C9DJgXiZkpeFmjvgQpzW2nGFS4LmV6)
+
+## GATA DAO Proposal 12
+
+[QmQMtcEpuemJNqAMJqwAhBr92ih5exaoz9idxovKzENWgr](https://gateway.pinata.cloud/ipfs/QmQMtcEpuemJNqAMJqwAhBr92ih5exaoz9idxovKzENWgr)
