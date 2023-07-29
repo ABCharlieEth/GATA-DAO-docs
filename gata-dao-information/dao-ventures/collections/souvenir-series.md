@@ -42,4 +42,10 @@ All winners will be selected automatically. \
 100 Flix 10 winners 10 Flix each (\~20 USD) \
 [https://twitter.com/GataDaoZone/status/1670083887052242947?s=20](https://twitter.com/GataDaoZone/status/1670083887052242947?s=20)&#x20;
 
+**Second Monthly reward (July 2023)**
+
+Bought \~$100 worth of GALA x Omniflix launch souvenir to burn.  [https://omniflix.market/account/omniflix1dd7s79l4aghwssrnqagryj8ud38qmd9vjdsq6q/nfts](https://omniflix.market/account/omniflix1dd7s79l4aghwssrnqagryj8ud38qmd9vjdsq6q/nfts)\
+\
+
+
 </details>
