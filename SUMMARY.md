@@ -75,4 +75,5 @@
 
 ## 🎮 GATA Game
 
-* [AiG](gata-game/aig.md)
+* [Apes in Games — Rise of Apelandia](gata-game/apes-in-games-rise-of-apelandia.md)
+* [AiG NFT Collection](gata-game/aig-nft-collection.md)
