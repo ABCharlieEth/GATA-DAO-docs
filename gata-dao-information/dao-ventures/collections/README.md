@@ -38,6 +38,16 @@ _-Staking revenue from the Yield NFT_\
 [_More details about the Yield Series_ ](./#yield-series)
 {% endtab %}
 
+{% tab title="P2E" %}
+### What is Apes in Games? <a href="#b8d1" id="b8d1"></a>
+
+Apes in Games (AiG) is the beginning of an exciting journey and everyone minting them will be part of it: Not only can the NFTs of this collection be used as PFPs, but offer a bunch of other awesome utilities & perks:
+
+* Exclusive access to the game developed by GATA DAO (**ETA** **in Q4 2023**)
+* In-game perks (depending on the different traits of the AiG NFTs)
+* Additional surprises further down the road
+{% endtab %}
+
 {% tab title="Souvenir Series " %}
 GATA DAO is thrilled to announce that we will be celebrating the blockchain events in different style, by minting the related souvenirs.  These souvenirs will be designed to commemorate the particular event and serve as a symbol of our commitment to supporting promising projects in the blockchain space.\
 \
