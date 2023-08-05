@@ -8,11 +8,11 @@ description: Epoch record of YG collection
 
 3rd August 2023
 
-
-
 {% file src="../../../../../.gitbook/assets/YG epoch 5 distribution.txt" %}
+Epoch distribution&#x20;
+{% endfile %}
 
-{% file src="../../../../../.gitbook/assets/gata-yg-rewards-2023-08-epoch-5.jpg" %}
+<figure><img src="../../../../../.gitbook/assets/gata-yg-rewards-2023-08-epoch-5.jpg" alt=""><figcaption><p>Epoch 5</p></figcaption></figure>
 
 ## YG Epoch 4
 
