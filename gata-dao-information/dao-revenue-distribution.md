@@ -233,3 +233,10 @@ Distribution Date: July 05, 2023
 | GATA DAO Treasury                | 20 Atom              | 180 USD            |
 | Royalties + 0base.vc partnership | 11.7 Atom            | 105 USD            |
 | **Total**                        | **145 +10 Atom**     | **1395 USD**       |
+
+## GATA DAO EPOCH 12
+
+GATA DOA epoch 12 form 1st July 2023 - 31st July 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.0.075/Atom/GATA. \
+\
+Total Atom Distributed: 125 Atom\
+Distribution Date: August 03, 2023
