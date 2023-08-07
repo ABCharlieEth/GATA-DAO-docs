@@ -240,3 +240,16 @@ GATA DOA epoch 12 form 1st July 2023 - 31st July 2023. Where 1727/1887 eligible 
 \
 Total Atom Distributed: 125 Atom\
 Distribution Date: August 03, 2023
+
+| Source                           | Total Atom generated  | Total USD @ 9/Atom |
+| -------------------------------- | --------------------- | ------------------ |
+| Atom Validator                   | 68 Atom               | 612 USD            |
+| Evmos Validator                  | 6 Atom                | 54 USD             |
+| Juno Validator                   | 5 Atom                | 45 USD             |
+| Rebus Validator                  | 2 Atom                | 18 USD             |
+| Teritori Validator               | 9 Atom                | 81 USD             |
+| Osmosis Validator                | 5 Atom                | 45 USD             |
+| Omniflix Validator               | 4 Atom                | 36 USD             |
+| GATA DAO treasury                | 21 Atom               | 189 USD            |
+| Royalties + 0base.vc partnership | 5 Atom                | 45 USD             |
+| **Total**                        | **125 Atom + 5 Atom** | 1170 USD           |
