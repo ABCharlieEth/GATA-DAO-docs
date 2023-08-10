@@ -53,8 +53,18 @@ No matter their strength & courage, the following napalm bombardment took its to
 
 <details>
 
-<summary></summary>
+<summary>Nova &#x26; the Grey Apes - “Jupiter’s Fury”</summary>
 
+In the **Northern Archipelago,** the Grey Apes thrived amidst ice-capped mountains and sprawling tundras. The harsh conditions forged their adaptability and curiosity, yet their unpredictable environment engrained itself in the Grey Apes’ spirit. Led by their leader **Nova**, they excel in discovery, though sometimes struggle with consistency.
 
+On the towering plateau of the **Obsidian Ice Plate**, the Grey Apes discovered a mysterious portal leading to **Jupiter**. Stepping through the light, they faced Jupiter's tempests. Harnessing their technological prowess and skills, they tamed the gas giant's chaos quickly, unveiling the mysteries of the ancient biodomes that glittered in the dark around Jupiter.
+
+However, their cosmic explorations got disrupted by the **X Corporation**. Driven by reckless ambitions, the corporate leviathan's **deep-space miners** descended on Jupiter's moons like voracious locusts, heedless of ecological balance.
+
+Recognizing the impending danger, Nova rallied the Grey Apes for a daring mission to place a treacherous **self-replicating minefield** in Jupiter's outer orbit. As X Corps massive mining fleet neared Jupiter, **Nova's strategic brilliance** and his tribe's **technological prowess** melded into a symphony of defense. The ensuing clash was a dance of pulsating energy beams and cunning maneuvers, illuminated against the backdrop of Jupiter's ferocious storms.
+
+The Grey Apes' unwavering determination bore fruit, thwarting X Corps plundering aspirations. But amidst victory, a grim reality emerged like a dark specter, as **X had learned about Apelandia.** \
+\
+Haunted by the loss of captured kin and the looming threat of X Corps voracity, t**he Grey Apes returned through the portal**, resolved to safeguard their home from the approaching tempest of corporate exploitation.
 
 </details>
