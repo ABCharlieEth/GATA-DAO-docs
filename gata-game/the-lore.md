@@ -1,5 +1,5 @@
 ---
-description: The lore of AIG
+description: Apes in Games - Rise of Apelandia
 ---
 
 # The Lore
