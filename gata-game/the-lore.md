@@ -99,6 +99,32 @@ The Southern Archipelago, a realm of untamed allure, sprawls with dense jungles,
 
 At its heart lies the legendary Endless Hole, a testament to their industrious spirit and ancestral bonds. As a portal to Earth materialized, it propels the Apes from primal landscapes to an unforeseen cosmic destiny, where bravery melds with cosmic intrigue.
 
+
+
+## The Three Landmarks
+
+### **Obsidian Ice Plate (Landmark of the Northern Archipelago & Portal to Jupiter)**
+
+The Obsidian Ice Plate, a towering sentinel of the Northern Archipelago, isn't just a geological oddity. It serves as a symbol for the Grey Apes' resilience, as - amidst its frigid expanse - they honed adaptability and tamed unpredictability.&#x20;
+
+Standing for the Grey Apes’ tenacity and a testament to their ability to thrive in the harshest of conditions, this holy landmark encapsulates the very essence of their lineage's spirit.&#x20;
+
+Neither Nova nor any other Grey Ape was surprised when the portal to Jupiter formed on this altar of unpredictability, leading them to their fate among the stars.
+
+### **Black Lagoon (Landmark of the Equatorian Archipelago & Portal to Mars)**
+
+The Black Lagoon, nestled within the Equatorian Archipelago, isn't just a picturesque waterbody. For the Golden Apes, it's a sanctuary of reflection and wisdom, where they've sought solace amid lush jungles. Its timeless serenity has nurtured the Golden Ape’s affinity for guidance and unity.&#x20;
+
+Little did Solus and his band of wise apes know that this idyllic haven would be the portal to Mars, catapulting them from familiar shores into the depths of cosmic intrigue, forever intertwining their fate with the far-away red planet.
+
+### **Endless Hole (Landmark of the Southern Archipelago & Portal to Earth)**
+
+The Endless Hole, an ancient mining marvel within the Southern Archipelago, isn't merely a colossal excavation site. It's the bedrock of the Blue Apes' valor and unity, a testament to their unyielding strength.&#x20;
+
+Generations of toil beneath its depths forged the Blue Apes muscular might and resilience, while its cavernous expanse echoed with tales of loyalty and camaraderie. As a bastion of their heritage, it's a natural epicenter for their determination.&#x20;
+
+When the portal to Earth opened in one of the deepest shafts, Atlas and his brave warriors propelled from their familiar realm into a cosmic clash with huge repercussions for Apelandia.
+
 \
 
 
