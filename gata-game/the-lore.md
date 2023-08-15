@@ -77,7 +77,7 @@ Despite all odds and through their courage & wisdom, Solus and his crew managed 
 
 ## The Three Archipelagos
 
-**Northern Archipelago (Home of the Grey Apes)**
+## **Northern Archipelago (Home of the Grey Apes)**
 
 The Northern Archipelago, a realm of stark beauty, unfolds amidst ice-capped peaks and sprawling tundras. Harsh conditions sculpted the Grey Apes' adaptability and inquisitiveness, while the unpredictable environment became their defining backdrop.&#x20;
 
@@ -93,7 +93,7 @@ Wisdom blossoms under the nurturing embrace of equatorial warmth, shaping the Go
 
 Amidst this lush paradise, a portal to Mars beckons, ushering them from familiar splendor to the enigmatic cosmos.
 
-**Southern Archipelago (Home of the Blue Apes)**
+## **Southern Archipelago (Home of the Blue Apes)**
 
 The Southern Archipelago, a realm of untamed allure, sprawls with dense jungles, azure waters and cascading waterfalls. Here, the Blue Apes thrive, their muscular prowess and unity hewn from the challenges of this rugged paradise. Loyalty and unwavering courage define their essence, forged by a land that demands tenacity.&#x20;
 
@@ -103,7 +103,7 @@ At its heart lies the legendary Endless Hole, a testament to their industrious s
 
 ## The Three Landmarks
 
-### **Obsidian Ice Plate (Landmark of the Northern Archipelago & Portal to Jupiter)**
+## **Obsidian Ice Plate (Landmark of the Northern Archipelago & Portal to Jupiter)**
 
 The Obsidian Ice Plate, a towering sentinel of the Northern Archipelago, isn't just a geological oddity. It serves as a symbol for the Grey Apes' resilience, as - amidst its frigid expanse - they honed adaptability and tamed unpredictability.&#x20;
 
@@ -111,13 +111,13 @@ Standing for the Grey Apes’ tenacity and a testament to their ability to thriv
 
 Neither Nova nor any other Grey Ape was surprised when the portal to Jupiter formed on this altar of unpredictability, leading them to their fate among the stars.
 
-### **Black Lagoon (Landmark of the Equatorian Archipelago & Portal to Mars)**
+## **Black Lagoon (Landmark of the Equatorian Archipelago & Portal to Mars)**
 
 The Black Lagoon, nestled within the Equatorian Archipelago, isn't just a picturesque waterbody. For the Golden Apes, it's a sanctuary of reflection and wisdom, where they've sought solace amid lush jungles. Its timeless serenity has nurtured the Golden Ape’s affinity for guidance and unity.&#x20;
 
 Little did Solus and his band of wise apes know that this idyllic haven would be the portal to Mars, catapulting them from familiar shores into the depths of cosmic intrigue, forever intertwining their fate with the far-away red planet.
 
-### **Endless Hole (Landmark of the Southern Archipelago & Portal to Earth)**
+## **Endless Hole (Landmark of the Southern Archipelago & Portal to Earth)**
 
 The Endless Hole, an ancient mining marvel within the Southern Archipelago, isn't merely a colossal excavation site. It's the bedrock of the Blue Apes' valor and unity, a testament to their unyielding strength.&#x20;
 
