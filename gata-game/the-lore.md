@@ -75,6 +75,12 @@ Despite all odds and through their courage & wisdom, Solus and his crew managed 
 
 
 
+## Strength and weaknesses&#x20;
+
+
+
+<figure><img src="../.gitbook/assets/AiG-lineages-overview-v2.jpg" alt=""><figcaption></figcaption></figure>
+
 ## The Three Archipelagos
 
 ## **Northern Archipelago (Home of the Grey Apes)**
