@@ -1,14 +1,24 @@
 ---
-description: Apes in Games - Rise of Apelandia
+description: The Lore of Apes in Games - Rise of Apelandia
 ---
 
-# The Lore
+# AiG Lore
 
-### Apes in Games - Rise of Apelandia
+### Planet Apelandia - The Three Archipelagos
 
-* Northern Archipelago: coldest regions of Apelandia, the only archipelago with actual ice on Apelandia, home of the [Grey Apes](the-lore.md#nova-and-the-grey-apes-jupiters-fury)
-* Equatorial Archipelago: tropical islands filled with jungles and all kinds of creatures & resources, home of the [Golden Apes](the-lore.md#solus-and-golden-apes-dirty-martian-dust)
-* Southern Archipelago: biggest mining region of Apelandia with valuable minerals, home of the [Blue Apes](the-lore.md#atlas-and-blue-apes-amazonian-jungle-fever)
+Apelandia is an **ocean planet** that consists of **3 main archipelagos**:
+
+* [Northern Archipelago](aig-lore.md#northern-archipelago-home-of-the-grey-apes): The Northern Archipelago contains the coldest regions of Apelandia and is the only archipelago with actual ice on Apelandia - the home of the [Grey Apes](aig-lore.md#nova-and-the-grey-apes-jupiters-fury). In the north of the archipelago, a _portal to Jupiter_ is located at the [Obsidian Ice Plate](aig-lore.md#obsidian-ice-plate-landmark-of-the-northern-archipelago-and-portal-to-jupiter).
+* [Equatorian Archipelago](aig-lore.md#equatorian-archipelago-home-of-the-golden-apes): The Equatorian Archipelago is filled with tropical islands, dense jungles and all kinds of creatures & natural resources - the home of the [Golden Apes](aig-lore.md#solus-and-the-golden-apes-dirty-martian-dust). Close to the center of the archipelago, a _portal to Mars_ is located in the [Black Lagoon](aig-lore.md#black-lagoon-landmark-of-the-equatorian-archipelago-and-portal-to-mars).
+* [Southern Archipelago](aig-lore.md#southern-archipelago-home-of-the-blue-apes): The Southern Archipelago is the biggest mining region on Apelandia, filled with valuable minerals and rare earths - the home of the [Blue Apes](aig-lore.md#atlas-and-the-blue-apes-amazonian-jungle-fever). In one of the oldest mining regions of the archipelago, a _portal to Earth_ is located within the [Endless Hole](aig-lore.md#endless-hole-landmark-of-the-southern-archipelago-and-portal-to-earth).&#x20;
+
+<figure><img src="../.gitbook/assets/AiG-map-apelandia-1.2b.jpg" alt=""><figcaption><p>Map of planet Apelandia and its three main archipelagos</p></figcaption></figure>
+
+### The Three Lineages & Their Leaders
+
+Take a look in the lore and backstories of the three lineages and their respective leaders:
+
+<figure><img src="../.gitbook/assets/AiG-lineages-lore-extended-grey-apes-v2-w-nova.jpg" alt=""><figcaption><p>Intro to the lore of the Grey Apes</p></figcaption></figure>
 
 <details>
 
@@ -28,30 +38,13 @@ Haunted by the loss of captured kin and the looming threat of X Corps voracity, 
 
 </details>
 
-<details>
 
-<summary>Atlas &#x26; Blue Apes - “Amazonian Jungle Fever”</summary>
 
-In the thick jungles and azure waters of the **Southern Archipelago**, generations of hunters and miners turned the Blue Apes into the most muscular Apes of Apelandia. Yet, their impatience and emotional outbursts are as challenging as their oftentimes limited intellect. Led by their leader **Atlas**, their courage shines, though tempered by occasional recklessness.
-
-At the center of the thick jungles of the Blue Apes’ archipelago lies the **Endless Hole**, considered to be the oldest mining facility on **Apelandia.** There had been stories about mysterious phenomena in the depths of this landmark for ages already, so the Blue Apes were not surprised when an actual portal to the stars appeared in one of its lowest shafts.
-
-Atlas assembled a crew to venture forth, ready to face the unknown. The portal led them straight to the far-away **Earth** into the vast jungles of the Amazon. It felt almost like home - the vegetation as dense as rich, so strange, yet familiar.
-
-It didn’t take long till the Blue Apes discovered that the Amazon had its own boundaries, not set by nature, but by corporate greed though. They witnessed how **X Corporation’s pioneer squads** burned down hills full of trees and wildlife with huge **flamethrower tanks.** Neither Atlas nor his Blue Apes had ever witnessed such environmental devastation before. Filled with anger, they decided to take a stand.
-
-Utilizing their **incredible strength & strategic minds** to strike at the heart of X Corps in the Amazon, the Apes started a fierce battle. Ripping apart the pioneer’s of the corporate world.
-
-Their following victory celebration between burned-out tanks didn’t last long though, as the Apes were not aware that their actions triggered alerts in every military installation across South America and that **drone swarms** were already approaching their position.
-
-\
-No matter their strength & courage, the following napalm bombardment took its toll, forcing the **Blue Apes’ retreat to Apelandia** with the threat of X looming right behind them.
-
-</details>
+<figure><img src="../.gitbook/assets/AiG-lineages-lore-extended-golden-apes-v2-w-solus.jpg" alt=""><figcaption><p>Intro to the lore of the Blue Apes</p></figcaption></figure>
 
 <details>
 
-<summary>Solus &#x26; Golden Apes - “Dirty Martian Dust”</summary>
+<summary>Solus &#x26; the Golden Apes - “Dirty Martian Dust”</summary>
 
 
 
@@ -75,15 +68,44 @@ Despite all odds and through their courage & wisdom, Solus and his crew managed 
 
 
 
-## Strength and weaknesses&#x20;
+<figure><img src="../.gitbook/assets/AiG-lineages-lore-extended-blue-apes-v2-w-atlas.jpg" alt=""><figcaption><p>Intro to the lore of the Blue Apes</p></figcaption></figure>
+
+<details>
+
+<summary>Atlas &#x26; the Blue Apes - “Amazonian Jungle Fever”</summary>
+
+In the thick jungles and azure waters of the **Southern Archipelago**, generations of hunters and miners turned the Blue Apes into the most muscular Apes of Apelandia. Yet, their impatience and emotional outbursts are as challenging as their oftentimes limited intellect. Led by their leader **Atlas**, their courage shines, though tempered by occasional recklessness.
+
+At the center of the thick jungles of the Blue Apes’ archipelago lies the **Endless Hole**, considered to be the oldest mining facility on **Apelandia.** There had been stories about mysterious phenomena in the depths of this landmark for ages already, so the Blue Apes were not surprised when an actual portal to the stars appeared in one of its lowest shafts.
+
+Atlas assembled a crew to venture forth, ready to face the unknown. The portal led them straight to the far-away **Earth** into the vast jungles of the Amazon. It felt almost like home - the vegetation as dense as rich, so strange, yet familiar.
+
+It didn’t take long till the Blue Apes discovered that the Amazon had its own boundaries, not set by nature, but by corporate greed though. They witnessed how **X Corporation’s pioneer squads** burned down hills full of trees and wildlife with huge **flamethrower tanks.** Neither Atlas nor his Blue Apes had ever witnessed such environmental devastation before. Filled with anger, they decided to take a stand.
+
+Utilizing their **incredible strength & strategic minds** to strike at the heart of X Corps in the Amazon, the Apes started a fierce battle. Ripping apart the pioneer’s of the corporate world.
+
+Their following victory celebration between burned-out tanks didn’t last long though, as the Apes were not aware that their actions triggered alerts in every military installation across South America and that **drone swarms** were already approaching their position.
+
+\
+No matter their strength & courage, the following napalm bombardment took its toll, forcing the **Blue Apes’ retreat to Apelandia** with the threat of X looming right behind them.
+
+</details>
 
 
 
-<figure><img src="../.gitbook/assets/AiG-lineages-overview-v2.jpg" alt=""><figcaption></figcaption></figure>
+#### Strengths & Weaknesses of the Three Lineages
+
+<figure><img src="../.gitbook/assets/AiG-lineages-overview-v2.jpg" alt=""><figcaption><p>Overview of all strengths &#x26; weaknesses of the three lineages of the Apes of Apelandia</p></figcaption></figure>
+
+
 
 ### The Three Archipelagos
 
-#### **Northern Archipelago (Home of the Grey Apes)**
+<figure><img src="../.gitbook/assets/AiG-lineages-separate-Grey-Apes-1.2-w-nova.jpg" alt="" width="563"><figcaption><p>Northern Archipelago is home of the <a href="aig-lore.md#nova-and-the-grey-apes-jupiters-fury">Grey Apes</a> &#x26; their leader Nova</p></figcaption></figure>
+
+<details>
+
+<summary>Northern Archipelago (Home of the Grey Apes)</summary>
 
 The Northern Archipelago, a realm of stark beauty, unfolds amidst ice-capped peaks and sprawling tundras. Harsh conditions sculpted the Grey Apes' adaptability and inquisitiveness, while the unpredictable environment became their defining backdrop.&#x20;
 
@@ -91,7 +113,15 @@ Unique in its dramatic contrasts, this land of extremes propelled the Grey Apes 
 
 Amidst this awe-inspiring tableau stands the Obsidian Ice Plate, a sentinel and symbol of their resilience and the gateway to Jupiter.
 
-#### **Equatorian Archipelago (Home of the Golden Apes)**
+</details>
+
+
+
+<figure><img src="../.gitbook/assets/AiG-lineages-separate-Golden-Apes-1.2-w-solus.jpg" alt="" width="563"><figcaption><p>Equatorian Archipelago is home of the <a href="aig-lore.md#solus-and-the-golden-apes-dirty-martian-dust">Golden Apes</a> &#x26; their leader Solus</p></figcaption></figure>
+
+<details>
+
+<summary>Equatorian Archipelago (Home of the Golden Apes)</summary>
 
 The Equatorian Archipelago is a tapestry of vibrant life, graced with tropical paradises and azure waters. Here, the Golden Apes find harmony amid the sun-dappled shores, their existence intertwined with abundant landscapes and tropical resources.&#x20;
 
@@ -99,17 +129,33 @@ Wisdom blossoms under the nurturing embrace of equatorial warmth, shaping the Go
 
 Amidst this lush paradise, a portal to Mars beckons, ushering them from familiar splendor to the enigmatic cosmos.
 
-#### **Southern Archipelago (Home of the Blue Apes)**
+</details>
+
+
+
+<figure><img src="../.gitbook/assets/AiG-lineages-separate-Blue-Apes-1.2-w-atlas.jpg" alt="" width="563"><figcaption><p>Southern Archipelago is home of the <a href="aig-lore.md#atlas-and-the-blue-apes-amazonian-jungle-fever">Blue Apes</a> &#x26; their leader Atlas</p></figcaption></figure>
+
+<details>
+
+<summary>Southern Archipelago (Home of the Blue Apes)</summary>
 
 The Southern Archipelago, a realm of untamed allure, sprawls with dense jungles, azure waters and cascading waterfalls. Here, the Blue Apes thrive, their muscular prowess and unity hewn from the challenges of this rugged paradise. Loyalty and unwavering courage define their essence, forged by a land that demands tenacity.&#x20;
 
 At its heart lies the legendary Endless Hole, a testament to their industrious spirit and ancestral bonds. As a portal to Earth materialized, it propels the Apes from primal landscapes to an unforeseen cosmic destiny, where bravery melds with cosmic intrigue.
 
+</details>
+
 
 
 ### The Three Landmarks
 
-#### **Obsidian Ice Plate (Landmark of the Northern Archipelago & Portal to Jupiter)**
+
+
+<figure><img src="../.gitbook/assets/Grey-Apes-Obsidian-Ice-Plate.jpeg" alt="" width="375"><figcaption><p>Obsidian Ice Plate in the <a href="aig-lore.md#northern-archipelago-home-of-the-grey-apes">Northern Archipelago</a></p></figcaption></figure>
+
+<details>
+
+<summary>Obsidian Ice Plate (Landmark of the Northern Archipelago &#x26; Portal to Jupiter)</summary>
 
 The Obsidian Ice Plate, a towering sentinel of the Northern Archipelago, isn't just a geological oddity. It serves as a symbol for the Grey Apes' resilience, as - amidst its frigid expanse - they honed adaptability and tamed unpredictability.&#x20;
 
@@ -117,13 +163,29 @@ Standing for the Grey Apes’ tenacity and a testament to their ability to thriv
 
 Neither Nova nor any other Grey Ape was surprised when the portal to Jupiter formed on this altar of unpredictability, leading them to their fate among the stars.
 
-#### **Black Lagoon (Landmark of the Equatorian Archipelago & Portal to Mars)**
+</details>
+
+####
+
+<figure><img src="../.gitbook/assets/Golden-Apes-Black-Lagoon.jpeg" alt="" width="375"><figcaption><p>Black Lagoon in the <a href="aig-lore.md#equatorian-archipelago-home-of-the-golden-apes">Equatorian Archipelago</a></p></figcaption></figure>
+
+<details>
+
+<summary>Black Lagoon (Landmark of the Equatorian Archipelago &#x26; Portal to Mars)</summary>
 
 The Black Lagoon, nestled within the Equatorian Archipelago, isn't just a picturesque waterbody. For the Golden Apes, it's a sanctuary of reflection and wisdom, where they've sought solace amid lush jungles. Its timeless serenity has nurtured the Golden Ape’s affinity for guidance and unity.&#x20;
 
 Little did Solus and his band of wise apes know that this idyllic haven would be the portal to Mars, catapulting them from familiar shores into the depths of cosmic intrigue, forever intertwining their fate with the far-away red planet.
 
-#### **Endless Hole (Landmark of the Southern Archipelago & Portal to Earth)**
+</details>
+
+####
+
+<figure><img src="../.gitbook/assets/Blue-Apes-Endless-Hole.jpeg" alt="" width="375"><figcaption><p>Endless Hole in the <a href="aig-lore.md#southern-archipelago-home-of-the-blue-apes">Southern Archipelago</a></p></figcaption></figure>
+
+<details>
+
+<summary>Endless Hole (Landmark of the Southern Archipelago &#x26; Portal to Earth)</summary>
 
 The Endless Hole, an ancient mining marvel within the Southern Archipelago, isn't merely a colossal excavation site. It's the bedrock of the Blue Apes' valor and unity, a testament to their unyielding strength.&#x20;
 
@@ -131,6 +193,4 @@ Generations of toil beneath its depths forged the Blue Apes muscular might and r
 
 When the portal to Earth opened in one of the deepest shafts, Atlas and his brave warriors propelled from their familiar realm into a cosmic clash with huge repercussions for Apelandia.
 
-\
-
-
+</details>

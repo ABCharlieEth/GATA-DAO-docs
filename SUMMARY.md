@@ -77,4 +77,4 @@
 
 * [Apes in Games — Rise of Apelandia](gata-game/apes-in-games-rise-of-apelandia.md)
 * [AiG NFT Collection](gata-game/aig-nft-collection.md)
-* [The Lore](gata-game/the-lore.md)
+* [AiG Lore](gata-game/aig-lore.md)
