@@ -173,6 +173,8 @@ Total Atom Distributed: 208 Atom\
 Distribution Date: May 2, 2023
 
 {% file src="../.gitbook/assets/GATA_epoch_9_reward_list.txt" %}
+Epoch 9
+{% endfile %}
 
 | Source                         | Total Atom generated | Total USD @12/Atom |
 | ------------------------------ | -------------------- | ------------------ |
@@ -194,6 +196,8 @@ Total Atom Distributed: 175 Atom\
 Distribution Date: May 31, 2023
 
 {% file src="../.gitbook/assets/GATA_Epoch_10__YG_Epoch_3.txt" %}
+Epoch 10
+{% endfile %}
 
 | Source                             | Total Atom generated  | Total USD @11/Atom |
 | ---------------------------------- | --------------------- | ------------------ |
@@ -220,6 +224,8 @@ Distribution Date: July 05, 2023
 
 
 {% file src="../.gitbook/assets/GATA_Epoch_11_YG_Epoch_4_distribution.txt" %}
+Epoch 11
+{% endfile %}
 
 | Source                           | Total atom generated | Total USD @ 9/Atom |
 | -------------------------------- | -------------------- | ------------------ |
@@ -241,6 +247,10 @@ GATA DOA epoch 12 form 1st July 2023 - 31st July 2023. Where 1727/1887 eligible 
 Total Atom Distributed: 125 Atom\
 Distribution Date: August 03, 2023
 
+{% file src="../.gitbook/assets/GATA Epoch 12 distribution.txt" %}
+GATA DAO Epoch 12
+{% endfile %}
+
 | Source                           | Total Atom generated  | Total USD @ 9/Atom |
 | -------------------------------- | --------------------- | ------------------ |
 | Atom Validator                   | 68 Atom               | 612 USD            |
@@ -253,3 +263,9 @@ Distribution Date: August 03, 2023
 | GATA DAO treasury                | 21 Atom               | 189 USD            |
 | Royalties + 0base.vc partnership | 5 Atom                | 45 USD             |
 | **Total**                        | **125 Atom + 5 Atom** | 1170 USD           |
+
+
+
+## GATA DAO EPOCH 13
+
+GATA DOA epoch 13 form 1st AUG 2023 - 31st AUG 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned-/Atom/GATA.&#x20;
