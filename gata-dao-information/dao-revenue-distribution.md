@@ -268,4 +268,13 @@ GATA DAO Epoch 12
 
 ## GATA DAO EPOCH 13
 
-GATA DOA epoch 13 form 1st AUG 2023 - 31st AUG 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned-/Atom/GATA.&#x20;
+GATA DOA epoch 13 form 1st AUG 2023 - 31st AUG 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.0.075/Atom/GATA. \
+\
+Total Atom Distributed: 130 Atom\
+Distribution Date: September 01, 2023
+
+
+
+{% file src="../.gitbook/assets/GATA distribution Epoch 13.txt" %}
+GATA Epoch 13
+{% endfile %}
