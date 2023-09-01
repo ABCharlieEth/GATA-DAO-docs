@@ -4,6 +4,12 @@ description: Epoch record of YG collection
 
 # YGs Reward Distribution
 
+## YG Epoch 6
+
+1st September 2023
+
+{% file src="../../../../../.gitbook/assets/YG distribution Epoch 6.txt" %}
+
 ## YG Epoch 5
 
 3rd August 2023
