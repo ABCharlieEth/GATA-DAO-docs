@@ -273,8 +273,21 @@ GATA DOA epoch 13 form 1st AUG 2023 - 31st AUG 2023. Where 1727/1887 eligible GA
 Total Atom Distributed: 130 Atom\
 Distribution Date: September 01, 2023
 
-
-
 {% file src="../.gitbook/assets/GATA distribution Epoch 13.txt" %}
 GATA Epoch 13
 {% endfile %}
+
+
+
+| Source                           | Total Atom generated | Total USD @ 7/Atom |
+| -------------------------------- | -------------------- | ------------------ |
+| Atom Validator                   |                      |                    |
+| Evmos Validator                  |                      |                    |
+| Juno Validator                   |                      |                    |
+| Teritori Validator               |                      |                    |
+| Osmosis Validator                |                      |                    |
+| Omniflix Validator               |                      |                    |
+| Archway Validator                |                      |                    |
+| GATA DAO treasury                |                      |                    |
+| Royalties + 0base.vc partnership |                      |                    |
+| **Total**                        | **130 Atom**         | **910 USD**        |
