@@ -29,3 +29,9 @@ Target address: stars1eewzan3pa6ta7jr83sqzujsgnaupkfs67e0ew3
 
 Voting start time : 27 JULY 2023 8:45 pm UTC \
 Voting end time : 30 JULY 2023 8:45 pm UTC
+
+
+
+## Result
+
+Governance prop 12 passed in favor of shutting down rebus validator. Executed on 21 Aug 2023.
