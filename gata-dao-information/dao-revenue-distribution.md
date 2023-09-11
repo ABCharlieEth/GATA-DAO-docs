@@ -277,17 +277,15 @@ Distribution Date: September 01, 2023
 GATA Epoch 13
 {% endfile %}
 
-
-
 | Source                           | Total Atom generated | Total USD @ 7/Atom |
 | -------------------------------- | -------------------- | ------------------ |
-| Atom Validator                   |                      |                    |
-| Evmos Validator                  |                      |                    |
-| Juno Validator                   |                      |                    |
-| Teritori Validator               |                      |                    |
-| Osmosis Validator                |                      |                    |
-| Omniflix Validator               |                      |                    |
-| Archway Validator                |                      |                    |
-| GATA DAO treasury                |                      |                    |
-| Royalties + 0base.vc partnership |                      |                    |
+| Atom Validator                   | 65 $Atom             | 455 USD            |
+| Evmos Validator                  | 5.2 $Atom            | 36 USD             |
+| Juno Validator                   | 3.25 $Atom           | 22 USD             |
+| Teritori Validator               | 6.6 $Atom            | 46 USD             |
+| Osmosis Validator                | 4.4 $Atom            | 30 USD             |
+| Omniflix Validator               | 3.25 $Atom           | 22 USD             |
+| Archway Validator                | 12 $Atom             | 84 USD             |
+| GATA DAO treasury                | 24.3 $Atom           | 170 USD            |
+| Royalties + 0base.vc partnership | 6 $Atom              | 42 USD             |
 | **Total**                        | **130 Atom**         | **910 USD**        |
