@@ -38,8 +38,8 @@ All winners will be selected automatically. \
 
 ### First Monthly rewards (June 2023)
 
-10 YG neat/elemental 10 winners (\~80 USD)\
-100 Flix 10 winners 10 Flix each (\~20 USD) \
+10 YG neat/elemental 10 winners \
+100 Flix 10 winners 10 Flix each  \
 [https://twitter.com/GataDaoZone/status/1670083887052242947?s=20](https://twitter.com/GataDaoZone/status/1670083887052242947?s=20)&#x20;
 
 ### **Second Monthly rewards (July 2023)**
@@ -47,6 +47,9 @@ All winners will be selected automatically. \
 Bought \~$100 worth of GALA x Omniflix launch souvenir to burn.  [https://omniflix.market/account/omniflix1dd7s79l4aghwssrnqagryj8ud38qmd9vjdsq6q/nfts](https://omniflix.market/account/omniflix1dd7s79l4aghwssrnqagryj8ud38qmd9vjdsq6q/nfts)
 
 ### Third Monthly rewards (August 2023)
+
+1x 10 AiG\
+20x 10 ARCH
 
 [https://twitter.com/GataDaoZone/status/1691383512371286017?s=20](https://twitter.com/GataDaoZone/status/1691383512371286017?s=20)
 
