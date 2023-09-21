@@ -26,11 +26,8 @@
 
 ## 🛣 GATA DAO Road Map
 
-* [Road Map - Phase 1](gata-dao-road-map/road-map-phase-1/README.md)
-  * [Foundation of DAO (Q1 2022)](gata-dao-road-map/road-map-phase-1/foundation-of-dao-q1-2022.md)
-  * [Formation of DAO (Q2 2022)](gata-dao-road-map/road-map-phase-1/formation-of-dao-q2-2022.md)
-  * [Expansion of DAO (Q2-Q4 2022)](gata-dao-road-map/road-map-phase-1/expansion-of-dao-q2-q4-2022.md)
-* [Road Map - Phase 2](gata-dao-road-map/road-map-phase-2.md)
+* [Phase 1 (completed)](gata-dao-road-map/phase-1.md)
+* [Phase 2 (in progress)](gata-dao-road-map/phase-2.md)
 
 ***
 
