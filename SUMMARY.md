@@ -35,16 +35,7 @@
 
 ***
 
-* [⁉ FAQs](faqs/README.md)
-  * [What is GATA DAO?](faqs/what-is-gata-dao.md)
-  * [What are colonial Cats?](faqs/what-are-colonial-cats.md)
-  * [What are the benefits of holding GATA NFT?](faqs/what-are-the-benefits-of-holding-gata-nft.md)
-  * [What are the benefits of OGs?](faqs/what-are-the-benefits-of-ogs.md)
-  * [How to Become OG GATA?](faqs/how-to-become-og-gata.md)
-  * [Categories of DAO NFTs?](faqs/categories-of-dao-nfts.md)
-  * [Total supply of GATA Series NFT?](faqs/total-supply-of-gata-series-nft.md)
-  * [When is DAO revenue distributed?](faqs/when-is-dao-revenue-distributed.md)
-  * [GATA Price?](faqs/gata-price.md)
+* [⁉ GATA DAO FAQs](faqs.md)
 * [📜 GATA Paper](gata-paper.md)
 * [⚖ GATA Constitution](gata-constitution/README.md)
   * [Governance proposal 1](gata-constitution/governance-proposal-1.md)
