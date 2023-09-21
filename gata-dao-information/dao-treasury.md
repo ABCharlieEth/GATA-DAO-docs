@@ -7,7 +7,11 @@ description: Total assets/tokens present in the DAO treasury.
 ### Tokens held in the GATA DAO treasury
 
 {% hint style="info" %}
-Treasury figures last updated Sep 3, 2023
+Treasury balances last updated Sep 18, 2023
+{% endhint %}
+
+{% hint style="info" %}
+Approximate value of treasury $22K USD
 {% endhint %}
 
 The complete list and detail of assets Staked or liquid in DAO Treasury is as follows
