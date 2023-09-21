@@ -23,11 +23,15 @@
 * [💱 DAO Revenue](about-gata-dao/dao-revenue.md)
 * [💰 DAO Treasury ](about-gata-dao/dao-treasury.md)
 * [💵 DAO Revenue Distribution](about-gata-dao/dao-revenue-distribution.md)
+* [📻 Road Map](about-gata-dao/road-map/README.md)
+  * [Phase 1 (completed)](about-gata-dao/road-map/phase-1-completed.md)
+  * [Phase 2 (WIP)](about-gata-dao/road-map/phase-2-wip.md)
 
-## 🛣 GATA DAO Road Map
+## 🔯 Cosmos ecosystem
 
-* [Phase 1 (completed)](gata-dao-road-map/phase-1.md)
-* [Phase 2 (in progress)](gata-dao-road-map/phase-2.md)
+* [ℹ Introduction to Cosmos](cosmos-ecosystem/introduction-to-cosmos.md)
+* [⁉ How to Cosmos](cosmos-ecosystem/how-to-cosmos.md)
+* [🔐 ICS](cosmos-ecosystem/ics.md)
 
 ***
 
@@ -63,11 +67,6 @@
 * [GATA Diary](whats-cooking-in-dao-community/gata-diary/README.md)
   * [November 10, 2022](whats-cooking-in-dao-community/gata-diary/november-10-2022.md)
   * [December 20, 2022](whats-cooking-in-dao-community/gata-diary/december-20-2022.md)
-
-## 🔯 Cosmos ecosystem
-
-* [ℹ Introduction to Cosmos](cosmos-ecosystem/introduction-to-cosmos.md)
-* [🔐 ICS](cosmos-ecosystem/ics.md)
 
 ## 🎮 GATA Game
 

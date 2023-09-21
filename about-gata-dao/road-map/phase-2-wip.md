@@ -1,10 +1,6 @@
----
-description: to do
----
+# Phase 2 (WIP)
 
-# Road Map - Phase 2
-
-## &#x20;Launch of DAO Token&#x20;
+## Launch of DAO Token&#x20;
 
 Token value will be derived by the DAO treasury.&#x20;
 
