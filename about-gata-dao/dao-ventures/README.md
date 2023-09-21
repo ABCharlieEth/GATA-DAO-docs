@@ -6,6 +6,6 @@ description: >-
 
 # 🎯 DAO Ventures
 
-* [GATA DAO Validators](validators-or-slash-protected.md)
-* [GATA DAO NFT collections](collections/)
+* [GATA DAO Validators](gata-validators/)
+* [GATA DAO NFT collections](nft-collections/)
 * [Staking and Delegations ](gata-staking-delegations.md) &#x20;

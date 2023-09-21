@@ -1,29 +1,28 @@
 # Table of contents
 
-* [🐈⬛ About GATA DAO](README.md)
+* [🐈⬛ What is GATA DAO?](README.md)
   * [Useful links](https://linktr.ee/gatadao)
 
-## 📌 GATA DAO Information
+## 📌 About GATA DAO&#x20;
 
-* [⛽ DAO Objectives](gata-dao-information/dao-objectives.md)
-* [🎯 DAO Ventures](gata-dao-information/dao-ventures/README.md)
-  * [Collections](gata-dao-information/dao-ventures/collections/README.md)
-    * [GATA series (DAO Voting rights)](gata-dao-information/dao-ventures/collections/gata-series-dao-voting-rights/README.md)
-      * [Origin of γάτα](gata-dao-information/dao-ventures/collections/gata-series-dao-voting-rights/origin-of-gata.md)
-      * [Origin of Voyagers](gata-dao-information/dao-ventures/collections/gata-series-dao-voting-rights/origin-of-voyagers.md)
-    * [Yield series](gata-dao-information/dao-ventures/collections/non-gata-series/README.md)
-      * [About Yield Gorilla](gata-dao-information/dao-ventures/collections/non-gata-series/yield-gorilla/README.md)
-        * [YG Delegations](gata-dao-information/dao-ventures/collections/yield-series/about-yield-gorilla/yg-delegations.md)
-        * [YGs Reward Distribution](gata-dao-information/dao-ventures/collections/yield-series/about-yield-gorilla/ygs-reward-distribution.md)
-    * [Souvenir Series](gata-dao-information/dao-ventures/collections/souvenir-series.md)
-  * [GATA Validators](gata-dao-information/dao-ventures/validators-or-slash-protected.md)
-    * [Slash protection policy](gata-dao-information/dao-ventures/gata-validators/slash-protection-policy.md)
-    * [ICS Partner chains](gata-dao-information/dao-ventures/gata-validators/ics-partner-chains.md)
-    * [GATA testnet validator](gata-dao-information/dao-ventures/gata-validators/gata-testnet-validator.md)
-  * [GATA Staking/Delegations](gata-dao-information/dao-ventures/gata-staking-delegations.md)
-* [💱 DAO Revenue](gata-dao-information/dao-revenue.md)
-* [💰 DAO Treasury ](gata-dao-information/dao-treasury.md)
-* [💵 DAO Revenue Distribution](gata-dao-information/dao-revenue-distribution.md)
+* [🎯 DAO Ventures](about-gata-dao/dao-ventures/README.md)
+  * [NFT Collections](about-gata-dao/dao-ventures/nft-collections/README.md)
+    * [GATA series (DAO Voting rights)](about-gata-dao/dao-ventures/nft-collections/gata-series-dao-voting-rights/README.md)
+      * [Origin of γάτα](about-gata-dao/dao-ventures/nft-collections/gata-series-dao-voting-rights/origin-of-gata.md)
+      * [Origin of Voyagers](about-gata-dao/dao-ventures/nft-collections/gata-series-dao-voting-rights/origin-of-voyagers.md)
+    * [Yield series](about-gata-dao/dao-ventures/nft-collections/yield-series/README.md)
+      * [About Yield Gorilla](about-gata-dao/dao-ventures/nft-collections/yield-series/about-yield-gorilla/README.md)
+        * [YG Delegations](about-gata-dao/dao-ventures/nft-collections/yield-series/about-yield-gorilla/yg-delegations.md)
+        * [YGs Reward Distribution](about-gata-dao/dao-ventures/nft-collections/yield-series/about-yield-gorilla/ygs-reward-distribution.md)
+    * [Souvenir Series](about-gata-dao/dao-ventures/nft-collections/souvenir-series.md)
+  * [GATA Validators](about-gata-dao/dao-ventures/gata-validators/README.md)
+    * [Slash protection policy](about-gata-dao/dao-ventures/gata-validators/slash-protection-policy.md)
+    * [ICS Partner chains](about-gata-dao/dao-ventures/gata-validators/ics-partner-chains.md)
+    * [GATA testnet validator](about-gata-dao/dao-ventures/gata-validators/gata-testnet-validator.md)
+  * [GATA Staking/Delegations](about-gata-dao/dao-ventures/gata-staking-delegations.md)
+* [💱 DAO Revenue](about-gata-dao/dao-revenue.md)
+* [💰 DAO Treasury ](about-gata-dao/dao-treasury.md)
+* [💵 DAO Revenue Distribution](about-gata-dao/dao-revenue-distribution.md)
 
 ## 🛣 GATA DAO Road Map
 
