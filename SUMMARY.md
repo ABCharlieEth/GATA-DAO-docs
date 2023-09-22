@@ -31,7 +31,7 @@
 
 * [ℹ Introduction to Cosmos](cosmos-ecosystem/introduction-to-cosmos.md)
 * [⁉ How to Cosmos](cosmos-ecosystem/how-to-cosmos.md)
-* [What is Interchain?](cosmos-ecosystem/what-is-interchain/README.md)
+* [⛓ What is Interchain?](cosmos-ecosystem/what-is-interchain/README.md)
   * [A whole universe](cosmos-ecosystem/what-is-interchain/a-whole-universe.md)
   * [The Cosmos SDK](cosmos-ecosystem/what-is-interchain/the-cosmos-sdk.md)
   * [IBC](cosmos-ecosystem/what-is-interchain/ibc.md)
