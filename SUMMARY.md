@@ -30,16 +30,16 @@
 ## 🔯 Cosmos ecosystem
 
 * [ℹ Introduction to Cosmos](cosmos-ecosystem/introduction-to-cosmos.md)
-* [The Interchain Ecosystem](cosmos-ecosystem/the-interchain-ecosystem/README.md)
-  * [A whole universe](cosmos-ecosystem/the-interchain-ecosystem/a-whole-universe.md)
-  * [The Cosmos SDK](cosmos-ecosystem/the-interchain-ecosystem/the-cosmos-sdk.md)
-  * [IBC](cosmos-ecosystem/the-interchain-ecosystem/ibc.md)
-  * [Ignite CLI](cosmos-ecosystem/the-interchain-ecosystem/ignite-cli.md)
-  * [CosmWasm](cosmos-ecosystem/the-interchain-ecosystem/cosmwasm.md)
-  * [Frameworks and SDKs](cosmos-ecosystem/the-interchain-ecosystem/frameworks-and-sdks.md)
 * [⁉ How to Cosmos](cosmos-ecosystem/how-to-cosmos.md)
+* [What is Interchain?](cosmos-ecosystem/what-is-interchain/README.md)
+  * [A whole universe](cosmos-ecosystem/what-is-interchain/a-whole-universe.md)
+  * [The Cosmos SDK](cosmos-ecosystem/what-is-interchain/the-cosmos-sdk.md)
+  * [IBC](cosmos-ecosystem/what-is-interchain/ibc.md)
+  * [The Cosmos Hub](cosmos-ecosystem/what-is-interchain/the-cosmos-hub.md)
+  * [Ignite CLI](cosmos-ecosystem/what-is-interchain/ignite-cli.md)
+  * [CosmWasm](cosmos-ecosystem/what-is-interchain/cosmwasm.md)
+  * [Frameworks and SDKs](cosmos-ecosystem/what-is-interchain/frameworks-and-sdks.md)
 * [🔐 ICS](cosmos-ecosystem/ics.md)
-* [The Cosmos Hub](cosmos-ecosystem/the-cosmos-hub.md)
 
 ***
 
