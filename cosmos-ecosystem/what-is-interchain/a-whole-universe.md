@@ -17,3 +17,29 @@ Hundreds of applications and services build on the Interchain. Currently most ap
 While most applications and projects are deployed on the mainnet, some are currently either in proof of concept, still in development, or have been deployed to a testnet only.
 
 Moreover, [33 wallets](https://cosmos.network/ecosystem/wallets/) and block explorers for the Interchain are part of the ecosystem. Most are for Android, such as the [Atomic Wallet](https://atomicwallet.io/) and [Coinex](https://www.coinex.com/en/), or for iOS, like [AirGap](https://airgap.it/) and [Wallet.io](https://walletio.io/), but you can also find a number of web wallets like [Exodus](https://www.exodus.com/) and [Keplr](https://wallet.keplr.app/).
+
+
+
+<details>
+
+<summary><mark style="color:green;">Lesen Sie dies auf Deutsch</mark></summary>
+
+
+
+</details>
+
+<details>
+
+<summary><mark style="color:orange;">Lisez ceci en allemand</mark></summary>
+
+
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;">اقرأ هذا باللغة الألمانية</mark></summary>
+
+
+
+</details>
