@@ -22,7 +22,7 @@ Moreover, [33 wallets](https://cosmos.network/ecosystem/wallets/) and block expl
 
 <details>
 
-<summary><mark style="color:green;">Lesen Sie dies auf Deutsch</mark></summary>
+<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch</mark></summary>
 
 
 
@@ -30,7 +30,7 @@ Moreover, [33 wallets](https://cosmos.network/ecosystem/wallets/) and block expl
 
 <details>
 
-<summary><mark style="color:orange;">Lisez ceci en allemand</mark></summary>
+<summary><mark style="color:blue;">French - Lisez ceci en allemand</mark></summary>
 
 
 
@@ -38,7 +38,7 @@ Moreover, [33 wallets](https://cosmos.network/ecosystem/wallets/) and block expl
 
 <details>
 
-<summary><mark style="color:yellow;">اقرأ هذا باللغة الألمانية</mark></summary>
+<summary><mark style="color:blue;">اقرأ هذا باللغة الألمانية - Arabic</mark>  </summary>
 
 
 
