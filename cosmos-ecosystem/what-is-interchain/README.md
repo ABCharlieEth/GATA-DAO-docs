@@ -1,4 +1,4 @@
-# The Interchain Ecosystem
+# ⛓ What is Interchain?
 
 The Interchain is a network of independent blockchains, which are:
 
