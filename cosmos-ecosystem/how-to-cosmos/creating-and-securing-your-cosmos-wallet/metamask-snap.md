@@ -1,0 +1,3 @@
+# Metamask Snap
+
+WIP

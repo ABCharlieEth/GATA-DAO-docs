@@ -34,7 +34,7 @@
   * [Creating and Securing Your Cosmos Wallet](cosmos-ecosystem/how-to-cosmos/creating-and-securing-your-cosmos-wallet/README.md)
     * [Keplr](cosmos-ecosystem/how-to-cosmos/creating-and-securing-your-cosmos-wallet/keplr.md)
     * [Leap](cosmos-ecosystem/how-to-cosmos/creating-and-securing-your-cosmos-wallet/leap.md)
-    * [Metamask Snippet](cosmos-ecosystem/how-to-cosmos/creating-and-securing-your-cosmos-wallet/metamask-snippet.md)
+    * [Metamask Snap](cosmos-ecosystem/how-to-cosmos/creating-and-securing-your-cosmos-wallet/metamask-snap.md)
 * [⛓ What is Interchain?](cosmos-ecosystem/what-is-interchain/README.md)
   * [A whole universe](cosmos-ecosystem/what-is-interchain/a-whole-universe.md)
   * [The Cosmos SDK](cosmos-ecosystem/what-is-interchain/the-cosmos-sdk.md)
