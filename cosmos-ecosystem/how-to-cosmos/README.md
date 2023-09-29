@@ -19,4 +19,14 @@ The "How to Cosmos" series, brought to you by GATA DAO, is a comprehensive colle
 3. **Participating in Governance:** Explore how to actively engage in blockchain governance, vote on proposals, and contribute to the decision-making process on the Cosmos Hub.
 4. **Staking for Rewards:** Discover the world of staking, delegate your tokens to validators, and earn rewards while securing the network.
 5. **Exploring DeFi on Cosmos:** Dive into the decentralized finance (DeFi) landscape within the Cosmos ecosystem, including lending, borrowing, and liquidity provision.
-6. **NFTs and Beyond:** Learn about the growing NFT (Non-Fungible Token) space on Cosmos and how to buy, sell, and trade these unique digital assets.
+6. **NFTs and Beyond:** Learn about the growing NFT (Non-Fungible Token) space on Cosmos and how to buy, sell, and trade these unique digital assets
+
+
+
+<details>
+
+<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch</mark></summary>
+
+
+
+</details>

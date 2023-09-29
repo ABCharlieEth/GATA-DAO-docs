@@ -11,3 +11,13 @@ Each chain in the Interchain Ecosystem relies on the Tendermint fast-finality BF
 The Cosmos SDK is a generalized framework to build secure blockchain applications on the Tendermint BFT in Golang. It is a modular framework for application-specific blockchains. The design is based on two major principles: modularity and capability-based security. The Cosmos SDK was envisioned to be an npm-like framework for secure applications on top of Tendermint. Over time it has become an advanced framework for custom application-specific blockchains.
 
 The ready-built modules of the Cosmos SDK are easy to import, adapt, and use. Developers can create their own modules to introduce specific functionalities. With the growth of the ecosystem, the number of modules will grow, facilitating the development of more complex applications.
+
+
+
+<details>
+
+<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch</mark></summary>
+
+
+
+</details>

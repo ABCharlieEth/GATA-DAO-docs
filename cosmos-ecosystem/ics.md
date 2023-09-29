@@ -24,3 +24,12 @@ In summary, Interchain Security in Cosmos enables the Cosmos Hub to provide secu
 
 [**Securing Cosmos - all you need to know about Interchain Security**](https://www.coinbase.com/cloud/discover/insights-analysis/all-you-need-to-know-about-interchain-security)
 
+
+
+<details>
+
+<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch</mark></summary>
+
+
+
+</details>

@@ -14,3 +14,13 @@ With Ignite CLI, developers can:
 * Benefit from a fast-developed frontend with automatically generated APIs and web pages in JavaScript, TypeScript, and Vue.
 
 When you scaffold with Ignite CLI, things like key management, creating validators, and transferring tokens can all be done through the CLI.
+
+
+
+<details>
+
+<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch</mark></summary>
+
+
+
+</details>
