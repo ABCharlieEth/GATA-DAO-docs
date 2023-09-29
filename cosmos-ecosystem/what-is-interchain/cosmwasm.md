@@ -20,8 +20,25 @@ All Ethereum tools (such as Truffle and Metamask) are compatible with Ethermint.
 
 <details>
 
-<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch</mark></summary>
+<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch -</mark> Die Lösung für Multi-Chain-Smart-Contracts</summary>
 
+Die Lösung für Multi-Chain-Smart-Contracts
+
+CosmWasm ist eine Multi-Chain-Lösung für Smart Contracts auf der Interchain und stellt eine Möglichkeit dar, WebAssembly im Interchain-Universum zu verwenden. Dies erklärt auch die Namensgebung (“Cosm” für Cosmos und “Wasm” für WebAssembly).
+
+Mit CosmWasm können Entwickler robuste dezentrale Anwendungen, sogenannte dApps, für die Interchain erstellen, die Smart Contracts verwenden und auf Tendermint und dem Cosmos SDK aufbauen. Die Hauptmerkmale von CosmWasm sind:
+
+* Werkzeuge für die Entwicklung und das Testen von Smart Contracts
+* Enge Integration mit dem Cosmos SDK
+* Sichere Architektur zur Vermeidung von Angriffsvektoren
+
+Das Design von CosmWasm macht den Code unabhängig von den Details der zugrunde liegenden Blockchain. Es erfordert lediglich, dass eine Cosmos SDK-Anwendung das Wasm-Modul beinhaltet.
+
+Mit CosmWasm können Smart Contracts mit Hilfe des IBC-Protokolls auf mehreren Chains laufen. Dies erhöht die Flexibilität für Entwickler und verringert den Entwicklungsaufwand von Smart Contracts. CosmWasm ist als Modul geschrieben, das in das Cosmos-SDK eingefügt werden kann, und nutzt die Geschwindigkeit von Wasm und die Leistungsfähigkeit von Rust. CosmWasm ist ideal für Rust-Entwickler, die eine Blockchain-Plattform mit schneller Transaktionsabwicklung bevorzugen.
+
+Bekannte Ethereum-Tools, wie beispielsweise Truffle oder Metamask, sind mit Ethermint kompatibel. Entwickler können sogar ihre Solidity Smart Contracts portieren, um mit dem Interchain-Ökosystem zu interagieren. Der Bau einer eigenen Blockchain ist dabei nicht notwendig, um Interchain-kompatible Smart Contracts zu entwickeln, es kann alles mit Ethermint gemacht werden. Während Ethermint jedoch die Ausführung von Vanilla-Ethereum als anwendungsspezifische Cosmos-Blockchain ermöglicht, profitieren Entwickler wiederum von der CometBFT.
+
+\
 
 
 </details>

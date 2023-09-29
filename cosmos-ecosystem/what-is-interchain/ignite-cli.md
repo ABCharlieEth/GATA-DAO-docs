@@ -19,8 +19,24 @@ When you scaffold with Ignite CLI, things like key management, creating validato
 
 <details>
 
-<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch</mark></summary>
+<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch -</mark> Ignite CLI</summary>
 
+Aufbau anwendungsspezifischer Blockchains mit nur einem Befehl
+
+Ignite CLI ist ein entwicklerfreundliches Kommandozeilen-Tool (CLI) für anwendungsspezifische Blockchains, das auf Tendermint/CometBFT und dem Cosmos SDK aufbaut und Entwicklern alles bietet, was sie zum Erstellen, Testen und Starten einer Blockchain benötigen.&#x20;
+
+Ignite CLI beschleunigt die Blockchain-Entwicklung, indem es alle Komponenten, die für eine produktionsreife Blockchain benötigt werden, zu einem Gerüst zusammenfügt. Ignite CLI beschleunigt den Prozess von der ersten Idee bis zur Produktion um 95%. So können Entwickler eine Blockchain binnen kürzester Zeit aufbauen und sich stärker auf die Geschäftslogik ihrer Anwendung konzentrieren.
+
+**Mit Ignite CLI können Entwickler:**
+
+* modulare, in Go geschriebene Blockchain mit einem einzigen Befehl erstellen.
+* Entwicklungs- / Dev-Server gestartet werden, um mit der Token-Erstellung und -Zuweisung sowie der Modulkonfiguration zu experimentieren.
+* Token-Transfers zwischen Chains ermöglicht werden, indem Werte und Daten an verschiedene Blockchains mittels integrierten IBC-Relayers gesendet werden können.
+* von einem schnell entwickelten Frontend mit automatisch generierten APIs und Webseiten in JavaScript, TypeScript und Vue profitieren.
+
+Wenn du mit Ignite CLI arbeitest, kannst du Dinge wie die Schlüsselverwaltung, die Erstellung von Validatoren sowie die Übertragung von Token einfach und schnell über die CLI erledigen.
+
+\
 
 
 </details>

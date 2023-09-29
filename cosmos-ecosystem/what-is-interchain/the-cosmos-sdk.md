@@ -18,6 +18,20 @@ The ready-built modules of the Cosmos SDK are easy to import, adapt, and use. De
 
 <summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch</mark></summary>
 
+#### Das Cosmos SDK
 
+Das Interchain-Netzwerk konzentriert sich auf ein Ökosystem für die einfache Blockchain-Entwicklung, das Anpassungsfähigkeit und Interoperabilität bietet. Mit Regeln, die für das gesamte Ökosystem gleichermaßen gelten, wird eine stabile Umgebung für Entwickler und User geschaffen.
+
+Bevor die Interchain aufkam, war die Entwicklung einer völlig neuen Blockchain viel schwieriger und teurer als die Erstellung eines Smart Contracts. Mit dem Cosmos SDK können nun völlig flexible, sichere, leistungsstarke und souveräne anwendungsspezifische Blockchains entwickelt werden.&#x20;
+
+Um dies zu ermöglichen, steht der Aufbau modularer, anpassungsfähiger und austauschbarer Open-Source-Entwicklungstools im Mittelpunkt der Mission von Interchain. Das Cosmos SDK spielt hierbei als Framework zur Erstellung sicherer Blockchain-Anwendungen auf Basis der Tendermint BFT in Golang eine Hauptrolle. Es ist ein modulares Framework für anwendungsspezifische Blockchains.
+
+Das Design basiert auf zwei Hauptprinzipien: Modularität und fähigkeitsbasierte Sicherheit. Ursprünglich als npm-ähnliches Framework für sichere Anwendungen auf Tendermint konzipiert, hat sich das Cosmos SDK im Laufe der Zeit zu einem fortschrittlichen Framework für anwendungsspezifische Blockchains entwickelt.
+
+Die vorgefertigten Module des Cosmos SDK sind einfach zu importieren, anzupassen und zu verwenden. Entwickler können ihre eigenen Module erstellen, um spezifische Funktionalitäten einzuführen. Mit dem Wachstum des Ökosystems steigt auch die Anzahl der Module, was die Entwicklung komplexerer Anwendungen erleichtert.
+
+Das Hauptziel des Interchain-Netzwerks ist es, ein Ökosystem für die einfache Blockchain-Entwicklung bereitzustellen, das auf CometBFT, dem Tendermint BFT für den Interchain-Stack, und dem Inter-Blockchain Communication Protocol (IBC) mit dem sogenannten Cosmos SDK basiert.
+
+Jede Kette im Interchain-Ökosystem stützt sich auf den Tendermint-BFT-Konsens-Algorithmus mit hoher Endgültigkeit. Dies gewährleistet einen gemeinsamen Konsensmechanismus für alle Blockchains des Netzwerkes. Neben seiner Verwendung in der Interchain wird der Tendermint-Konsensmechanismus auch in der Binance Chain, Kava und anderen verwendet.
 
 </details>

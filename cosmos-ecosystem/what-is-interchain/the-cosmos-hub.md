@@ -12,8 +12,23 @@ If the other chain is a probabilistic-finality chain, a simple adaptation of IBC
 
 <details>
 
-<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch</mark></summary>
+<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch -</mark> Der Cosmos Hub</summary>
 
+Die erste Blockchain, die mit dem Interchain Stack aufgebaut wurde
+
+Beim Cosmos Hub handelt es sich um eine öffentliche “Proof-of-Stake” (PoS)-Blockchain mit einem eigenen Token, ATOM. Dieser Token kommt zum Einsatz, um das Netzwerk zu sichern und Transaktionsgebühren zu bezahlen, kommt ATOM zum Einsatz. Zugleich ist es aber auch der Token, der die Entwicklung des Interchain Stack und anderer Projekte im weiteren Ökosystem finanziert hat.
+
+Der Cosmos Hub kann als Router verstanden werden, der Transaktionen zwischen den mit ihm verbundenen Chains erleichtert. So ermöglicht es der Cosmos Hub beispielsweise, dass die Transaktionsgebühren in verschiedenen Token bezahlbar sind, solange die jeweilige Zone dem Cosmos Hub und den anderen mit ihm verbundenen Zonen vertraut.
+
+Wie lässt sich eine Blockchain mit einer anderen verbinden, die nicht auf Tendermint (CometBFT) basiert?&#x20;
+
+IBC-Verbindungen sind nicht auf Tendermint-basierte Blockchains beschränkt. Wenn eine andere, nicht Tendermint-basierte Blockchain einen Fast-Finality-Konsensalgorithmus verwendet, kann eine Verbindung hergestellt werden, indem IBC so angepasst wird, dass es mit dem Nicht-Tendermint-Konsensmechanismus funktioniert.
+
+Handelt es sich bei der anderen Kette jedoch um eine Kette mit probabilistischer Finalität, reicht eine einfache Anpassung der IBC nicht aus. Eine Proxy-Kette, Peg-Zone genannt, hilft hier bei der Herstellung der Interoperabilität.&#x20;
+
+Peg-Zonen sind Blockchains mit schneller Endgültigkeit, die den Zustand der Kette verfolgen, um die Endgültigkeit herzustellen. Die Peg-Zone-Kette selbst ist IBC-kompatibel und fungiert als Brücke zwischen den übrigen Ketten des IBC-Netzwerks und der probabilistischen Finalitätskette.
+
+\
 
 
 </details>

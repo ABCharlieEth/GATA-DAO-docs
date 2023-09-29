@@ -24,7 +24,21 @@ Moreover, [33 wallets](https://cosmos.network/ecosystem/wallets/) and block expl
 
 <summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch</mark></summary>
 
+#### Ein ganzes Universum
 
+Ein ganzes Universum zu Entdecken – Token, Wallets, Apps und Dienste
+
+Die Interchain ist ein ständig wachsendes Ökosystem bestehend aus Token, Wallets und Tools sowie vernetzten Anwendungen und Diensten, die für unsere dezentralisierte Zukunft entwickelt werden.
+
+Im Jahr 2022 wurden fast 100 Milliarden Dollar an digitalen Vermögenswerten von der Interchain verwaltet und gesichert. Zu den digitalen Vermögenswerten auf der Interchain gehören neben fungible auch non-fungible Token (NFTs). Sie können anwendungsspezifische Token ausgeben, um Abrechnungen durchzuführen, maßgeschneiderte Ausgaben zu tätigen, Inflation/Deflation zu handhaben und vieles mehr.
+
+Zu den fungiblen Token, die durch die Interchain gesichert werden, gehören der Binance Coin (BNB) und ATOM. Da die Token auf anwendungsspezifischen Blockchains existieren, sind ihre Entwickler von den Einschränkungen, welche bei herkömmlichen Blockchains bestehen, befreit.
+
+Zusätzlich zu der großen Anzahl an Token gibt es eine Vielzahl von Anwendungen, Diensten, Wallets und Explorern, die auf Interchain-Technologie basieren. Unter hunderten von Anwendungen und Diensten die bereits auf Interchain-Technologie aufbauen, befassen sich die meisten Anwendungen und Projekte derzeit mit dem Finanzwesen, dicht gefolgt von infrastrukturbezogenen Anwendungen. Anwendungen und Projekte in Bereichen wie Datenschutz, Marktplätzen und sozialen Medien sind ebenfalls im Entstehen.
+
+Während die meisten Anwendungen und Projekte bereits vollständig realisiert wurden, befinden sich einige noch in der Entwicklung bzw. wurden nur in Testumgebungen eingesetzt. Andere wiederum befinden sich sogar noch in der Konzeptphase.
+
+Darüber hinaus sind 33 Wallets („Digitale Geldbörse“) und Block-Explorer Teil des Ökosystems. Die meisten dieser Anwendungen sind für Android entwickelt, wie die Atomic Wallet und Coinex, oder für iOS, wie AirGap und Wallet.io, allerdings gibt es auch eine Reihe von Web-Wallets wie Exodus und Keplr.
 
 </details>
 

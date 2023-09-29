@@ -14,8 +14,17 @@ All Ethereum tools (such as Truffle and Metamask) are compatible with Ethermint.
 
 <details>
 
-<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch</mark></summary>
+<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch -</mark> Frameworks und SDKs</summary>
 
+Die Möglichkeit, alternative Blockchain-Frameworks und SDKs zu verwenden
+
+Da das Cosmos SDK modular aufgebaut ist, können Entwickler bestehenden Code, welcher in der Programmiersprache Go geschrieben wurde, wiederverwenden. Dies ermöglicht die Entwicklung neuer Applikationen basierend auf der Interchain, ohne dass Entwickler zu viele Kompromisse bei den verwendeten Tools und der Umgebung eingehen müssen.&#x20;
+
+Zum Beispiel können Entwickler die Ethereum Virtual Machine (EVM) aus dem Go Ethereum-Client als Cosmos SDK-Modul verwenden, das mit bestehenden Modulen kompatibel und kombinierbar ist.
+
+&#x20;Bestehende Ethereum-Tools, wie beispielsweise Truffle oder Metamask, sind mit Ethermint kompatibel. Entwickler können sogar ihre Solidity Smart Contracts portieren, um mit dem Interchain Ecosystem zu interagieren. Der Aufbau einer Blockchain ist dabei nicht einmal notwendig, um Interchain-kompatible Smart Contracts zu entwickeln, denn alles, was dazu benötigt wird, kann mit Ethermint gemacht werden. Während Ethermint jedoch die Ausführung von Vanilla Ethereum als anwendungsspezifische Cosmos-Blockchain ermöglicht, profitieren Entwickler von CometBFT.
+
+\
 
 
 </details>
