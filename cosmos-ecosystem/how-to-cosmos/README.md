@@ -25,9 +25,7 @@ The "How to Cosmos" series, brought to you by GATA DAO, is a comprehensive colle
 
 <details>
 
-<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch</mark></summary>
-
-### Das 1x1 des Cosmos
+<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch -</mark> Das 1x1 des Cosmos</summary>
 
 Leitfaden zur sicheren und intelligenten Nutzung von Wallets in Cosmos
 

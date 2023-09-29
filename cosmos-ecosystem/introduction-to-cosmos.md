@@ -14,11 +14,7 @@ Overall, the Cosmos ecosystem is a unique approach to blockchain architecture th
 
 <details>
 
-<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch</mark></summary>
-
-### Einführung in Cosmos
-
-&#x20;
+<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch -</mark> Einführung in Cosmos</summary>
 
 Cosmos ist ein Netzwerk unabhängiger Blockchains, die miteinander kommunizieren und Transaktionen durchführen können. Der Cosmos Hub bildet dabei das Herzstück dieses Ökosystems von Blockchains, der als zentraler Koordinationspunkt dient.
 

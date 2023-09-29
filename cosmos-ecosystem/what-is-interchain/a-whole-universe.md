@@ -22,9 +22,7 @@ Moreover, [33 wallets](https://cosmos.network/ecosystem/wallets/) and block expl
 
 <details>
 
-<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch</mark></summary>
-
-#### Ein ganzes Universum
+<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch -</mark> Ein ganzes Universum</summary>
 
 Ein ganzes Universum zu Entdecken – Token, Wallets, Apps und Dienste
 

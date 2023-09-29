@@ -16,9 +16,7 @@ The ready-built modules of the Cosmos SDK are easy to import, adapt, and use. De
 
 <details>
 
-<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch</mark></summary>
-
-#### Das Cosmos SDK
+<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch -</mark> Das Cosmos SDK</summary>
 
 Das Interchain-Netzwerk konzentriert sich auf ein Ökosystem für die einfache Blockchain-Entwicklung, das Anpassungsfähigkeit und Interoperabilität bietet. Mit Regeln, die für das gesamte Ökosystem gleichermaßen gelten, wird eine stabile Umgebung für Entwickler und User geschaffen.
 

@@ -11,9 +11,7 @@ The Interchain is also a blockchain ecosystem complete with protocols, SDK, toke
 
 <details>
 
-<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch</mark></summary>
-
-### Was ist die Interchain?
+<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch -</mark> Was ist die Interchain?</summary>
 
 Die Interchain ist ein Netzwerk von unabhängigen Blockchains, welche
 

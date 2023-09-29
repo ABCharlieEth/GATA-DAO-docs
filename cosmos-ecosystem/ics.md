@@ -28,9 +28,7 @@ In summary, Interchain Security in Cosmos enables the Cosmos Hub to provide secu
 
 <details>
 
-<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch</mark></summary>
-
-### ICS&#x20;
+<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch- ICS</mark></summary>
 
 Interchain Security bezieht sich auf eine Familie von gemeinsamen Sicherheitsprotokollen innerhalb des Cosmos Ökosystems. Sie ermöglicht es dem Cosmos Hub, dem zentralen Glied des Ökosystems, durch das Konzept der replizierten Sicherheit "Verbraucherketten" (“consumer chains”) Sicherheit zu bieten.
 
