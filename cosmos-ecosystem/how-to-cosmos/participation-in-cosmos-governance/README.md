@@ -14,7 +14,7 @@ Cosmos is not just a blockchain; it's a decentralized network of interconnected 
 
 **Accessing Governance Proposals:** Access the governance tab in your wallet to view active proposals and their details. To take part in the governance proposals you can either vote through [Keplr Wallet governance](https://wallet.keplr.app/?tab=active-proposals) or Leap Wallet governance by navigating to governace tab in the leap wallet.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="240"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="240"><figcaption></figcaption></figure>
 
 **Evaluating Proposals:** Understand how to assess proposals based on their impact, benefits, and potential risks to the network. To further explore the topic you can visit the discussion or take part in it on the [https://forum.cosmos.network/](https://forum.cosmos.network/)
 

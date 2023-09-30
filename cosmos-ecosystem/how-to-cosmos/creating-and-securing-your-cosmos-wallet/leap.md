@@ -7,7 +7,7 @@ description: The Super Wallet‍ for Web3 🐸
 Leap is versatile multichain wallet for web 3. \
 Go to [https://www.leapwallet.io/#inpage-download](https://www.leapwallet.io/#inpage-download) (This is the official website of Leap, always check the URL address to avoid any phishing attack)&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * After getting to the official [website](https://www.leapwallet.io/#inpage-download) of Leap wallet get the leap for your operating system we will install Leap chrome extension in our tutorial. You can install for Brave and Edge browsers or get the app for your Android or IOS.
 
