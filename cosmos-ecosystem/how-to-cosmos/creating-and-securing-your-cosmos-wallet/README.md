@@ -5,7 +5,7 @@ Wallets are a convenient way to keep your cryptocurrencies secure and interact w
 * [Installing Keplr Wallet ](keplr.md)
 * [Installing Leap wallet ](leap.md)
 * [Securing your Wallet ](securing-your-wallet.md)
-* Staking with your Keplr Wallet
+* [Staking with your Keplr Wallet](staking-your-asset-via-keplr-wallet.md)
 * Staking with your Leap Wallet&#x20;
 * [Using Metamask for cosmos based dApps](metamask-snap.md)
 
