@@ -49,7 +49,10 @@
   * [Ignite CLI](cosmos-ecosystem/what-is-interchain/ignite-cli.md)
   * [CosmWasm](cosmos-ecosystem/what-is-interchain/cosmwasm.md)
   * [Frameworks and SDKs](cosmos-ecosystem/what-is-interchain/frameworks-and-sdks.md)
-* [🔐 ICS](cosmos-ecosystem/ics.md)
+* [🔐 ICS](cosmos-ecosystem/ics/README.md)
+  * [Atom Economic Zone (AEZ)](cosmos-ecosystem/ics/atom-economic-zone-aez/README.md)
+    * [Stride](cosmos-ecosystem/ics/atom-economic-zone-aez/stride.md)
+    * [Neutron](cosmos-ecosystem/ics/atom-economic-zone-aez/neutron.md)
 
 ***
 
