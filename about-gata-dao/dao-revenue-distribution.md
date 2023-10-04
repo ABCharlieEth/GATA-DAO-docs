@@ -289,3 +289,30 @@ GATA Epoch 13
 | GATA DAO treasury                | 24.3 $Atom           | 170 USD            |
 | Royalties + 0base.vc partnership | 6 $Atom              | 42 USD             |
 | **Total**                        | **130 Atom**         | **910 USD**        |
+
+
+
+## GATA DAO EPOCH 14
+
+GATA DOA epoch 13 form 1st SEP 2023 - 30th SEP 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.0.08/Atom/GATA. \
+\
+Total Atom Distributed: 140 Atom\
+Distribution Date: October 03, 2023
+
+{% file src="../.gitbook/assets/GATA Reward epoch 14.txt" %}
+GATA Epoch 14
+{% endfile %}
+
+| Source                           | Total Atom generated | Total USD @ 7/Atom |
+| -------------------------------- | -------------------- | ------------------ |
+| Atom Validator                   | 69 $Atom             | 483 USD            |
+| Evmos Validator                  | 7 $Atom              | 49 USD             |
+| Juno Validator                   | 4 $Atom              | 28 USD             |
+| Teritori Validator               | 4 $Atom              | 28 USD             |
+| Akash Validator                  | 1.5 $Atom            | 10.5 USD           |
+| Archway Validator                | 8 $Atom              | 56 USD             |
+| Osmosis Validator                | 5 $Atom              | 35 USD             |
+| Omniflix Validator               | 5 $Atom              | 35 USD             |
+| GATA DAO treasury + Rollover     | 3 $Atom              | 21 USD             |
+| Royalties + 0base.vc partnership | 33.5 $Atom           | 235 USD            |
+| **Total**                        | **140 USD**          | **980 Atom**       |
