@@ -8,8 +8,7 @@ ATOM holding wallet  [cosmos15pqtxqnntu64cw4m7v0nv2f35lfm3zzasz4z3d](https://www
 
 ## Reward accumulation&#x20;
 
-After the DAO [Proposal 7](../gata-constitution/governance-proposal-7.md); The reward distribution will occur on a monthly basis and in a month we will distribute a commission of 25 days and self-bond for the rest of the days in a month to increase and maintain the self-bonded ratio. \
-
+After the DAO [Proposal 7](../gata-constitution/governance-proposal-7.md); The reward distribution will occur on a monthly basis and in a month we will distribute a commission of 25 days and self-bond for the rest of the days in a month to increase and maintain the self-bonded ratio.&#x20;
 
 ## GATA DAO EPOCH 1
 
@@ -41,9 +40,7 @@ Total Atom Distributed: 570.6 Atom\
 Distribution Date: Nov 1, 2022
 
 {% file src="../.gitbook/assets/GATA_DAO_3rd_epoch_Reward_list.txt" %}
-GATA DAO third EPOCH addresses. 0.43/Atom/GATA\
-\
-
+GATA DAO third EPOCH addresses. 0.43/Atom/GATA
 {% endfile %}
 
 | Source                        | Total ATOM generated during the epoch  | USD generated @14$/ATOM |
@@ -63,11 +60,8 @@ GATA DOA epoch 4  form 1st NOV 2022 - 30th NOV 2022. Where 1327/1887 eligible GA
 Total Atom Distributed: 680 Atom\
 Distribution Date: Dec 1, 2022
 
-
-
 {% file src="../.gitbook/assets/GATA_DAO_4th_EPOCH_Reward_list.txt" %}
-GATA DAO fourth EPOCH addresses. 0.51/Atom/GATA\
-
+GATA DAO fourth EPOCH addresses. 0.51/Atom/GATA
 {% endfile %}
 
 | Source                        | Total ATOM generated during the epoch  | USD generated @10$/ATOM |
@@ -221,8 +215,6 @@ GATA DOA epoch 11 form 1st June 2023 - 30th June 2023. Where 1727/1887 eligible 
 Total Atom Distributed: 155 Atom\
 Distribution Date: July 05, 2023
 
-
-
 {% file src="../.gitbook/assets/GATA_Epoch_11_YG_Epoch_4_distribution.txt" %}
 Epoch 11
 {% endfile %}
@@ -263,8 +255,6 @@ GATA DAO Epoch 12
 | GATA DAO treasury                | 21 Atom               | 189 USD            |
 | Royalties + 0base.vc partnership | 5 Atom                | 45 USD             |
 | **Total**                        | **125 Atom + 5 Atom** | 1170 USD           |
-
-
 
 ## GATA DAO EPOCH 13
 
