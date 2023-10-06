@@ -1,4 +1,4 @@
-# Staking your Asset Via Keplr Wallet
+# Staking your Assets via Keplr Wallet
 
 Some of you might already be familiar with [Keplr Wallet](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en), the browser extension wallet for the Inter blockchain ecosystem. We’d like to share an in-depth guide on staking with this wallet.
 
@@ -6,11 +6,11 @@ So, what are the current Keplr wallet features? The Keplr Extension supports tra
 
 ### Setting Up Your Keplr Wallet
 
-We have covered this in the here “[How to properly setup your keplr wallet](keplr.md)”
+We have covered this in the here “[How to properly setup your keplr wallet](keplr-wallet.md)”
 
 ### Staking Your Assets
 
-Here in the[ tutorial](keplr.md) we showed you how to set up your Keplr wallet. Once that’s done, it’s time to start staking. If you don’t have any assets in your wallet, please copy your account address to send $ATOM or any other supported asset to your Keplr wallet from any exchange or wallet. On the web extension you have two ways to find your wallet address.
+Here in the[ tutorial](keplr-wallet.md) we showed you how to set up your Keplr wallet. Once that’s done, it’s time to start staking. If you don’t have any assets in your wallet, please copy your account address to send $ATOM or any other supported asset to your Keplr wallet from any exchange or wallet. On the web extension you have two ways to find your wallet address.
 
 &#x20;
 

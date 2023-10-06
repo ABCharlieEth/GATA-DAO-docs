@@ -8,9 +8,9 @@ Selecting the right validators is a crucial decision for participants in blockch
 
 **Understand the Basics:** Before diving into validator selection, ensure you have a solid understanding of the blockchain network you are engaging with. Know its consensus mechanism, governance model, and the role validators play in the network. Or read these documents before reading more.&#x20;
 
-* [How to Stake your Assets?](../creating-and-securing-your-cosmos-wallet/staking-your-asset-via-keplr-wallet.md)
+* [How to Stake your Assets?](../creating-and-securing-your-cosmos-wallet/staking-your-assets-via-keplr-wallet.md)
 * [What is Cosmos Governance?](cosmos-governance.md)
-* [What is interachain?](../../what-is-interchain/) &#x20;
+* [What is interachain?](../../what-is-the-interchain/) &#x20;
 
 **Research Validators:** Start by researching validators operating on the network. Look for validator lists on the network's official website or community forums. Validators are typically ranked by performance and reputation.  You can visit the mintscan validator portal to check the performance of the validators.
 

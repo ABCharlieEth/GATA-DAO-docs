@@ -14,7 +14,7 @@ All Ethereum tools (such as Truffle and Metamask) are compatible with Ethermint.
 
 <details>
 
-<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch -</mark> Frameworks und SDKs</summary>
+<summary>German/Deutsch - Frameworks und SDKs</summary>
 
 Die Möglichkeit, alternative Blockchain-Frameworks und SDKs zu verwenden
 

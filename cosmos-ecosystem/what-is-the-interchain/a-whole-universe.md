@@ -1,5 +1,5 @@
 ---
-description: A whole universe to discover - tokens, wallets, apps, and services
+description: Discover opportunities - from tokens and wallets to apps and services
 ---
 
 # A whole universe
@@ -22,9 +22,9 @@ Moreover, [33 wallets](https://cosmos.network/ecosystem/wallets/) and block expl
 
 <details>
 
-<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch -</mark> Ein ganzes Universum</summary>
+<summary>German/Deutsch - Ein ganzes Universum</summary>
 
-Ein ganzes Universum zu Entdecken – Token, Wallets, Apps und Dienste
+Entdecken die Möglichkeiten - von Token und Wallets bis hin zu Anwendungen und Dienstleistungen
 
 Die Interchain ist ein ständig wachsendes Ökosystem bestehend aus Token, Wallets und Tools sowie vernetzten Anwendungen und Diensten, die für unsere dezentralisierte Zukunft entwickelt werden.
 

@@ -1,10 +1,14 @@
+---
+description: Customizable and interoperable blockchain development
+---
+
 # The Cosmos SDK
 
 The Interchain network focuses on an ecosystem for easy blockchain development that provides customizability and interoperability. It establishes a stable universe determined by rules that apply to the whole ecosystem equally.
 
 Before the Interchain came along, developing a whole new chain was much more difficult and expensive than building a smart contract. Now, with the Cosmos SDK, entirely flexible, secure, high performance, and sovereign application-specific blockchains can be developed. To allow this, building modular, adaptable, and interchangeable open-source development tools is at the center of the Interchain's mission.
 
-The main aim of the Interchain network is to provide an ecosystem for easy blockchain development based on CometBFT, the Tendermint BFT for the Interchain Stack, and the Inter-Blockchain Communication Protocol (IBC) with the so-called [Cosmos SDK](https://v1.cosmos.network/sdk).
+The main goal of the Interchain network is to provide an ecosystem for easy blockchain development based on CometBFT, the Tendermint BFT for the Interchain Stack, and the Inter-Blockchain Communication Protocol (IBC) with the so-called [Cosmos SDK](https://v1.cosmos.network/sdk).
 
 Each chain in the Interchain Ecosystem relies on the Tendermint fast-finality BFT consensus algorithm. This ensures a common consensus mechanism at work in all chains of the network. Next to its use in the Interchain, the Tendermint consensus mechanism is also utilized in the [Binance Chain](https://www.bnbchain.org/en), [Kava](https://www.kava.io/), and more.
 
@@ -16,9 +20,11 @@ The ready-built modules of the Cosmos SDK are easy to import, adapt, and use. De
 
 <details>
 
-<summary><mark style="color:blue;">German - Lesen Sie dies auf Deutsch -</mark> Das Cosmos SDK</summary>
+<summary>German/Deutsch - Das Cosmos SDK</summary>
 
-Das Interchain-Netzwerk konzentriert sich auf ein Ökosystem für die einfache Blockchain-Entwicklung, das Anpassungsfähigkeit und Interoperabilität bietet. Mit Regeln, die für das gesamte Ökosystem gleichermaßen gelten, wird eine stabile Umgebung für Entwickler und User geschaffen.
+Anpassbare und interoperable Blockchain-Entwicklung
+
+Das Interchain-Netzwerk konzentriert sich darauf, ein Ökosystem für die einfache Entwicklung von Blockchains anzubieten, das Anpassungsfähigkeit und Interoperabilität bietet. Mit Regeln, die für das gesamte Ökosystem gleichermaßen gelten, wird eine stabile Umgebung für Entwickler und User geschaffen.
 
 Bevor die Interchain aufkam, war die Entwicklung einer völlig neuen Blockchain viel schwieriger und teurer als die Erstellung eines Smart Contracts. Mit dem Cosmos SDK können nun völlig flexible, sichere, leistungsstarke und souveräne anwendungsspezifische Blockchains entwickelt werden.&#x20;
 
