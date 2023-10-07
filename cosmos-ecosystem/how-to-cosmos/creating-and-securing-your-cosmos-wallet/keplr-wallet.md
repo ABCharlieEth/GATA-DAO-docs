@@ -61,12 +61,10 @@ Either Create a new account or Import an existing account with the mnemonic phra
 
 **Further Resources**
 
+* [Keplr Website](https://www.keplr.app/)
+* [Keplr Documentation](https://docs.keplr.app/)
 * [Official guide on how to use the Keplr Wallet](https://medium.com/chainapsis/how-to-use-keplr-wallet-40afc80907f6)
 * [Introducing Keplr: an Interchain Wallet for Cosmos Applications](https://medium.com/everett-protocol/introducing-keplr-an-interchain-wallet-for-cosmos-applications-a260aac64eaa)
-* [Keplr Documentation](https://docs.keplr.app/)
-* [Keplr FAQ](https://faq.keplr.app/)
-
-
 
 
 
@@ -132,9 +130,9 @@ Erstelle entweder ein neues Konto oder importiere ein bestehendes Konto mit der 
 
 **Weiterführende Informationen & Ressourcen**
 
-* [Offizielle Anleitung zur Nutzung von Keplr](https://medium.com/chainapsis/how-to-use-keplr-wallet-40afc80907f6) (EN)
-* [Keplr Einführung: Eine Interchain Wallet für Cosmos Applikationen](https://medium.com/everett-protocol/introducing-keplr-an-interchain-wallet-for-cosmos-applications-a260aac64eaa) (EN)
+* [Keplr Website](https://www.keplr.app/) (EN)
 * [Keplr Dokumentation](https://docs.keplr.app/) (EN)
-* [Keplr FAQ](https://faq.keplr.app/) (EN)
+* [Offizieller Guide über Keplr Wallet Nutzung](https://medium.com/chainapsis/how-to-use-keplr-wallet-40afc80907f6) (EN)
+* [Einführung in Keplr: Interchain Wallet für Cosmos Applikationen](https://medium.com/everett-protocol/introducing-keplr-an-interchain-wallet-for-cosmos-applications-a260aac64eaa) (EN)
 
 </details>
