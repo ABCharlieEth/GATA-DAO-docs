@@ -2,6 +2,10 @@
 
 ### What is Apes in Games? <a href="#b8d1" id="b8d1"></a>
 
+{% hint style="info" %}
+Initially launched in August 2023 but paused due to market conditions. See detailed announcement [here  ](https://x.com/ApesInGames/status/1709606476656885776?s=20)
+{% endhint %}
+
 Apes in Games (AiG) is the beginning of an exciting journey and everyone minting them will be part of it: Not only can the NFTs of this collection be used as PFPs, but offer a bunch of other awesome utilities & perks:
 
 * Exclusive access to the game developed by GATA DAO (**ETA** **in Q4 2023**)
