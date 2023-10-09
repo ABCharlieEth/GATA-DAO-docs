@@ -40,7 +40,7 @@
   * [IBC - Inter-Blockchain Communication](cosmos-ecosystem/how-to-cosmos/ibc-inter-blockchain-communication/README.md)
     * [Step by Step guide to IBC](cosmos-ecosystem/how-to-cosmos/ibc-inter-blockchain-communication/step-by-step-guide-to-ibc.md)
   * [Participation in Cosmos Governance](cosmos-ecosystem/how-to-cosmos/participation-in-cosmos-governance/README.md)
-    * [Chose your validators wisely](cosmos-ecosystem/how-to-cosmos/participation-in-cosmos-governance/chose-your-validators-wisely.md)
+    * [Choosing a validator](cosmos-ecosystem/how-to-cosmos/participation-in-cosmos-governance/choosing-a-validator.md)
     * [Cosmos Governance](cosmos-ecosystem/how-to-cosmos/participation-in-cosmos-governance/cosmos-governance.md)
 * [⛓ What is the Interchain?](cosmos-ecosystem/what-is-the-interchain/README.md)
   * [A whole universe](cosmos-ecosystem/what-is-the-interchain/a-whole-universe.md)

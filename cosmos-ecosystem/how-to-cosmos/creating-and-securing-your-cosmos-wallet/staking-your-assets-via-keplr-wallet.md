@@ -34,7 +34,7 @@ If you don’t have any assets in your wallet, copy your account address to send
 &#x20;
 
 * To stake your assets, you need to pick a validator. If you already know one, you can find your validator via the search bar.&#x20;
-* If you want to learn more about validator selections, take a look on our guide on [how to select a validator](../participation-in-cosmos-governance/chose-your-validators-wisely.md).
+* If you want to learn more about validator selections, take a look on our guide on [how to select a validator](../participation-in-cosmos-governance/choosing-a-validator.md).
 
 <figure><img src="../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
