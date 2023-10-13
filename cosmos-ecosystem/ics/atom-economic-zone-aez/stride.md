@@ -4,7 +4,7 @@ description: Liquidity for staked tokens
 
 # Stride
 
-Stride, built on [Cosmos SDK](../../what-is-the-interchain/the-cosmos-sdk.md) and [Tendermint](../../introduction-to-cosmos.md), provides liquidity and generates additional revenue in the [Cosmos IBC universe](../../what-is-the-interchain/a-whole-universe.md), offering users new financial opportunities.
+Stride, built on [Cosmos SDK](../../what-is-the-interchain/the-cosmos-sdk.md) and [Tendermint](../../introduction-to-cosmos/), provides liquidity and generates additional revenue in the [Cosmos IBC universe](../../what-is-the-interchain/a-whole-universe.md), offering users new financial opportunities.
 
 Stride's primary function is to provide users with the opportunity to earn dual yields, combining staking and DeFi rewards across the Cosmos [IBC ](../../what-is-the-interchain/ibc.md)ecosystem. The fundamental idea behind is to empower users by offering immediate access to staked tokens when they liquid stake. These staked tokens accrue rewards in real-time, creating a dynamic and flexible asset that can be freely traded or redeemed through Stride, yielding native tokens along with staking rewards.
 

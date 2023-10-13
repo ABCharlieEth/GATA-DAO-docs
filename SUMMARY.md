@@ -29,7 +29,8 @@
 
 ## 🔯 Cosmos ecosystem
 
-* [ℹ Introduction to Cosmos](cosmos-ecosystem/introduction-to-cosmos.md)
+* [ℹ Introduction to Cosmos](cosmos-ecosystem/introduction-to-cosmos/README.md)
+  * [Interoperability](cosmos-ecosystem/introduction-to-cosmos/interoperability.md)
 * [⁉ How to Cosmos](cosmos-ecosystem/how-to-cosmos/README.md)
   * [Creating and Securing Your Cosmos Wallet](cosmos-ecosystem/how-to-cosmos/creating-and-securing-your-cosmos-wallet/README.md)
     * [Keplr Wallet](cosmos-ecosystem/how-to-cosmos/creating-and-securing-your-cosmos-wallet/keplr-wallet.md)
