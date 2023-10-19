@@ -69,6 +69,8 @@ Bought \~$100 worth of GALA x Omniflix launch souvenir to burn.  [https://omnifl
 
 50 Flix each to 10 holders. Total 500 Flix&#x20;
 
+[https://twitter.com/GataDaoZone/status/1714617825099481432](https://twitter.com/GataDaoZone/status/1714617825099481432)
+
 </details>
 
 ## GATA Delegator Reward 2023
