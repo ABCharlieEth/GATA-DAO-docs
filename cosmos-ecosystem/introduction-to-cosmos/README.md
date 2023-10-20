@@ -30,3 +30,19 @@ Insgesamt handelt es sich bei Cosmos um einen einzigartigen Ansatz von Blockchai
 
 
 </details>
+
+<details>
+
+<summary>French - Introduction à Cosmos</summary>
+
+L'écosystème Cosmos est un réseau de réseaux de blockchain indépendants conçus pour communiquer et effectuer des transactions entre eux en utilisant la communication inter-blockchain (IBC). Au cœur de l'écosystème Cosmos se trouve le Cosmos Hub, qui sert de point central de coordination pour les différents réseaux de blockchain.
+
+Le Cosmos Hub utilise un algorithme de consensus unique appelé Tendermint, conçu pour être rapide, sécurisé et économe en énergie. Tendermint permet une finalité rapide des transactions, ce qui signifie qu'une fois qu'une transaction est traitée, elle est immédiatement confirmée et ne peut pas être modifiée.
+
+Grâce à l'utilisation de chaînes de blocs spécifiques à une application appelées "Zones", le Cosmos Hub permet à différents réseaux de blockchain de se connecter et de communiquer entre eux. Les Zones sont construites à l'aide du Cosmos SDK, qui est un cadre modulaire pour la création de chaînes de blocs personnalisées. Cela permet aux développeurs de créer leurs propres réseaux de blockchain avec des fonctionnalités et des modèles de gouvernance personnalisés, tout en étant en mesure de communiquer et de réaliser des transactions avec d'autres réseaux de blockchain dans l'écosystème Cosmos.
+
+L'écosystème Cosmos comprend également le protocole de communication inter-blockchain (IBC), qui permet à différents réseaux de blockchain de communiquer et de réaliser des transactions en toute sécurité. L'IBC permet le transfert d'actifs et de données entre différents réseaux de blockchain, créant un écosystème plus fluide et interopérable.
+
+Dans l'ensemble, l'écosystème Cosmos est une approche unique de l'architecture de la blockchain qui privilégie l'interopérabilité, la scalabilité et la sécurité. En permettant à différents réseaux de blockchain de communiquer et de réaliser des transactions entre eux, Cosmos a le potentiel de débloquer de nouveaux cas d'utilisation et applications pour la technologie de la blockchain, et d'ouvrir la voie à un avenir plus décentralisé et démocratisé.
+
+</details>
