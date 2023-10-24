@@ -59,3 +59,26 @@ Die "How to Cosmos"-Serie deckt ein breites Spektrum an Themen ab, einschließli
 6. **NFTs & mehr:** Erfahre mehr über den wachsenden Sektor der NFTs (“non-fungible tokens”) innerhalb des Cosmos und wie du diese einzigartigen digitalen Vermögenswerte kaufen, verkaufen und handeln kannst
 
 </details>
+
+<details>
+
+<summary>French -- Comment utiliser Cosmos</summary>
+
+La série « Comment utiliser Cosmos », proposée par GATA DAO, est une collection complète de tutoriels conçue pour autonomiser les nouveaux membres de la communauté, ainsi que ceux qui sont déjà présents, avec les connaissances et compétences nécessaires pour naviguer en toute confiance et sécurité dans l'écosystème Cosmos. Ces tutoriels couvrent des sujets essentiels liés à l'utilisation des portefeuilles Cosmos, à la gestion des actifs et à l'interaction avec diverses applications blockchain au sein de l'écosystème Cosmos Hub. Que vous soyez un passionné expérimenté de la blockchain ou que vous découvriez tout juste l'univers Cosmos, cette série a quelque chose de précieux à offrir.
+
+Pourquoi « Comment utiliser Cosmos » ? L'écosystème Cosmos est en pleine croissance, et il est plus important que jamais que les utilisateurs aient une solide compréhension des meilleures pratiques d'utilisation des portefeuilles. La série « Comment utiliser Cosmos » remplit plusieurs objectifs essentiels :
+
+1. **Éduquer et Intégrer** : Les nouveaux venus dans l'écosystème Cosmos sont souvent confrontés à une courbe d'apprentissage abrupte. Ces tutoriels simplifient des concepts complexes en étapes faciles à suivre, les rendant accessibles à tous les niveaux d'utilisateurs.
+2. **Renforcer la Sécurité** : La sécurité est primordiale dans l'espace blockchain. La série fournit des conseils et des directives pour des pratiques de portefeuille sécurisées, réduisant ainsi le risque de tomber dans les pièges des escroqueries ou de perdre des actifs par négligence.
+3. **Donner du Pouvoir aux Utilisateurs** : Cosmos propose une vaste gamme d'applications, allant du staking et de la gouvernance à la DeFi (finance décentralisée) et aux NFT (tokens non fongibles). En maîtrisant les bases, les utilisateurs peuvent interagir en toute confiance avec ces applications et tirer pleinement parti de ce que Cosmos a à offrir.
+
+À quoi s'attendre dans la série : La série « Comment utiliser Cosmos » couvre un large éventail de sujets, notamment les suivants, sans s'y limiter :
+
+1. Création et Sécurisation de Votre Portefeuille Cosmos : Apprenez comment configurer un portefeuille Cosmos en toute sécurité, y compris les meilleures pratiques pour la gestion des phrases de passe et l'authentification à deux facteurs.
+2. Transfert et Stockage d'Actifs : Comprenez comment envoyer, recevoir et stocker en toute sécurité des actifs dans votre portefeuille Cosmos, y compris à la fois les ATOM et les tokens provenant d'autres chaînes basées sur Cosmos.
+3. Participation à la Gouvernance : Explorez comment participer activement à la gouvernance blockchain, voter sur les propositions et contribuer au processus décisionnel au sein du Cosmos Hub.
+4. Staking pour des Récompenses : Découvrez l'univers du staking, déléguez vos tokens à des validateurs et gagnez des récompenses tout en contribuant à la sécurisation du réseau.
+5. Exploration de la DeFi sur Cosmos : Plongez dans le paysage de la finance décentralisée (DeFi) au sein de l'écosystème Cosmos, y compris les prêts, les emprunts et la fourniture de liquidités.
+6. NFTs et Au-Delà : Découvrez l'espace en pleine croissance des tokens non fongibles (NFT) sur Cosmos, et apprenez comment acheter, vendre et échanger ces actifs numériques uniques.
+
+</details>
