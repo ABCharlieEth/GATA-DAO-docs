@@ -27,10 +27,6 @@ _**Voting Yes, You support the proposal.**_ _**Voting No, You do not support the
 Voting start time : 26 OCT 2023 2:40 pm UTC \
 Voting end time : 28 OCT 2023 2:40 pm UTC
 
-
-
-
-
 ## Result
 
-Pendding
+Proposal passed in favor to fund validator operations with 2800 Atom.&#x20;
