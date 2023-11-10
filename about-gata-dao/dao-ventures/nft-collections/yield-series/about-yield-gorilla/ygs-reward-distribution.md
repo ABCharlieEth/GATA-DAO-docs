@@ -4,6 +4,11 @@ description: Epoch record of YG collection
 
 # YGs Reward Distribution
 
+## YG Epoch 8
+
+November 2023\
+Yet to be distributed
+
 ## YG Epoch 7
 
 3rd October 2023
