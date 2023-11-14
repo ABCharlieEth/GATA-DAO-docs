@@ -32,3 +32,13 @@ Because every network has different slashing parameters, we cannot give you esti
 * **Atom**
 * **Teritori**
 * **Omniflix**
+
+## **Slash/Refund events**
+
+{% file src="../../../.gitbook/assets/gata_passage_delegator_slash_refund.xlsx" %}
+downtime slashed
+{% endfile %}
+
+{% file src="../../../.gitbook/assets/gata_akash_delegator_slash_refund.xlsx" %}
+downtime slashed
+{% endfile %}
