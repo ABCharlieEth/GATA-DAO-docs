@@ -35,9 +35,17 @@ Because every network has different slashing parameters, we cannot give you esti
 
 ## **Slash/Refund events**
 
+**Passage validator**&#x20;
+
+October 2023 for unknown reason.
+
 {% file src="../../../.gitbook/assets/gata_passage_delegator_slash_refund.xlsx" %}
 downtime slashed
 {% endfile %}
+
+**Akash validator**
+
+November 2023 when node traffic got stuck and validator lost connection to peers.
 
 {% file src="../../../.gitbook/assets/gata_akash_delegator_slash_refund.xlsx" %}
 downtime slashed
