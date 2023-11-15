@@ -284,7 +284,7 @@ GATA Epoch 13
 
 ## GATA DAO EPOCH 14
 
-GATA DOA epoch 13 form 1st SEP 2023 - 30th SEP 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.0.08/Atom/GATA. \
+GATA DOA epoch 14 form 1st SEP 2023 - 30th SEP 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.0.08/Atom/GATA. \
 \
 Total Atom Distributed: 140 Atom\
 Distribution Date: October 03, 2023
@@ -306,3 +306,11 @@ GATA Epoch 14
 | GATA DAO treasury + Rollover     | 3 $Atom              | 21 USD             |
 | Royalties + 0base.vc partnership | 33.5 $Atom           | 235 USD            |
 | **Total**                        | **140 USD**          | **980 Atom**       |
+
+## GATA DAO EPOCH 15
+
+GATA DOA epoch 15 form 1st OCT 2023 - 30th OCT 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.0.09/Atom/GATA. \
+\
+Total Atom Distributed: 158 Atom\
+Distribution Date: November 15, 2023
+
