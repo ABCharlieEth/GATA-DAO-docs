@@ -6,8 +6,11 @@ description: Epoch record of YG collection
 
 ## YG Epoch 8
 
-November 2023\
-Yet to be distributed
+15th, November 2023
+
+{% file src="../../../../../.gitbook/assets/YG Epoch 8 distribution .txt" %}
+
+<figure><img src="../../../../../.gitbook/assets/gata-yg-rewards-2023-11-epoch-8.jpg" alt=""><figcaption><p>YG Epoch 8</p></figcaption></figure>
 
 ## YG Epoch 7
 
