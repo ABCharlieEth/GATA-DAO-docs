@@ -314,3 +314,22 @@ GATA DOA epoch 15 form 1st OCT 2023 - 30th OCT 2023. Where 1727/1887 eligible GA
 Total Atom Distributed: 158 Atom\
 Distribution Date: November 15, 2023
 
+{% file src="../.gitbook/assets/GATA Epoch 15 reward distribution.txt" %}
+GATA epoch 15
+{% endfile %}
+
+| Source                           | Total Atom generated | Total USD @ 10/Atom |
+| -------------------------------- | -------------------- | ------------------- |
+| Atom Validator                   | 52 $Atom             | 520 USD             |
+| Juno Validator                   | 7.9 $Atom            | 79 USD              |
+| OSMO Validator                   | 5.6 $Atom            | 56 USD              |
+| Omniflix Validator               | 19.6 $Atom           | 196 USD             |
+| Akash Validator                  | 3 $Atom              | 30 USD              |
+| Teritori Validator               | 5.4 $Atom            | 54 USD              |
+| Evmos Validator                  | 5.2 $Atom            | 52 USD              |
+| Archway Validator                | 6.6 $Atom            | 66 USD              |
+| GATA DAO treasury + Rollover     | 8 $Atom              | 80 USD              |
+| TIA Airdrop                      | 38.5 $Atom           | 385 USD             |
+| Royalties + 0base.vc partnership | 6 $Atom              | 60 USD              |
+| **Total**                        | **158 $Atom**        | **1580 USD**        |
+
