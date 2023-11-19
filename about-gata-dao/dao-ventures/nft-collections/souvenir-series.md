@@ -40,36 +40,42 @@ All winners will be selected automatically.
 
 <summary>Monthly Rewards - GATA x Omniflix 4/20 Launch souvenir</summary>
 
-### First Monthly rewards (June 2023)
+### First Monthly Rewards (June 2023)
 
 10 YG neat/elemental 10 winners \
 100 Flix 10 winners 10 Flix each  \
 [https://twitter.com/GataDaoZone/status/1670083887052242947?s=20](https://twitter.com/GataDaoZone/status/1670083887052242947?s=20)&#x20;
 
-### **Second Monthly rewards (July 2023)**
+### **Second Monthly Rewards (July 2023)**
 
 Bought \~$100 worth of GALA x Omniflix launch souvenir to burn.  [https://omniflix.market/account/omniflix1dd7s79l4aghwssrnqagryj8ud38qmd9vjdsq6q/nfts](https://omniflix.market/account/omniflix1dd7s79l4aghwssrnqagryj8ud38qmd9vjdsq6q/nfts)
 
-### Third Monthly rewards (August 2023)
+### Third Monthly Rewards (August 2023)
 
 1x 10 AiG\
 20x 10 ARCH
 
 [https://twitter.com/GataDaoZone/status/1691383512371286017?s=20](https://twitter.com/GataDaoZone/status/1691383512371286017?s=20)
 
-### **Fourth Monthly rewards (September 2023)**
+### **Fourth Monthly Rewards (September 2023)**
 
 1x 10  AIG NFTs\
 20x 10 ARCH\
-20x 10 Flix&#x20;
+20x 10 FLIX
 
 [https://twitter.com/GataDaoZone/status/1703390790699888740/photo/1](https://twitter.com/GataDaoZone/status/1703390790699888740/photo/1)
 
-### **Fifth Monthly rewards (October 2023)**
+### **Fifth Monthly Rewards (October 2023)**
 
-50 Flix each to 10 holders. Total 500 Flix&#x20;
+50 FLIX each to 10 holders. Total 500 FLIX
 
 [https://twitter.com/GataDaoZone/status/1714617825099481432](https://twitter.com/GataDaoZone/status/1714617825099481432)
+
+### Sixth Monthly Rewards (November 2023)
+
+15 FLIX each to 15 holders. Total 225 FLIX
+
+[https://twitter.com/GataDaoZone/status/1725197163796258903](https://twitter.com/GataDaoZone/status/1725197163796258903)
 
 </details>
 
