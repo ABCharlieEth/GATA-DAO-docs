@@ -19,6 +19,7 @@
     * [Slash protection policy](about-gata-dao/dao-ventures/gata-validators/slash-protection-policy.md)
     * [ICS Partner chains](about-gata-dao/dao-ventures/gata-validators/ics-partner-chains.md)
     * [GATA testnet validator](about-gata-dao/dao-ventures/gata-validators/gata-testnet-validator.md)
+    * [Foundation delegations](about-gata-dao/dao-ventures/gata-validators/foundation-delegations.md)
   * [GATA Staking/Delegations](about-gata-dao/dao-ventures/gata-staking-delegations.md)
 * [💱 DAO Revenue](about-gata-dao/dao-revenue.md)
 * [💰 DAO Treasury ](about-gata-dao/dao-treasury.md)
