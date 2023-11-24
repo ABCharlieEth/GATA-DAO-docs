@@ -8,4 +8,10 @@ Foundation delegation involves the action of a blockchain or cryptocurrency foun
 
 
 
-<table><thead><tr><th>Foundation</th><th>Term/Award date</th><th>Token</th><th data-type="number">Amount</th><th>Details</th></tr></thead><tbody><tr><td>ICF</td><td>Dec 2022</td><td>ATOM</td><td>null</td><td></td></tr><tr><td>ICF</td><td></td><td></td><td>null</td><td></td></tr><tr><td></td><td></td><td></td><td>null</td><td></td></tr><tr><td></td><td></td><td></td><td>null</td><td></td></tr><tr><td></td><td></td><td></td><td>null</td><td></td></tr></tbody></table>
+| Foundation | Term/Award date      | Token | Amount         | Details |
+| ---------- | -------------------- | ----- | -------------- | ------- |
+| ICF        | Dec 2022-23          | ATOM  | 13.7K Atom     |         |
+| Juno DAO   | August 2023-Dec 2023 | JUNo  | 102K Juno      |         |
+| ICF        |                      | ATOM  |                |         |
+| ICF        |                      | OSMO  |                |         |
+| Archway    |                      | ARCH  | 3 million Arch |         |
