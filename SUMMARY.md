@@ -75,6 +75,7 @@
   * [Governance proposal 11](gata-constitution/governance-proposal-11.md)
   * [Governance proposal 12](gata-constitution/governance-proposal-12.md)
   * [Governance proposal 13](gata-constitution/governance-proposal-13.md)
+  * [Governance proposal 14](gata-constitution/governance-proposal-14.md)
 * [📙 Disclaimer](disclaimer.md)
 
 ## 🧑🤝🧑 What's cooking in DAO community
