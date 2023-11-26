@@ -25,4 +25,5 @@ Community support for validator: less than 50 delegators \
 **Proposal** Shut down the GATA DAO passage validator by 15 Dec, 2023 (with 3 weeks notice to redelegate) and start the Stargaze validator in the coming days.  Voting ends 25 Nov 2023, 16:30 UTC (3 days)\
 \
 **Result** \
-**Proposal passed.**&#x20;
+**Proposal passed. with 54 votes for the prop and 4 votes against it.** \
+_it was a discord vote on a gated channel._&#x20;
