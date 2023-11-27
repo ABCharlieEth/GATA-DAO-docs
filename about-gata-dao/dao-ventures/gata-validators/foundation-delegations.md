@@ -12,6 +12,6 @@ Foundation delegation involves the action of a blockchain or cryptocurrency foun
 | ---------- | -------------------- | ----- | -------------- | ------- |
 | ICF        | Dec 2022-23          | ATOM  | 13.7K Atom     |         |
 | Juno DAO   | August 2023-Dec 2023 | JUNo  | 102K Juno      |         |
-| ICF        |                      | ATOM  |                |         |
-| ICF        |                      | OSMO  |                |         |
+| ICF        | Dec 2023- Nov 2024   | ATOM  | 178K Atom      |         |
+| ICF        | Dec 2023- Nov 2024   | OSMO  | 5K Osmo        |         |
 | Archway    |                      | ARCH  | 3 million Arch |         |
