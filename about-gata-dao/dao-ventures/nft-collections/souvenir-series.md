@@ -4,7 +4,7 @@ description: GATA NFT series to celebrate the important blockchain events.
 
 # Souvenir Series
 
-## GATA x Omniflix 4/20 Launch souvenir
+## 1- GATA x Omniflix 4/20 Launch souvenir
 
 <details>
 
@@ -79,7 +79,7 @@ Bought \~$100 worth of GALA x Omniflix launch souvenir to burn.  [https://omnifl
 
 </details>
 
-## GATA Delegator Reward 2023
+## 2- GATA Delegator Reward 2023
 
 <details>
 
@@ -89,3 +89,6 @@ Bought \~$100 worth of GALA x Omniflix launch souvenir to burn.  [https://omnifl
 [Marketplace](https://omniflix.market/collection/onftdenom20f3bdc8be264bd8a17c39bbb3c6a421)&#x20;
 
 </details>
+
+## 3- GATA GAZE 7 (GG7)
+
