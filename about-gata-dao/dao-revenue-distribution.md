@@ -333,3 +333,9 @@ GATA epoch 15
 | Royalties + 0base.vc partnership | 6 $Atom              | 60 USD              |
 | **Total**                        | **158 $Atom**        | **1580 USD**        |
 
+## GATA DAO EPOCH 16
+
+GATA DOA epoch 16 form 1st NOV 2023 - 30th NOV 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.0.08/Atom/GATA. \
+\
+Total Atom Distributed: 140 Atom\
+Distribution Date: December 02, 2023
