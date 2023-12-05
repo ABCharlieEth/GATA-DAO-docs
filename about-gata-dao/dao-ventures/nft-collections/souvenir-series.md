@@ -92,4 +92,6 @@ Bought \~$100 worth of GALA x Omniflix launch souvenir to burn.  [https://omnifl
 
 ## 3- GATA GAZE 7 (GG7)
 
-Limited open edition mint by GATA DAO, visual art animated by Brasco. GG7 is your lucky charm & a psychedelic tribute from GATA to Stargaze. From genesis mint till now, we've all seen a lot in the past year - there's no better time than now to celebrate the common journey of Stargaze & GATA together. Made by GATA with love.
+Limited open edition mint by GATA DAO, visual art animated by [Brasco](https://twitter.com/Tabrasco). GG7 is your lucky charm & a psychedelic tribute from GATA to Stargaze. From genesis mint till now, we've all seen a lot in the past year - there's no better time than now to celebrate the common journey of Stargaze & GATA together. Made by GATA with love.
+
+[Mint here. ](https://www.stargaze.zone/l/stars1z06x39dtmu2ng3a4hwv976dkqx6fu6v7aslml4nv7mv5dwn47wfqn9k3rn)
