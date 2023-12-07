@@ -339,3 +339,11 @@ GATA DOA epoch 16 form 1st NOV 2023 - 30th NOV 2023. Where 1727/1887 eligible GA
 \
 Total Atom Distributed: 140 Atom\
 Distribution Date: December 02, 2023
+
+
+
+| Source | Total Atom generated | Total USD @ 10/Atom |
+| ------ | -------------------- | ------------------- |
+|        |                      |                     |
+|        |                      |                     |
+|        |                      |                     |
