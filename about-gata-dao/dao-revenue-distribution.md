@@ -340,10 +340,16 @@ GATA DOA epoch 16 form 1st NOV 2023 - 30th NOV 2023. Where 1727/1887 eligible GA
 Total Atom Distributed: 140 Atom\
 Distribution Date: December 02, 2023
 
-
-
-| Source | Total Atom generated | Total USD @ 10/Atom |
-| ------ | -------------------- | ------------------- |
-|        |                      |                     |
-|        |                      |                     |
-|        |                      |                     |
+| Source                           | Total Atom generated | Total USD @ 10/Atom |
+| -------------------------------- | -------------------- | ------------------- |
+| Atom Validator                   | 53 $Atom             | 530 USD             |
+| Juno Validator                   | 6 $Atom              | 60 USD              |
+| Osmosis Validator                | 7.1 $Atom            | 71 USD              |
+| Akash Validator                  | 4.5 $Atom            | 45 USD              |
+| Omniflix Validator               | 17 $Atom             | 170 USD             |
+| Archway Validator                | 11.4 $Atom           | 114 USD             |
+| Evmos Validator                  | 5.3 $Atom            | 53 USD              |
+| Teritori Validator               | 5.8 $Atom            | 58 USD              |
+| GATA DAO treasury + Rollover     | 24 $Atom             | 240 USD             |
+| Royalties + 0base.vc partnership | 6 $Atom              | 60 USD              |
+| **Total**                        | **140 $Atom**        | **1400 USD**        |
