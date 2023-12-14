@@ -7,9 +7,9 @@
 
 * [🎯 DAO Ventures](about-gata-dao/dao-ventures/README.md)
   * [NFT Collections](about-gata-dao/dao-ventures/nft-collections/README.md)
-    * [GATA series (DAO Voting rights)](about-gata-dao/dao-ventures/nft-collections/gata-series-dao-voting-rights/README.md)
-      * [Origin of γάτα](about-gata-dao/dao-ventures/nft-collections/gata-series-dao-voting-rights/origin-of-gata.md)
-      * [Origin of Voyagers](about-gata-dao/dao-ventures/nft-collections/gata-series-dao-voting-rights/origin-of-voyagers.md)
+    * [GATA series](about-gata-dao/dao-ventures/nft-collections/gata-series/README.md)
+      * [Origin of γάτα](about-gata-dao/dao-ventures/nft-collections/gata-series/origin-of-gata.md)
+      * [Origin of Voyagers](about-gata-dao/dao-ventures/nft-collections/gata-series/origin-of-voyagers.md)
     * [Yield series](about-gata-dao/dao-ventures/nft-collections/yield-series/README.md)
       * [About Yield Gorilla](about-gata-dao/dao-ventures/nft-collections/yield-series/about-yield-gorilla/README.md)
         * [YG Delegations](about-gata-dao/dao-ventures/nft-collections/yield-series/about-yield-gorilla/yg-delegations.md)

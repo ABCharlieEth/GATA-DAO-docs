@@ -11,7 +11,7 @@ Every GATA series NFT will have the same utility regardless of rank, minting dat
 Total of 9 collections have been planned comprising approximately 5000 NFT for GATA series. \
 \
 [More details about the collection.  \
-](gata-series-dao-voting-rights/)\
+](gata-series/)\
 **Colonial Cats (GATAc)** being the very first GATA series collection with a total of 999 NFTs.
 
 **Voyager Cats (GATAv)** being the second GATA series collection with a total of 888 NFTs.
