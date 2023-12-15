@@ -1,4 +1,4 @@
-# Phase 1 (completed)
+# 2022 Milestones
 
 Phase 1 of the road map is about the foundation of DAO and its expansion.&#x20;
 
@@ -40,8 +40,16 @@ Phase 1 of the road map is about the foundation of DAO and its expansion.&#x20;
 
 1\)    Launch of next NFT collections on different platforms across Cosmos to onboard new users and bring more liquidity to expand the operations.
 
+* Launch of GATA-v [888 Voyager Cats](../dao-ventures/nft-collections/gata-series/origin-of-voyagers.md) as a DAO second collection of GATA Series&#x20;
+* Launch of First Yield series, [Yield Gorillas](../dao-ventures/nft-collections/yield-series/about-yield-gorilla/). Not only another successful series but also on a different chain in Cosmos.  &#x20;
+
 2\)    Participation in incentivized Test-nets of new sovereign blockchains.
+
+* TORI airdrop for GATA Holders&#x20;
+* Cosmos airdrop for GATA Holders
 
 3\)    Strengthening the DAO Treasury.
 
 4\)    Exploring new streams of revenue.
+
+* Started **Cosmos** validator in August 2022 ([Gov prop 7](../../gata-constitution/governance-proposal-7.md))

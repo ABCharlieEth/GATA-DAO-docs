@@ -25,8 +25,9 @@
 * [💰 DAO Treasury ](about-gata-dao/dao-treasury.md)
 * [💵 DAO Revenue Distribution](about-gata-dao/dao-revenue-distribution.md)
 * [📻 Road Map](about-gata-dao/road-map/README.md)
-  * [Phase 1 (completed)](about-gata-dao/road-map/phase-1-completed.md)
-  * [Phase 2 (WIP)](about-gata-dao/road-map/phase-2-wip.md)
+  * [2022 Milestones](about-gata-dao/road-map/2022-milestones.md)
+  * [2023 Milestones](about-gata-dao/road-map/2023-milestones.md)
+  * [2024 Road Map](about-gata-dao/road-map/2024-road-map.md)
 
 ## 🔯 Cosmos ecosystem
 
