@@ -6,15 +6,18 @@
 
 ### Q2 2023
 
-* Launch of Souvenir Series&#x20;
-* Launch of Omniflix validator&#x20;
+* Launch of [Souvenir Series](../dao-ventures/nft-collections/souvenir-series.md); to make important events even more memorable.&#x20;
+* Launch of [Omniflix validator](../dao-ventures/gata-validators/)
 * Launch of  GATA Relay services
-* Launch of Akash Network validator&#x20;
+* Launch of [Akash](../dao-ventures/gata-validators/) Network validator&#x20;
 
 ### Q3 2023
 
-* Launch of AIG&#x20;
+* Launch of [AIG](../../gata-game/aig-lore.md); Apes in games (The complete launch postponed after delayed from the launchpad)
+* Launch of Archway Validator &#x20;
 * Launch of Passage Network Validator
+
+### Q4 2023
 
 &#x20;\
 
