@@ -14,11 +14,12 @@
 ### Q3 2023
 
 * Launch of [AIG](../../gata-game/aig-lore.md); Apes in games (The complete launch postponed after delayed from the launchpad)
-* Launch of Archway Validator &#x20;
-* Launch of Passage Network Validator
+* Launch of [Archway Validator ](../dao-ventures/gata-validators/)&#x20;
+* Launch of [Passage Network](../dao-ventures/gata-validators/) Validator
 
 ### Q4 2023
 
-&#x20;\
+* Launch of [GATA Stargaze validator](../dao-ventures/gata-validators/)
+* Launch of GATA GAZE 7  \
 
 
