@@ -20,6 +20,7 @@
 ### Q4 2023
 
 * Launch of [GATA Stargaze validator](../dao-ventures/gata-validators/)
-* Launch of GATA GAZE 7  \
+* Launch of [GATA GAZE 7](../dao-ventures/nft-collections/souvenir-series.md)
+* Airdrop of GATA Christmas collection to all the stakeholders   ( \~8000 Unique addresses) \
 
 
