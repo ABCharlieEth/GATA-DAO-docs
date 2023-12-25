@@ -117,7 +117,7 @@ Raffle rewards \
 2023 is coming to an end, it's time to celebrate. GATA is sending these greetings to people who took part in our common journey through this eventful year & stood on board. The whole GATA team is wishing you a Merry Christmas!
 
 [Open edition mint on Stargaze  \
-](https://www.stargaze.zone/l/stars1zs489w6yyymufw9wq97qzh3947jrm2da5n6zcxthx5zze6q88udqu9m8vh)Airdropped to \~8000 GATA stakeholders&#x20;
+](https://www.stargaze.zone/l/stars1zs489w6yyymufw9wq97qzh3947jrm2da5n6zcxthx5zze6q88udqu9m8vh)Free mint to \~5500 GATA stakeholders&#x20;
 
 </details>
 

@@ -23,6 +23,4 @@
 
 * Launch of [GATA Stargaze validator](../dao-ventures/gata-validators/)
 * Launch of [GATA GAZE 7](../dao-ventures/nft-collections/souvenir-series.md) on Omniflix network
-* Airdrop of [GATA Christmas collection 2023](https://www.stargaze.zone/l/stars1zs489w6yyymufw9wq97qzh3947jrm2da5n6zcxthx5zze6q88udqu9m8vh) to all the stakeholders   ( \~8000 Unique addresses) launched on Stargaze network.  \
-
-
+* Free mint of [GATA Christmas collection 2023](https://www.stargaze.zone/l/stars1zs489w6yyymufw9wq97qzh3947jrm2da5n6zcxthx5zze6q88udqu9m8vh) to all the stakeholders   ( \~5500 Unique addresses) launched on Stargaze network. &#x20;
