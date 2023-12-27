@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/0_2W8cuangbH6DazDG.webp
+coverY: -70
+---
+
 # 2023 Milestones
 
 ## Q1 2023
