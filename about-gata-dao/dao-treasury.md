@@ -7,7 +7,7 @@ description: Total assets/tokens present in the DAO treasury.
 ### Tokens held in the GATA DAO treasury
 
 {% hint style="info" %}
-Treasury balances last updated Dec 13, 2023
+Treasury balances last updated Dec 31, 2023
 {% endhint %}
 
 {% hint style="info" %}
@@ -16,9 +16,20 @@ Approximate value of treasury $25K USD
 
 The complete list and detail of assets Staked or liquid in DAO Treasury is as follows
 
-<table><thead><tr><th width="104">Token</th><th width="150">Total</th><th width="105">Available</th><th width="94">Staked</th><th>Address</th></tr></thead><tbody><tr><td>$Atom</td><td>10 $ATOM</td><td>10 $ATOM</td><td>0 $Atom</td><td>scosmos1whjay3z7ww5zzhydxpt8xffu587jh9905f7jvf</td></tr><tr><td>$ETH</td><td>0.72 ETH</td><td>0.72 ETH</td><td>0 ETH</td><td>osmo1whjay3z7ww5zzhydxpt8xffu587jh990ujdz6m</td></tr><tr><td>$STARS</td><td>100K $Stars</td><td>0 $Stars</td><td>100k $STARS</td><td>stars1whjay3z7ww5zzhydxpt8xffu587jh990q4f08c</td></tr><tr><td>$MNTL (airdropped)</td><td>1815 $MNTL</td><td>605 $MNTL</td><td>1210 $MNTL</td><td>mantle1whjay3z7ww5zzhydxpt8xffu587jh9902d9hnr</td></tr><tr><td>$USDC-AXL</td><td>85 $USDC</td><td>85 USDC</td><td>0 USDC</td><td>osmo1whjay3z7ww5zzhydxpt8xffu587jh990ujdz6m</td></tr><tr><td>$TORI (Airdropped)</td><td>100K $TORI</td><td>0 $TORI</td><td>100K $TORI</td><td>tori1dyduggaqthztgm8tnk59flkeu3l3qvpzj9w997</td></tr></tbody></table>
+<table><thead><tr><th width="104">Token</th><th width="150">Total</th><th width="105">Available</th><th width="94">Staked</th><th>Address</th></tr></thead><tbody><tr><td>$Atom</td><td>10 $ATOM</td><td>10 $ATOM</td><td>0 $Atom</td><td>scosmos1whjay3z7ww5zzhydxpt8xffu587jh9905f7jvf</td></tr><tr><td>$ETH</td><td>0.75 ETH</td><td>0.75 ETH</td><td>0 ETH</td><td>osmo1whjay3z7ww5zzhydxpt8xffu587jh990ujdz6m</td></tr><tr><td>$STARS</td><td>100K $Stars</td><td>0 $Stars</td><td>100k $STARS</td><td>stars1whjay3z7ww5zzhydxpt8xffu587jh990q4f08c</td></tr><tr><td>$MNTL (airdropped)</td><td>1815 $MNTL</td><td>605 $MNTL</td><td>1210 $MNTL</td><td>mantle1whjay3z7ww5zzhydxpt8xffu587jh9902d9hnr</td></tr><tr><td>$USDC-AXL</td><td>150 $USDC</td><td>150 USDC</td><td>0 USDC</td><td>noble1whjay3z7ww5zzhydxpt8xffu587jh990u2t658</td></tr><tr><td>$TORI (Airdropped)</td><td>100K $TORI</td><td>0 $TORI</td><td>100K $TORI</td><td>tori1dyduggaqthztgm8tnk59flkeu3l3qvpzj9w997</td></tr></tbody></table>
 
 
+
+## Treasury balances at 31st Dec 2023
+
+| Token | Balance    | Address                                       |
+| ----- | ---------- | --------------------------------------------- |
+| Ether | 0.75 ETH   | osmo1whjay3z7ww5zzhydxpt8xffu587jh990ujdz6m   |
+| STRAS | 100K STARS | stars1whjay3z7ww5zzhydxpt8xffu587jh990q4f08c  |
+| USDC  | 150 USDC   | noble1whjay3z7ww5zzhydxpt8xffu587jh990u2t658  |
+| TORI  | 100K TORI  | tori1dyduggaqthztgm8tnk59flkeu3l3qvpzj9w997   |
+| ATOM  | 10 ATOM    | cosmos1whjay3z7ww5zzhydxpt8xffu587jh9905f7jvf |
+| MNTL  | 2K MNTL    | mantle1whjay3z7ww5zzhydxpt8xffu587jh9902d9hnr |
 
 ### All the NFTs in GATA DAO Treasury&#x20;
 
