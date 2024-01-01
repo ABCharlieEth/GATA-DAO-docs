@@ -10,6 +10,8 @@ description: Epoch record of YG collection
 
 {% file src="../../../../../.gitbook/assets/YG epoch 10.txt" %}
 
+<figure><img src="../../../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+
 ## YG Epoch 9
 
 1st December 2023
