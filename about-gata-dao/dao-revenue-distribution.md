@@ -365,4 +365,4 @@ GATA DOA epoch 17 form 1st DEC 2023 - 31st DEC 2023. Where 1727/1887 eligible GA
 Total Atom Distributed: 190 Atom\
 Distribution Date: January 01, 2024
 
-gata epoch&#x20;
+gata epoch reward list
