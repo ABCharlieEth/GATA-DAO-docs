@@ -340,6 +340,10 @@ GATA DOA epoch 16 form 1st NOV 2023 - 30th NOV 2023. Where 1727/1887 eligible GA
 Total Atom Distributed: 140 Atom\
 Distribution Date: December 02, 2023
 
+{% file src="../.gitbook/assets/GATA epoch 16 reward distribution.txt" %}
+GATA EPOCH 16
+{% endfile %}
+
 | Source                           | Total Atom generated | Total USD @ 10/Atom |
 | -------------------------------- | -------------------- | ------------------- |
 | Atom Validator                   | 53 $Atom             | 530 USD             |
@@ -353,3 +357,12 @@ Distribution Date: December 02, 2023
 | GATA DAO treasury + Rollover     | 24 $Atom             | 240 USD             |
 | Royalties + 0base.vc partnership | 6 $Atom              | 60 USD              |
 | **Total**                        | **140 $Atom**        | **1400 USD**        |
+
+## GATA DAO EPOCH 17
+
+GATA DOA epoch 17 form 1st DEC 2023 - 31st DEC 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.11/Atom/GATA. \
+\
+Total Atom Distributed: 190 Atom\
+Distribution Date: January 01, 2024
+
+gata epoch&#x20;
