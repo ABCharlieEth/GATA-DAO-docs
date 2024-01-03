@@ -365,4 +365,20 @@ GATA DOA epoch 17 form 1st DEC 2023 - 31st DEC 2023. Where 1727/1887 eligible GA
 Total Atom Distributed: 190 Atom\
 Distribution Date: January 01, 2024
 
-gata epoch reward list
+{% file src="../.gitbook/assets/GATA epoch 17.txt" %}
+Epoch 17
+{% endfile %}
+
+| Source             | ATOM Revenue | USD value (11 USD/Atom) |
+| ------------------ | ------------ | ----------------------- |
+| Atom Validator     | 71.5 Atom    | 790 USD                 |
+| Akash Validator    | 9.3 Atom     | 102 USD                 |
+| Archway Validator  | 18 Atom      | 198 USD                 |
+| Evmos Validator    | 9.1 Atom     | 100 USD                 |
+| Juno Validator     | 4.8 Atom     | 53 USD                  |
+| Omniflix Validator | 43 Atom      | 473 USD                 |
+| Osmo Validator     | 17.3 Atom    | 190 USD                 |
+| Stargaze Validator | 3.8 Atom     | 42 USD                  |
+| Teritori Validator | 8.3 Atom     | 90 USD                  |
+| NFT Royalties      | 2 Atom       | 22 USD                  |
+| **Total**          | **190 Atom** | **2090 USD**            |
