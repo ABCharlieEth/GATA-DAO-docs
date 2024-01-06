@@ -1,5 +1,21 @@
 ---
 description: Last updated Dec 1, 2023
+cover: ../../../../../.gitbook/assets/755.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # YG Delegations
@@ -11,13 +27,13 @@ The original amount was staked at the end of the Mint.&#x20;
 | Atom  | [4920 Atom](https://www.mintscan.io/cosmos/account/cosmos1p454fm4rerxddn0uppen8hvckceylf7p7a2jpf)   | [GATA DAO](https://www.mintscan.io/cosmos/validators/cosmosvaloper10unx6s0cdqntvrumd5hs07rgd5ytcztqh8etw6) |
 | Tori  | [381000 Tori](https://www.mintscan.io/teritori/account/tori1p454fm4rerxddn0uppen8hvckceylf7pufam6e) | [GATA DAO](https://www.mintscan.io/teritori/validators/torivaloper1dyduggaqthztgm8tnk59flkeu3l3qvpzhhd6hn) |
 
-100% of the Yield Gorillas mint proceeds have been staked.&#x20;
+100% of the Yield Gorillas mint proceeds had been staked right after the mint.&#x20;
 
 ## YG monthly earnings&#x20;
 
+YG community voted to change the model of revenue generation from staking to LP in December 2023.&#x20;
 
-
-<table><thead><tr><th width="132">Period</th><th width="291">Total Earning from Staked assets</th><th width="200">Total earning from LP</th><th width="130">Staked Atom</th><th>Staked Tori</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="161">Period</th><th>Total Earning from Staked assets</th><th>Total earning from LP</th><th>Total LP value</th><th>Lottery</th><th>Burn</th><th>Staked Atom</th><th>Staked Tori</th></tr></thead><tbody><tr><td>Dec 31st 2023 </td><td>150 ATOM</td><td>0 Atom</td><td>0 Atom</td><td>0 atom</td><td>0 Atom</td><td>7828 Atom</td><td>381K Tori</td></tr><tr><td>Jan 1-30 2024</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 ## YG supply table
 

@@ -16,25 +16,25 @@ Now the question remains, are you ready to make yourself worthy of Colonial Cats
 
 Who rules the ruthless seas with the power to predict moves of the enemies, and has no trouble deciding on what actions to take. Possesses instincts that work like a gravitational force pulling him to loots and drops. Whales fear not to tread where the pirate γάτα sails.\
 \
-<img src="../../../../.gitbook/assets/image (2).png" alt="" data-size="original">
+<img src="../../../../.gitbook/assets/image (11).png" alt="" data-size="original">
 
 ## **The spy γάτα (gáta)**
 
 Ssshhhhhh!!! Listen! Something’s in the shadows. The Spy γάτα, their tales are engraved into the lore of every culture of every time. Even whispered secrets are known to them even when none were there to hear. The Spy γάτα has changed the tides of time more often than not.\
 \
-![](<../../../../.gitbook/assets/image (12).png>)
+![](<../../../../.gitbook/assets/image (13).png>)
 
 ## The Merchant γάτα (gáta)
 
 From the continent of wealth, treasures, and cultivation, with unmatched mastery in trading emerged the Indian Merchant γάτα (gáta). This gáta holds the skills to trade dust for gold without the aid of alchemy. Seldom deviating from purpose and discipline, even at times when there's blood on the streets, Indian Merchant γάτα (gáta) stays on winning sides.\
 \
-![](<../../../../.gitbook/assets/image (18).png>)
+![](<../../../../.gitbook/assets/image (10).png>)
 
 ## The Soldier γάτα (gáta)
 
 A colonial Soldier γάτα (gáta), protector of thrones whilst guarding the front lines at battlegrounds. Eras have passed but this has not affected the unbent loyalty of the British Soldier γάτα. While many sing songs of the soldier’s offensive adventures in wars, they are unaware of glorious powers that imbue his companions with strength and valor.\
 \
-![](<../../../../.gitbook/assets/image (15).png>)
+![](<../../../../.gitbook/assets/image (17).png>)
 
 ## The King γάτα (gáta)
 
