@@ -12,7 +12,7 @@
       * [Origin of Voyagers](about-gata-dao/dao-ventures/nft-collections/gata-series/origin-of-voyagers.md)
     * [Yield series](about-gata-dao/dao-ventures/nft-collections/yield-series/README.md)
       * [About Yield Gorilla](about-gata-dao/dao-ventures/nft-collections/yield-series/about-yield-gorilla/README.md)
-        * [YG Delegations](about-gata-dao/dao-ventures/nft-collections/yield-series/about-yield-gorilla/yg-delegations.md)
+        * [YG's Assets](about-gata-dao/dao-ventures/nft-collections/yield-series/about-yield-gorilla/ygs-assets.md)
         * [YGs Reward Distribution](about-gata-dao/dao-ventures/nft-collections/yield-series/about-yield-gorilla/ygs-reward-distribution.md)
     * [Souvenir Series](about-gata-dao/dao-ventures/nft-collections/souvenir-series.md)
   * [GATA Validators](about-gata-dao/dao-ventures/gata-validators/README.md)
