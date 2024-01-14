@@ -6,4 +6,4 @@ GATA DAO started it's operation in January 2022, In this section we will give yo
 
 The necessary routine tasks, and form an integral part of daily, weekly, or monthly operations.
 
-<table><thead><tr><th width="114">Task</th><th>Details </th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="160">Task</th><th>Details </th></tr></thead><tbody><tr><td>Infrastructure </td><td></td></tr><tr><td>Community </td><td></td></tr><tr><td>Foundation Delegation </td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
