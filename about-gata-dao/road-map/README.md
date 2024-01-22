@@ -6,4 +6,4 @@ GATA DAO started it's operation in January 2022, In this section we will give yo
 
 The necessary routine tasks, and form an integral part of daily, weekly, or monthly operations.
 
-<table><thead><tr><th width="160">Task</th><th>Details </th></tr></thead><tbody><tr><td>Infrastructure </td><td></td></tr><tr><td>Community </td><td></td></tr><tr><td>Foundation Delegation </td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="160">Task</th><th>Details </th></tr></thead><tbody><tr><td>Infrastructure </td><td>Add valuable CosmosSDK based chains from the early stage </td></tr><tr><td>Community </td><td></td></tr><tr><td>Foundation Delegations </td><td>Prepare for all the achiavble Foundation delegations and connect with the teams. </td></tr><tr><td></td><td></td></tr></tbody></table>
