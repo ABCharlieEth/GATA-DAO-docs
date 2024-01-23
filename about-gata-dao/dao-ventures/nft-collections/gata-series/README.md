@@ -6,7 +6,7 @@ description: >-
 
 # GATA series
 
-GATA Series NFT collection is the first series of GATA DAO and has the voting rights within the GATA DAO.
+GATA Series NFT collection is the first GATA Venture, and has the voting rights within the GATA DAO.
 
 {% tabs %}
 {% tab title="Colonial Cats (GATAc)" %}
