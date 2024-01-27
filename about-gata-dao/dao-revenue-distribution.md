@@ -210,7 +210,7 @@ Epoch 10
 GATA DAO EPOCH 11
 -----------------
 
-GATA DOA epoch 11 form 1st June 2023 - 30th June 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.0.09/Atom/GATA. \
+GATA DOA epoch 11 form 1st June 2023 - 30th June 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.09/Atom/GATA. \
 \
 Total Atom Distributed: 155 Atom\
 Distribution Date: July 05, 2023
@@ -234,7 +234,7 @@ Epoch 11
 
 ## GATA DAO EPOCH 12
 
-GATA DOA epoch 12 form 1st July 2023 - 31st July 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.0.075/Atom/GATA. \
+GATA DOA epoch 12 form 1st July 2023 - 31st July 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.075/Atom/GATA. \
 \
 Total Atom Distributed: 125 Atom\
 Distribution Date: August 03, 2023
@@ -258,7 +258,7 @@ GATA DAO Epoch 12
 
 ## GATA DAO EPOCH 13
 
-GATA DOA epoch 13 form 1st AUG 2023 - 31st AUG 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.0.075/Atom/GATA. \
+GATA DOA epoch 13 form 1st AUG 2023 - 31st AUG 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.075/Atom/GATA. \
 \
 Total Atom Distributed: 130 Atom\
 Distribution Date: September 01, 2023
@@ -284,7 +284,7 @@ GATA Epoch 13
 
 ## GATA DAO EPOCH 14
 
-GATA DOA epoch 14 form 1st SEP 2023 - 30th SEP 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.0.08/Atom/GATA. \
+GATA DOA epoch 14 form 1st SEP 2023 - 30th SEP 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.08/Atom/GATA. \
 \
 Total Atom Distributed: 140 Atom\
 Distribution Date: October 03, 2023
@@ -309,7 +309,7 @@ GATA Epoch 14
 
 ## GATA DAO EPOCH 15
 
-GATA DOA epoch 15 form 1st OCT 2023 - 30th OCT 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.0.09/Atom/GATA. \
+GATA DOA epoch 15 form 1st OCT 2023 - 30th OCT 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.09/Atom/GATA. \
 \
 Total Atom Distributed: 158 Atom\
 Distribution Date: November 15, 2023
@@ -335,7 +335,7 @@ GATA epoch 15
 
 ## GATA DAO EPOCH 16
 
-GATA DOA epoch 16 form 1st NOV 2023 - 30th NOV 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.0.08/Atom/GATA. \
+GATA DOA epoch 16 form 1st NOV 2023 - 30th NOV 2023. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.08/Atom/GATA. \
 \
 Total Atom Distributed: 140 Atom\
 Distribution Date: December 02, 2023
