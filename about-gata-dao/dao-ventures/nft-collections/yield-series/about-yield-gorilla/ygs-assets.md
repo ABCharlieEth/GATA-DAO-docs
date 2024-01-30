@@ -33,7 +33,7 @@ The original amount was staked at the end of the Mint.&#x20;
 
 YG community voted to change the model of revenue generation from staking to LP in December 2023.&#x20;
 
-<table><thead><tr><th width="161">Period</th><th>Total Earning from Staked assets</th><th>LP Yield</th><th>Total LP value</th><th>Lottery</th><th>Burn</th><th>Staked Atom</th><th>Staked Tori</th></tr></thead><tbody><tr><td>Dec 31st 2023 </td><td>150 Atom</td><td>0 Atom</td><td>0 Atom</td><td>0 atom</td><td>0 Atom</td><td>7828 Atom</td><td>381K Tori</td></tr><tr><td>Jan 1-30 2024</td><td>577 Atom</td><td>527 Atom</td><td>6000 Atom</td><td>21 Atom</td><td>21 Atom</td><td>1936 Atom (+106)</td><td>381K Tori</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="161">Period</th><th>Total Yield</th><th>Staked Yield </th><th>LP Yield</th><th>Total LP value</th><th>Lottery</th><th>Burn</th><th>Staked Atom</th><th>Staked Tori</th></tr></thead><tbody><tr><td>Dec 31st 2023 </td><td>150 Atom</td><td>150 Atom</td><td>0 Atom</td><td>0 Atom</td><td>0 atom</td><td>0 Atom</td><td>7828 Atom</td><td>381K Tori</td></tr><tr><td>Jan 1-30 2024</td><td>577 Atom</td><td>50 Atom</td><td>527 Atom</td><td>6000 Atom</td><td>21 Atom</td><td>21 Atom</td><td>1936 Atom (+106)</td><td>381K Tori</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 ## YG supply table
 
