@@ -7,7 +7,7 @@ description: Total assets/tokens present in the DAO treasury.
 ### Tokens held in the GATA DAO treasury
 
 {% hint style="info" %}
-Treasury balances last updated Dec 31, 2023
+Treasury balances last updated Jan 31, 2024
 {% endhint %}
 
 {% hint style="info" %}
@@ -24,7 +24,7 @@ The complete list and detail of assets Staked or liquid in DAO Treasury is as fo
 
 | Token | Balance    | Address                                       |
 | ----- | ---------- | --------------------------------------------- |
-| Ether | 0.75 ETH   | osmo1whjay3z7ww5zzhydxpt8xffu587jh990ujdz6m   |
+| Ether | 0.8 ETH    | osmo1whjay3z7ww5zzhydxpt8xffu587jh990ujdz6m   |
 | STRAS | 100K STARS | stars1whjay3z7ww5zzhydxpt8xffu587jh990q4f08c  |
 | USDC  | 150 USDC   | noble1whjay3z7ww5zzhydxpt8xffu587jh990u2t658  |
 | TORI  | 100K TORI  | tori1dyduggaqthztgm8tnk59flkeu3l3qvpzj9w997   |
