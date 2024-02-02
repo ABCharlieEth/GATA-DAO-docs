@@ -33,7 +33,7 @@ The original amount was staked at the end of the Mint.&#x20;
 
 YG community voted to change the model of revenue generation from staking to LP in December 2023.&#x20;
 
-<table><thead><tr><th width="161">Period</th><th>Total Yield</th><th>Staked Yield </th><th>LP Yield</th><th>Total LP value</th><th>Lottery</th><th>Burn</th><th>Staked Atom</th><th>Staked Tori</th></tr></thead><tbody><tr><td>Jan 1st 2024</td><td>150 Atom</td><td>150 Atom</td><td>0 Atom</td><td>0 Atom</td><td>0 Atom</td><td>0 Atom</td><td>1828 Atom</td><td>381K Tori</td></tr><tr><td>Jan 1-30 2024</td><td>577 Atom</td><td>50 Atom</td><td>527 Atom</td><td>6000 Atom</td><td>21 Atom</td><td>21 Atom</td><td>1936 Atom <a href="https://www.mintscan.io/cosmos/txs/144D5111953C969ED41ADCE3DEFE5EB34B0258117E97916B7C86A9238500F474?height=18948863">(+106.8)</a></td><td>381K Tori</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="161">Period</th><th>Total Yield</th><th>Staked Yield </th><th>LP Yield</th><th>Total LP value</th><th>Raffle</th><th>Burn</th><th>Staked Atom</th><th>Staked Tori</th></tr></thead><tbody><tr><td>Jan 1st 2024</td><td>150 Atom</td><td>150 Atom</td><td>0 Atom</td><td>0 Atom</td><td>0 Atom</td><td>0 Atom</td><td>1828 Atom</td><td>381K Tori</td></tr><tr><td>Jan 1-30 2024</td><td>577 Atom</td><td>50 Atom</td><td>527 Atom</td><td>6000 Atom</td><td><a href="https://dev.mintscan.io/cosmos/txs/879465749BAF67768736F3DCD808A749AEE1EEBA398764704103D71C738C1D60?height=18950243">21.5 Atom</a></td><td>21.5 Atom</td><td>1936 Atom <a href="https://www.mintscan.io/cosmos/txs/144D5111953C969ED41ADCE3DEFE5EB34B0258117E97916B7C86A9238500F474?height=18948863">(+106.8)</a></td><td>381K Tori</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 ## YG supply table
 
@@ -41,7 +41,7 @@ YG community voted to change the model of revenue generation from staking to LP 
 Last updated Dec 31, 2023.&#x20;
 {% endhint %}
 
-<table><thead><tr><th width="193">Skin</th><th width="119">Initial supply</th><th width="137">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>490</td><td>7130</td></tr><tr><td><strong>TOTAL</strong></td><td>10000</td><td>496</td><td>9480</td></tr></tbody></table>
+<table><thead><tr><th width="193">Skin</th><th width="119">Initial supply</th><th width="137">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>490</td><td>7106</td></tr><tr><td><strong>TOTAL</strong></td><td>10000</td><td>544</td><td>9456</td></tr></tbody></table>
 
 <details>
 
