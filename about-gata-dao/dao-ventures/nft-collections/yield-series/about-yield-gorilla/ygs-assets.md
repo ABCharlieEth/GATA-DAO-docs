@@ -1,5 +1,5 @@
 ---
-description: Last updated Dec 1, 2023
+description: Last updated Feb 3, 2023
 cover: ../../../../../.gitbook/assets/755.jpg
 coverY: 0
 layout:
@@ -38,7 +38,7 @@ YG community voted to change the model of revenue generation from staking to LP 
 ## YG supply table
 
 {% hint style="info" %}
-Last updated Dec 31, 2023.&#x20;
+Last updated Feb 3, 2024.&#x20;
 {% endhint %}
 
 <table><thead><tr><th width="193">Skin</th><th width="119">Initial supply</th><th width="137">Burned </th><th>Circulating supply</th></tr></thead><tbody><tr><td><strong>Legend/Bull</strong></td><td>240</td><td>6</td><td>234</td></tr><tr><td><strong>Mooned</strong></td><td>560</td><td>2</td><td>558</td></tr><tr><td><strong>Pump</strong>/<strong>Bear</strong></td><td>1568</td><td>10</td><td>1558</td></tr><tr><td><strong>Neat/Elemental</strong></td><td>7632</td><td>490</td><td>7106</td></tr><tr><td><strong>TOTAL</strong></td><td>10000</td><td>544</td><td>9456</td></tr></tbody></table>
