@@ -10,7 +10,7 @@ Leap is versatile multichain wallet for web3.&#x20;
 
 * Go to [https://www.leapwallet.io/#inpage-download](https://www.leapwallet.io/#inpage-download) and download the Leap wallet (this is the official website of Leap, always check the address / URL to avoid any kind of phishing attack)&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * To install the Leap wallet, you need to pick the right version, which depends on your operating system and your browser. You can install Leap on Chrome/Chromium based browsers as well as an app for your Android or iOS mobile device.
 
@@ -68,7 +68,7 @@ Leap is versatile multichain wallet for web3.&#x20;
 
 * Gehe auf [https://www.leapwallet.io/#inpage-download](https://www.leapwallet.io/#inpage-download) und lade die Leap Wallet herunter (dies ist die offizielle Website von Leap, überprüfe immer die Adresse/URL, um jede Art von Phishing-Angriff zu vermeiden)
 
-<img src="../../../.gitbook/assets/image (2).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (2) (1).png" alt="" data-size="original">
 
 * Um die Leap Wallet zu installieren, musst du die richtige Version auswählen. Diese hängt von deinem Betriebssystem und deinem Browser ab. Du kannst Leap auf Chrome/Chromium-basierten Browsern sowie als App für dein Android- oder iOS-Mobilgerät installieren.
 

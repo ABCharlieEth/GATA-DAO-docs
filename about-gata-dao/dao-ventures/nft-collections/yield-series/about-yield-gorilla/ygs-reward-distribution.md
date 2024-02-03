@@ -4,6 +4,16 @@ description: Epoch record of YG collection
 
 # YGs Reward Distribution
 
+## YG Epoch 11
+
+1st February 2024
+
+{% file src="../../../../../.gitbook/assets/YG EPOCH 11.txt" %}
+YG Epoch 11
+{% endfile %}
+
+<figure><img src="../../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 ## YG Epoch 10
 
 1st January 2024

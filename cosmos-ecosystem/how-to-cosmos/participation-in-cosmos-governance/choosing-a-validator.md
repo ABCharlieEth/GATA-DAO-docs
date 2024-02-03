@@ -2,7 +2,7 @@
 description: A Comprehensive Guide on Validator Selection
 ---
 
-# Chose your validators wisely
+# Choosing a validator
 
 Choosing the right validators is a fundamental aspect of IBC chains like Cosmos. Validators play a central role and your choice affects network security, your Staking Rewards, and more. In this guide, you'll learn how to choose your validators wisely.
 
@@ -34,7 +34,7 @@ Validator performance metrics include uptime, commissions, and historical perfor
 
 {% embed url="https://ping.pub/cosmos/uptime" %}
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### **Security Practices**
 
@@ -116,7 +116,7 @@ Zugleich is Reputation wichtig: Validatoren mit einer starken Erfolgsbilanz in B
 
 Zu den Leistungskennzahlen der Validatoren zählen Uptime, Commissions und die historische Performance. Validatoren mit hoher Uptime und wettbewerbsfähigen Commissions sind im Allgemeinen attraktiver. Tools wie das [Ping Dashboard](https://ping.pub/cosmos/uptime) sind nützlich, um diese Kennzahlen zu analysieren.
 
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (2).png" alt="" data-size="original">
 
 #### Sicherheitspraktiken
 
