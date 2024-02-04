@@ -15,7 +15,7 @@ GATA DAO aims to function as a decentralized autonomous organization that levera
 
 #### To generate passive income for NFT holders
 
-By owning GATA NFTs, holders can receive a share of the DAO's revenue, enabling them to earn passive income without actively participating in the organization's operations. The DAO generates revenue by running [Validators](about-gata-dao/dao-ventures/gata-validators/) on different blockchains, staking different assets, and NFT holders can benefit from this revenue stream.
+By owning GATA NFTs, holders can receive a share of the DAO's revenue, enabling them to earn passive income without actively participating in the organization's operations. The DAO generates revenue by running [Validators](about-gata-dao/projects-of-gata-ventures/gata-validators/) on different blockchains, staking different assets, and NFT holders can benefit from this revenue stream.
 
 #### To give back to the community
 

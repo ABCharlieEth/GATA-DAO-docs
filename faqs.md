@@ -18,7 +18,7 @@ GATA DAO (Decentralized Autonomous Organizations) is a group of people who holds
 
 <summary>How dose GATA DAO earns for their NFT holders?</summary>
 
-* By operating validators and getting commission from the [validators.](about-gata-dao/dao-ventures/gata-validators/)
+* By operating validators and getting commission from the [validators.](about-gata-dao/projects-of-gata-ventures/gata-validators/)
 
 <!---->
 
@@ -26,7 +26,7 @@ GATA DAO (Decentralized Autonomous Organizations) is a group of people who holds
 
 <!---->
 
-* [Staking](about-gata-dao/dao-ventures/gata-staking-delegations.md) rewards&#x20;
+* [Staking](about-gata-dao/projects-of-gata-ventures/gata-staking-delegations.md) rewards&#x20;
 
 </details>
 
@@ -42,7 +42,7 @@ GATA DAO distribute the revenue share with the GATA NFT holders each month, to c
 
 <summary>How many type of NFTs GATA DAO have? </summary>
 
-GATA DAO have 2 major categories GATA series and Non-GATA series, Non GATA series further have many sub categories. You can read all about the NFT collections [here](about-gata-dao/dao-ventures/nft-collections/).&#x20;
+GATA DAO have 2 major categories GATA series and Non-GATA series, Non GATA series further have many sub categories. You can read all about the NFT collections [here](about-gata-dao/projects-of-gata-ventures/nft-collections/).&#x20;
 
 </details>
 
@@ -50,7 +50,7 @@ GATA DAO have 2 major categories GATA series and Non-GATA series, Non GATA serie
 
 <summary>How many validators GATA DAO operates?</summary>
 
-GATA DAO operates validators across all the major CosmosSDK networks and we are continuously expanding, here you can check the current [count of validators](about-gata-dao/dao-ventures/gata-validators/). &#x20;
+GATA DAO operates validators across all the major CosmosSDK networks and we are continuously expanding, here you can check the current [count of validators](about-gata-dao/projects-of-gata-ventures/gata-validators/). &#x20;
 
 </details>
 
@@ -74,7 +74,7 @@ GATA DAO operates validators across all the major CosmosSDK networks and we are 
 
 <summary>What is GATA Slash protection?</summary>
 
-Slash protection policy is to protect the GATA delegators in case of slash event, you can read about the [policy](about-gata-dao/dao-ventures/gata-validators/slash-protection-policy.md) here.&#x20;
+Slash protection policy is to protect the GATA delegators in case of slash event, you can read about the [policy](about-gata-dao/projects-of-gata-ventures/gata-validators/slash-protection-policy.md) here.&#x20;
 
 </details>
 

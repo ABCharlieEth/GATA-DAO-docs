@@ -57,6 +57,6 @@ We will also add the exciting rewards during such mints to make these mints even
 {% endtab %}
 
 {% tab title="Other" %}
-Non-GATA series, mainly profile picture (PFP) and less utility from the GATA series i.e. these will not have the GATA series utility. They are primarily purposed for marketing and staking yield. yield gorillas (the first non-gata series) is the first collection of this series. [details](yield-series/about-yield-gorilla/)
+Non-GATA series, mainly profile picture (PFP) and less utility from the GATA series i.e. these will not have the GATA series utility. They are primarily purposed for marketing and staking yield. yield gorillas (the first non-gata series) is the first collection of this series. [details](yield-gorilla/about-yield-gorilla/)
 {% endtab %}
 {% endtabs %}
