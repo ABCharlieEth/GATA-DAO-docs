@@ -382,3 +382,11 @@ Epoch 17
 | Teritori Validator | 8.3 Atom     | 90 USD                  |
 | NFT Royalties      | 2 Atom       | 22 USD                  |
 | **Total**          | **190 Atom** | **2090 USD**            |
+
+## GATA DAO EPOCH 18
+
+GATA DOA epoch 18 form 1st Jan 2024 - 31st Jan 2024. Where 1727/1887 eligible GATA from Colonial Cats and Voyager Cats collections earned 0.11/Atom/GATA. \
+\
+Total Atom Distributed: 190 Atom\
+Distribution Date: February 01, 2024
+
