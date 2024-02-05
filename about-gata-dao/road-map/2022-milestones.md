@@ -34,14 +34,14 @@ Phase 1 of the road map is about the foundation of DAO and its expansion.&#x20;
 4\)    DAO’s website, DAO’s  on-chain voting (Magic transactions using memo) , and Reward distribution module.&#x20;
 
 * On chain Voting process using the memo and on chain transactions.&#x20;
-* Reward distribution started in August 2022 ( [details here](../projects-of-gata-ventures/gata-dao/dao-revenue-distribution.md))
+* Reward distribution started in August 2022 ( [details here](../projects-of-gata-ventures/gata-nft-dao/dao-revenue-distribution.md))
 
 ### Expansion  (Q3-4 2022)
 
 1\)    Launch of next NFT collections on different platforms across Cosmos to onboard new users and bring more liquidity to expand the operations.
 
-* Launch of GATA-v [888 Voyager Cats](../projects-of-gata-ventures/gata-series/origin-of-voyagers.md) as a DAO second collection of GATA Series&#x20;
-* Launch of First Yield series, [Yield Gorillas](../projects-of-gata-ventures/about-yield-gorilla/). Not only another successful series but also on a different chain in Cosmos.  &#x20;
+* Launch of GATA-v [888 Voyager Cats](../projects-of-gata-ventures/gata-nft-dao/about-gata-series/origin-of-voyagers.md) as a DAO second collection of GATA Series&#x20;
+* Launch of First Yield series, [Yield Gorillas](../projects-of-gata-ventures/yield-gorilla/). Not only another successful series but also on a different chain in Cosmos.  &#x20;
 
 2\)    Participation in incentivized Test-nets of new sovereign blockchains.
 

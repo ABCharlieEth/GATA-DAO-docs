@@ -4,8 +4,8 @@ description: >-
   Validator nodes and DAO staked assets across Cosmos.
 ---
 
-# 🎯 DAO Ventures
+# 🎯 Projects of GATA Ventures
 
 * [GATA DAO Validators](gata-validators/)
-* [GATA DAO NFT collections](nft-collections/)
-* [Staking and Delegations ](gata-staking-delegations.md) &#x20;
+* [GATA DAO NFT collections](nft-collections.md)
+* [Staking and Delegations ](gata-nft-dao/gata-dao-staking-delegations.md) &#x20;

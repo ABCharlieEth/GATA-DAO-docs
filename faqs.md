@@ -26,7 +26,7 @@ GATA DAO (Decentralized Autonomous Organizations) is a group of people who holds
 
 <!---->
 
-* [Staking](about-gata-dao/projects-of-gata-ventures/gata-staking-delegations.md) rewards&#x20;
+* [Staking](about-gata-dao/projects-of-gata-ventures/gata-nft-dao/gata-dao-staking-delegations.md) rewards&#x20;
 
 </details>
 
@@ -34,7 +34,7 @@ GATA DAO (Decentralized Autonomous Organizations) is a group of people who holds
 
 <summary>How many Epochs GATA DAO has distributed?</summary>
 
-GATA DAO distribute the revenue share with the GATA NFT holders each month, to check the details [read more](about-gata-dao/projects-of-gata-ventures/gata-dao/dao-revenue-distribution.md)_._&#x20;
+GATA DAO distribute the revenue share with the GATA NFT holders each month, to check the details [read more](about-gata-dao/projects-of-gata-ventures/gata-nft-dao/dao-revenue-distribution.md)_._&#x20;
 
 </details>
 
@@ -42,7 +42,7 @@ GATA DAO distribute the revenue share with the GATA NFT holders each month, to c
 
 <summary>How many type of NFTs GATA DAO have? </summary>
 
-GATA DAO have 2 major categories GATA series and Non-GATA series, Non GATA series further have many sub categories. You can read all about the NFT collections [here](about-gata-dao/projects-of-gata-ventures/nft-collections/).&#x20;
+GATA DAO have 2 major categories GATA series and Non-GATA series, Non GATA series further have many sub categories. You can read all about the NFT collections [here](about-gata-dao/projects-of-gata-ventures/nft-collections.md).&#x20;
 
 </details>
 
