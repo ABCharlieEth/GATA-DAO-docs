@@ -34,7 +34,7 @@ GATA DAO (Decentralized Autonomous Organizations) is a group of people who holds
 
 <summary>How many Epochs GATA DAO has distributed?</summary>
 
-GATA DAO distribute the revenue share with the GATA NFT holders each month, to check the details [read more](about-gata-dao/dao-revenue-distribution.md)_._&#x20;
+GATA DAO distribute the revenue share with the GATA NFT holders each month, to check the details [read more](about-gata-dao/projects-of-gata-ventures/gata-dao/dao-revenue-distribution.md)_._&#x20;
 
 </details>
 

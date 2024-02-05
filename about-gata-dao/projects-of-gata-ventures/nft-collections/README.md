@@ -11,7 +11,7 @@ Every GATA series NFT will have the same utility regardless of rank, minting dat
 Total of 9 collections have been planned comprising approximately 5000 NFT for GATA series. \
 \
 [More details about the collection.  \
-](gata-series/)\
+](../gata-series/)\
 **Colonial Cats (GATAc)** being the very first GATA series collection with a total of 999 NFTs.
 
 **Voyager Cats (GATAv)** being the second GATA series collection with a total of 888 NFTs.
@@ -57,6 +57,6 @@ We will also add the exciting rewards during such mints to make these mints even
 {% endtab %}
 
 {% tab title="Other" %}
-Non-GATA series, mainly profile picture (PFP) and less utility from the GATA series i.e. these will not have the GATA series utility. They are primarily purposed for marketing and staking yield. yield gorillas (the first non-gata series) is the first collection of this series. [details](yield-gorilla/about-yield-gorilla/)
+Non-GATA series, mainly profile picture (PFP) and less utility from the GATA series i.e. these will not have the GATA series utility. They are primarily purposed for marketing and staking yield. yield gorillas (the first non-gata series) is the first collection of this series. [details](../about-yield-gorilla/)
 {% endtab %}
 {% endtabs %}

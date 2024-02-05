@@ -8,7 +8,7 @@ ATOM holding wallet  [cosmos15pqtxqnntu64cw4m7v0nv2f35lfm3zzasz4z3d](https://www
 
 ## Reward accumulation&#x20;
 
-After the DAO [Proposal 7](../gata-constitution/governance-proposal-7.md); The reward distribution will occur on a monthly basis and in a month we will distribute a commission of 25 days and self-bond for the rest of the days in a month to increase and maintain the self-bonded ratio.&#x20;
+After the DAO [Proposal 7](../../../gata-constitution/governance-proposal-7.md); The reward distribution will occur on a monthly basis and in a month we will distribute a commission of 25 days and self-bond for the rest of the days in a month to increase and maintain the self-bonded ratio.&#x20;
 
 ## GATA DAO EPOCH 1
 
@@ -17,7 +17,7 @@ GATA DAO epoch 1  form 22nd July 2022 - 31st Aug 2022. Where 986/999 eligible GA
 Total Atom Distributed: 515 Atom\
 Distribution Date: Sep 1, 2022
 
-{% file src="../.gitbook/assets/GATA_DAO_1st_EPOCH_rewardl_ist.txt" %}
+{% file src="../../../.gitbook/assets/GATA_DAO_1st_EPOCH_rewardl_ist.txt" %}
 GATA DAO first Epoch addresses. 0.52/Atom/GATAc
 {% endfile %}
 
@@ -28,7 +28,7 @@ GATA DAO epoch 2  form 1st SEP 2022 - 30th SEP 2022. Where 1327/1887 eligible GA
 Total Atom Distributed: 570.6 Atom\
 Distribution Date: Oct 1, 2022
 
-{% file src="../.gitbook/assets/GATA DAO EPOCH 2.txt" %}
+{% file src="../../../.gitbook/assets/GATA DAO EPOCH 2.txt" %}
 GATA DAO Second Epoch addresses. 0.43/Atom/GATA
 {% endfile %}
 
@@ -39,7 +39,7 @@ GATA DOA epoch 3  form 1st OCT 2022 - 31st OCT 2022. Where 1327/1887 eligible GA
 Total Atom Distributed: 570.6 Atom\
 Distribution Date: Nov 1, 2022
 
-{% file src="../.gitbook/assets/GATA_DAO_3rd_epoch_Reward_list.txt" %}
+{% file src="../../../.gitbook/assets/GATA_DAO_3rd_epoch_Reward_list.txt" %}
 GATA DAO third EPOCH addresses. 0.43/Atom/GATA
 {% endfile %}
 
@@ -60,7 +60,7 @@ GATA DOA epoch 4  form 1st NOV 2022 - 30th NOV 2022. Where 1327/1887 eligible GA
 Total Atom Distributed: 680 Atom\
 Distribution Date: Dec 1, 2022
 
-{% file src="../.gitbook/assets/GATA_DAO_4th_EPOCH_Reward_list.txt" %}
+{% file src="../../../.gitbook/assets/GATA_DAO_4th_EPOCH_Reward_list.txt" %}
 GATA DAO fourth EPOCH addresses. 0.51/Atom/GATA
 {% endfile %}
 
@@ -81,7 +81,7 @@ GATA DOA epoch 5  form 1st Dec 2022 - 31st DEC 2022. Where 1327/1887 eligible GA
 Total Atom Distributed: 212 Atom\
 Distribution Date: Dec 31, 2022
 
-{% file src="../.gitbook/assets/GATA_DAO_5th_Epoch_Reward_list.txt" %}
+{% file src="../../../.gitbook/assets/GATA_DAO_5th_Epoch_Reward_list.txt" %}
 GATA DAO fifth epoch reward addresses
 {% endfile %}
 
@@ -101,7 +101,7 @@ GATA DOA epoch 6 form 1st Jan 2023 - 31st Jan 2023. Where 1327/1887 eligible GAT
 Total Atom Distributed: 175 Atom\
 Distribution Date: Feb 1, 2023
 
-{% file src="../.gitbook/assets/GATA_DAO_6th_epoch_reward_list.txt" %}
+{% file src="../../../.gitbook/assets/GATA_DAO_6th_epoch_reward_list.txt" %}
 GATA DAO 6th Epoch addresses
 {% endfile %}
 
@@ -121,7 +121,7 @@ GATA DOA epoch 7 form 1st Feb 2023 - 28th Feb 2023. Where 1627/1887 eligible GAT
 Total Atom Distributed: 195 Atom\
 Distribution Date: March 1, 2023
 
-{% file src="../.gitbook/assets/GATA_DAO_Epoch_7_reward_list.txt" %}
+{% file src="../../../.gitbook/assets/GATA_DAO_Epoch_7_reward_list.txt" %}
 GATA DAO 7th Epoch addresses
 {% endfile %}
 
@@ -143,7 +143,7 @@ GATA DOA epoch 8 form 1st March 2023 - 31st March 2023. Where 1727/1887 eligible
 Total Atom Distributed: 208 Atom\
 Distribution Date: April 1, 2023
 
-{% file src="../.gitbook/assets/GATA_Epoch_8_reward_list.txt" %}
+{% file src="../../../.gitbook/assets/GATA_Epoch_8_reward_list.txt" %}
 GATA DAO 8th Epoch addresses
 {% endfile %}
 
@@ -166,7 +166,7 @@ GATA DOA epoch 9 form 1st April 2023 - 30th April 2023. Where 1727/1887 eligible
 Total Atom Distributed: 208 Atom\
 Distribution Date: May 2, 2023
 
-{% file src="../.gitbook/assets/GATA_epoch_9_reward_list.txt" %}
+{% file src="../../../.gitbook/assets/GATA_epoch_9_reward_list.txt" %}
 Epoch 9
 {% endfile %}
 
@@ -189,7 +189,7 @@ GATA DOA epoch 10 form 1st May 2023 - 31st May 2023. Where 1727/1887 eligible GA
 Total Atom Distributed: 175 Atom\
 Distribution Date: May 31, 2023
 
-{% file src="../.gitbook/assets/GATA_Epoch_10__YG_Epoch_3.txt" %}
+{% file src="../../../.gitbook/assets/GATA_Epoch_10__YG_Epoch_3.txt" %}
 Epoch 10
 {% endfile %}
 
@@ -215,7 +215,7 @@ GATA DOA epoch 11 form 1st June 2023 - 30th June 2023. Where 1727/1887 eligible 
 Total Atom Distributed: 155 Atom\
 Distribution Date: July 05, 2023
 
-{% file src="../.gitbook/assets/GATA_Epoch_11_YG_Epoch_4_distribution.txt" %}
+{% file src="../../../.gitbook/assets/GATA_Epoch_11_YG_Epoch_4_distribution.txt" %}
 Epoch 11
 {% endfile %}
 
@@ -239,7 +239,7 @@ GATA DOA epoch 12 form 1st July 2023 - 31st July 2023. Where 1727/1887 eligible 
 Total Atom Distributed: 125 Atom\
 Distribution Date: August 03, 2023
 
-{% file src="../.gitbook/assets/GATA Epoch 12 distribution.txt" %}
+{% file src="../../../.gitbook/assets/GATA Epoch 12 distribution.txt" %}
 GATA DAO Epoch 12
 {% endfile %}
 
@@ -263,7 +263,7 @@ GATA DOA epoch 13 form 1st AUG 2023 - 31st AUG 2023. Where 1727/1887 eligible GA
 Total Atom Distributed: 130 Atom\
 Distribution Date: September 01, 2023
 
-{% file src="../.gitbook/assets/GATA distribution Epoch 13.txt" %}
+{% file src="../../../.gitbook/assets/GATA distribution Epoch 13.txt" %}
 GATA Epoch 13
 {% endfile %}
 
@@ -289,7 +289,7 @@ GATA DOA epoch 14 form 1st SEP 2023 - 30th SEP 2023. Where 1727/1887 eligible GA
 Total Atom Distributed: 140 Atom\
 Distribution Date: October 03, 2023
 
-{% file src="../.gitbook/assets/GATA Reward epoch 14.txt" %}
+{% file src="../../../.gitbook/assets/GATA Reward epoch 14.txt" %}
 GATA Epoch 14
 {% endfile %}
 
@@ -314,7 +314,7 @@ GATA DOA epoch 15 form 1st OCT 2023 - 30th OCT 2023. Where 1727/1887 eligible GA
 Total Atom Distributed: 158 Atom\
 Distribution Date: November 15, 2023
 
-{% file src="../.gitbook/assets/GATA Epoch 15 reward distribution.txt" %}
+{% file src="../../../.gitbook/assets/GATA Epoch 15 reward distribution.txt" %}
 GATA epoch 15
 {% endfile %}
 
@@ -340,7 +340,7 @@ GATA DOA epoch 16 form 1st NOV 2023 - 30th NOV 2023. Where 1727/1887 eligible GA
 Total Atom Distributed: 140 Atom\
 Distribution Date: December 02, 2023
 
-{% file src="../.gitbook/assets/GATA epoch 16 reward distribution.txt" %}
+{% file src="../../../.gitbook/assets/GATA epoch 16 reward distribution.txt" %}
 GATA EPOCH 16
 {% endfile %}
 
@@ -365,7 +365,7 @@ GATA DOA epoch 17 form 1st DEC 2023 - 31st DEC 2023. Where 1727/1887 eligible GA
 Total Atom Distributed: 190 Atom\
 Distribution Date: January 01, 2024
 
-{% file src="../.gitbook/assets/GATA epoch 17.txt" %}
+{% file src="../../../.gitbook/assets/GATA epoch 17.txt" %}
 Epoch 17
 {% endfile %}
 

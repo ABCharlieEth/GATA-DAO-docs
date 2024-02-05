@@ -1,4 +1,4 @@
-# Yield series
+# YG concept
 
 ## Yield Series NFT
 
@@ -19,12 +19,12 @@ _-Staking revenue from the Yield NFT_
 
 {% tabs %}
 {% tab title="Yield Gorillas" %}
-Yield Gorillas are the first collection of yield series and has been launched on the Teritori on November 16, 2022. Learn more about Yield Gorillas [here ](./#yield-gorillas)\
+Yield Gorillas are the first collection of yield series and has been launched on the Teritori on November 16, 2022. Learn more about Yield Gorillas [here ](yg-concept.md#yield-gorillas)\
 \
 Supply: 10,000\
 Secondary market: [Teritori ](https://app.teritori.com/collection/tori-tori1999u8suptza3rtxwk7lspve02m406xe7l622erg3np3aq05gawxsrh9g0p)
 
-<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>1/1 YG</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>1/1 YG</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Yield 2nd" %}
