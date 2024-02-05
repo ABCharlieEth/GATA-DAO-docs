@@ -6,6 +6,18 @@ description: >-
 
 # 🎯 Projects of GATA Ventures
 
-* [GATA DAO Validators](gata-validators/)
-* [GATA DAO NFT collections](nft-collections.md)
+### Infrastructure&#x20;
+
+* [Validators](gata-validators/)
+* Relays&#x20;
 * [Staking and Delegations ](gata-nft-dao/gata-dao-staking-delegations.md) &#x20;
+
+### NFTS&#x20;
+
+* [GATA D](gata-validators/)[AO NFTS](gata-nft-dao/)
+* [Yield Gorillas](yield-gorilla/)
+* [Souvenir NFTS ](souvenir-series.md)
+
+### Apps&#x20;
+
+* soon&#x20;
