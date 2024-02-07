@@ -11,6 +11,7 @@
     * [ICS Partner chains](about-gata-dao/projects-of-gata-ventures/gata-validators/ics-partner-chains.md)
     * [GATA testnet validator](about-gata-dao/projects-of-gata-ventures/gata-validators/gata-testnet-validator.md)
     * [Foundation delegations](about-gata-dao/projects-of-gata-ventures/gata-validators/foundation-delegations.md)
+  * [GATA Relays](about-gata-dao/projects-of-gata-ventures/gata-relays.md)
   * [GATA NFT DAO](about-gata-dao/projects-of-gata-ventures/gata-nft-dao/README.md)
     * [💱 DAO Revenue](about-gata-dao/projects-of-gata-ventures/gata-nft-dao/dao-revenue.md)
     * [💰 DAO Treasury ](about-gata-dao/projects-of-gata-ventures/gata-nft-dao/dao-treasury.md)
