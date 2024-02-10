@@ -9,7 +9,7 @@ description: >-
 ### Infrastructure&#x20;
 
 * [Validators](gata-validators/)
-* Relays&#x20;
+* [Relays ](gata-relays.md)
 * [Staking and Delegations ](gata-nft-dao/gata-dao-staking-delegations.md) &#x20;
 
 ### NFTS&#x20;

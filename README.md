@@ -3,7 +3,7 @@ cover: .gitbook/assets/GATA DAO Banner-02.png
 coverY: 0
 ---
 
-# 🐈⬛ What is GATA DAO?
+# 🐈⬛ GATA HUB
 
 NFT DAO, in the Cosmos ecosystem, allows the owners of GATA NFTs to participate and influence the decision-making of the DAO. The GATA DAO has been formed to own and operate cosmos validator(s) which infact are and will be the property of the DAO. So, by owning a GATA NFT you are either owning or are founding a validator that gives you earnings (the utility) derived from running the validator in proportion to your NFT ownership. This is in addition to the value of the art that the owners would hold. Furthermore, the utility also includes royalties derived from a share of the trading fee of NFTs on the marketplace. Therefore, the NFT holders enjoy the benefit of community engagement via running the DAO, earning from validator(s) setup, royalties, and staking rewards.
 
@@ -15,7 +15,7 @@ GATA DAO aims to function as a decentralized autonomous organization that levera
 
 #### To generate passive income for NFT holders
 
-By owning GATA NFTs, holders can receive a share of the DAO's revenue, enabling them to earn passive income without actively participating in the organization's operations. The DAO generates revenue by running [Validators](about-gata-dao/projects-of-gata-ventures/gata-validators/) on different blockchains, staking different assets, and NFT holders can benefit from this revenue stream.
+By owning GATA NFTs, holders can receive a share of the DAO's revenue, enabling them to earn passive income without actively participating in the organization's operations. The DAO generates revenue by running [Validators](gatahub/projects-of-gata-ventures/gata-validators/) on different blockchains, staking different assets, and NFT holders can benefit from this revenue stream.
 
 #### To give back to the community
 
