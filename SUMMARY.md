@@ -16,7 +16,7 @@
     * [ℹ About GATA series](gatahub/gata-hub-ventures/gata-nft-dao/about-gata-series/README.md)
       * [Origin of γάτα](gatahub/gata-hub-ventures/gata-nft-dao/about-gata-series/origin-of-gata.md)
       * [Origin of Voyagers](gatahub/gata-hub-ventures/gata-nft-dao/about-gata-series/origin-of-voyagers.md)
-    * [💰 DAO Treasury ](gatahub/gata-hub-ventures/gata-nft-dao/dao-treasury.md)
+    * [💰 GATA DAO Treasury](gatahub/gata-hub-ventures/gata-nft-dao/gata-dao-treasury.md)
     * [💵 DAO Revenue Distribution](gatahub/gata-hub-ventures/gata-nft-dao/dao-revenue-distribution.md)
     * [💱 DAO Revenue](gatahub/gata-hub-ventures/gata-nft-dao/dao-revenue.md)
     * [🥩 GATA DAO Staking/Delegations](gatahub/gata-hub-ventures/gata-nft-dao/gata-dao-staking-delegations.md)
@@ -26,10 +26,10 @@
     * [YG concept](gatahub/gata-hub-ventures/yield-gorilla/yg-concept.md)
   * [Souvenir Series](gatahub/gata-hub-ventures/souvenir-series.md)
   * [All NFT Collections](gatahub/gata-hub-ventures/all-nft-collections.md)
-* [📻 Road Map](gatahub/road-map/README.md)
-  * [2024 Road Map](gatahub/road-map/2024-road-map.md)
-  * [2023 Milestones](gatahub/road-map/2023-milestones.md)
-  * [2022 Milestones](gatahub/road-map/2022-milestones.md)
+* [🛤 GATA HUB Road Map](gatahub/gata-hub-road-map/README.md)
+  * [2024 Road Map](gatahub/gata-hub-road-map/2024-road-map.md)
+  * [2023 Recap](gatahub/gata-hub-road-map/2023-recap.md)
+  * [2022 Recap](gatahub/gata-hub-road-map/2022-recap.md)
 * [⁉ GATA DAO FAQs](gatahub/faqs.md)
 
 ## 🔯 Cosmos ecosystem
