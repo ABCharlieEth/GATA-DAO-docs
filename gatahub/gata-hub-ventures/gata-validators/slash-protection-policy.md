@@ -1,5 +1,5 @@
 ---
-description: GATA DAO Slash protection policy.
+description: GATA HUB Slash protection policy.
 ---
 
 # Slash protection policy
@@ -19,7 +19,7 @@ There are two types of slashings validator nodes might face:
 
 _(we hope to increase the number in the future)_ \
 \
-Because every network has different slashing parameters, we cannot give you estimates but for $JUNO if you delegate 100 $JUNO to GATA DAO Validation, in case of downtime jail you will be slashed 0.01 JUNO and 5 $JUNO in case of Double signing slashing.\
+Because every network has different slashing parameters, we cannot give you estimates but for $JUNO if you delegate 100 $JUNO to GATA HUB Validation, in case of downtime jail you will be slashed 0.01 JUNO and 5 $JUNO in case of Double signing slashing.\
 \
 **Refund-time**
 
