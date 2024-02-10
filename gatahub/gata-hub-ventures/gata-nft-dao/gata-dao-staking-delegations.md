@@ -4,7 +4,7 @@ description: >-
   to revenue.
 ---
 
-# GATA Staking/Delegations
+# 🥩 GATA DAO Staking/Delegations
 
 Following is the list of total Staked assets in GATA DAO treasury, and GATA-operated nodes including self-bonded assets.&#x20;
 

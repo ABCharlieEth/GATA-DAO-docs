@@ -4,7 +4,7 @@ description: >-
   GATA series.
 ---
 
-# GATA series
+# ℹ About GATA series
 
 GATA Series NFT collection is the first GATA Venture, GATA Series holds the voting rights within the GATA DAO. There are currently 2 GATA Series NFT collections [Colonial Cats](./#colonial-cats-gatac) and [Voyager Cats](./#voyager-cats-gatav). &#x20;
 

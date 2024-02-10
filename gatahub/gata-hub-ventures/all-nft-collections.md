@@ -2,7 +2,7 @@
 description: GATA DAO NFT collections
 ---
 
-# NFT Collections
+# All NFT Collections
 
 {% tabs %}
 {% tab title="GATA Series" %}
@@ -35,7 +35,7 @@ _-Airdrop / Whitelist_ priority \
 _-Increased earning from the validator commission, after all 100% of the mint proceed will be staked to DAO validator._ \
 _-Staking revenue from the Yield NFT_\
 \
-[_More details about the Yield Series_ ](nft-collections.md#yield-series)
+[_More details about the Yield Series_ ](all-nft-collections.md#yield-series)
 {% endtab %}
 
 {% tab title="P2E" %}
@@ -53,7 +53,7 @@ GATA DAO is thrilled to announce that we will be celebrating the blockchain even
 \
 We will also add the exciting rewards during such mints to make these mints even more memorable. \
 \
-[More details about this Series ](nft-collections.md#souvenir-series)
+[More details about this Series ](all-nft-collections.md#souvenir-series)
 {% endtab %}
 
 {% tab title="Other" %}

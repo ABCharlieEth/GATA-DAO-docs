@@ -18,7 +18,7 @@ GATA DAO (Decentralized Autonomous Organizations) is a group of people who holds
 
 <summary>How dose GATA DAO earns for their NFT holders?</summary>
 
-* By operating validators and getting commission from the [validators.](gatahub/projects-of-gata-ventures/gata-validators/)
+* By operating validators and getting commission from the [validators.](gata-hub-ventures/gata-validators/)
 
 <!---->
 
@@ -26,7 +26,7 @@ GATA DAO (Decentralized Autonomous Organizations) is a group of people who holds
 
 <!---->
 
-* [Staking](gatahub/projects-of-gata-ventures/gata-nft-dao/gata-dao-staking-delegations.md) rewards&#x20;
+* [Staking](gata-hub-ventures/gata-nft-dao/gata-dao-staking-delegations.md) rewards&#x20;
 
 </details>
 
@@ -34,7 +34,7 @@ GATA DAO (Decentralized Autonomous Organizations) is a group of people who holds
 
 <summary>How many Epochs GATA DAO has distributed?</summary>
 
-GATA DAO distribute the revenue share with the GATA NFT holders each month, to check the details [read more](gatahub/projects-of-gata-ventures/gata-nft-dao/dao-revenue-distribution.md)_._&#x20;
+GATA DAO distribute the revenue share with the GATA NFT holders each month, to check the details [read more](gata-hub-ventures/gata-nft-dao/dao-revenue-distribution.md)_._&#x20;
 
 </details>
 
@@ -42,7 +42,7 @@ GATA DAO distribute the revenue share with the GATA NFT holders each month, to c
 
 <summary>How many type of NFTs GATA DAO have? </summary>
 
-GATA DAO have 2 major categories GATA series and Non-GATA series, Non GATA series further have many sub categories. You can read all about the NFT collections [here](gatahub/projects-of-gata-ventures/nft-collections.md).&#x20;
+GATA DAO have 2 major categories GATA series and Non-GATA series, Non GATA series further have many sub categories. You can read all about the NFT collections [here](gata-hub-ventures/all-nft-collections.md).&#x20;
 
 </details>
 
@@ -50,7 +50,7 @@ GATA DAO have 2 major categories GATA series and Non-GATA series, Non GATA serie
 
 <summary>How many validators GATA DAO operates?</summary>
 
-GATA DAO operates validators across all the major CosmosSDK networks and we are continuously expanding, here you can check the current [count of validators](gatahub/projects-of-gata-ventures/gata-validators/). &#x20;
+GATA DAO operates validators across all the major CosmosSDK networks and we are continuously expanding, here you can check the current [count of validators](gata-hub-ventures/gata-validators/). &#x20;
 
 </details>
 
@@ -74,7 +74,7 @@ GATA DAO operates validators across all the major CosmosSDK networks and we are 
 
 <summary>What is GATA Slash protection?</summary>
 
-Slash protection policy is to protect the GATA delegators in case of slash event, you can read about the [policy](gatahub/projects-of-gata-ventures/gata-validators/slash-protection-policy.md) here.&#x20;
+Slash protection policy is to protect the GATA delegators in case of slash event, you can read about the [policy](gata-hub-ventures/gata-validators/slash-protection-policy.md) here.&#x20;
 
 </details>
 
