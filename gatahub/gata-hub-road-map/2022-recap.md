@@ -1,4 +1,4 @@
-# 2022 Milestones
+# 2022 Recap
 
 Phase 1 of the road map is about the foundation of DAO and its expansion.&#x20;
 
@@ -23,9 +23,9 @@ Phase 1 of the road map is about the foundation of DAO and its expansion.&#x20;
 
 2\)    DAO vote to select the chains where GATA DAO will operate as a validator
 
-* Started **Sifchain validtaor** in April 2022 ([Gov prop 1](../../gata-constitution/governance-proposal-1.md))
-* Started **Evmos & Nomic BTC** validator in May 2022 ([Gove prop 2](../../gata-constitution/governance-proposal-2.md))
-* Started **Juno** validator in June 2022 ([Gov prop 5](../../gata-constitution/governance-proposal-5.md))
+* Started **Sifchain validtaor** in April 2022 ([Gov prop 1](../gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-1.md))
+* Started **Evmos & Nomic BTC** validator in May 2022 ([Gove prop 2](../gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-2.md))
+* Started **Juno** validator in June 2022 ([Gov prop 5](../gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-5.md))
 
 3\)   DAO Decision hierarchy ( Team > Senate (OGs) > DAO)&#x20;
 
@@ -52,4 +52,4 @@ Phase 1 of the road map is about the foundation of DAO and its expansion.&#x20;
 
 4\)    Exploring new streams of revenue.
 
-* Started **Cosmos** validator in August 2022 ([Gov prop 7](../../gata-constitution/governance-proposal-7.md))
+* Started **Cosmos** validator in August 2022 ([Gov prop 7](../gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-7.md))

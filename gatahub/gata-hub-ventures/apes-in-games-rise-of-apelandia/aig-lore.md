@@ -12,13 +12,13 @@ Apelandia is an **ocean planet** that consists of **3 main archipelagos**:
 * [Equatorian Archipelago](aig-lore.md#equatorian-archipelago-home-of-the-golden-apes): The Equatorian Archipelago is filled with tropical islands, dense jungles and all kinds of creatures & natural resources - the home of the [Golden Apes](aig-lore.md#solus-and-the-golden-apes-dirty-martian-dust). Close to the center of the archipelago, a _portal to Mars_ is located in the [Black Lagoon](aig-lore.md#black-lagoon-landmark-of-the-equatorian-archipelago-and-portal-to-mars).
 * [Southern Archipelago](aig-lore.md#southern-archipelago-home-of-the-blue-apes): The Southern Archipelago is the biggest mining region on Apelandia, filled with valuable minerals and rare earths - the home of the [Blue Apes](aig-lore.md#atlas-and-the-blue-apes-amazonian-jungle-fever). In one of the oldest mining regions of the archipelago, a _portal to Earth_ is located within the [Endless Hole](aig-lore.md#endless-hole-landmark-of-the-southern-archipelago-and-portal-to-earth).&#x20;
 
-<figure><img src="../.gitbook/assets/AiG-map-apelandia-1.2b.jpg" alt=""><figcaption><p>Map of planet Apelandia and its three main archipelagos</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/AiG-map-apelandia-1.2b.jpg" alt=""><figcaption><p>Map of planet Apelandia and its three main archipelagos</p></figcaption></figure>
 
 ### The Three Lineages & Their Leaders
 
 Take a look in the lore and backstories of the three lineages and their respective leaders:
 
-<figure><img src="../.gitbook/assets/AiG-lineages-lore-extended-grey-apes-v2-w-nova.jpg" alt=""><figcaption><p>Intro to the lore of the Grey Apes</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/AiG-lineages-lore-extended-grey-apes-v2-w-nova.jpg" alt=""><figcaption><p>Intro to the lore of the Grey Apes</p></figcaption></figure>
 
 <details>
 
@@ -40,7 +40,7 @@ Haunted by the loss of captured kin and the looming threat of X Corps voracity, 
 
 
 
-<figure><img src="../.gitbook/assets/AiG-lineages-lore-extended-golden-apes-v2-w-solus.jpg" alt=""><figcaption><p>Intro to the lore of the Blue Apes</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/AiG-lineages-lore-extended-golden-apes-v2-w-solus.jpg" alt=""><figcaption><p>Intro to the lore of the Blue Apes</p></figcaption></figure>
 
 <details>
 
@@ -68,7 +68,7 @@ Despite all odds and through their courage & wisdom, Solus and his crew managed 
 
 
 
-<figure><img src="../.gitbook/assets/AiG-lineages-lore-extended-blue-apes-v2-w-atlas.jpg" alt=""><figcaption><p>Intro to the lore of the Blue Apes</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/AiG-lineages-lore-extended-blue-apes-v2-w-atlas.jpg" alt=""><figcaption><p>Intro to the lore of the Blue Apes</p></figcaption></figure>
 
 <details>
 
@@ -95,13 +95,13 @@ No matter their strength & courage, the following napalm bombardment took its to
 
 #### Strengths & Weaknesses of the Three Lineages
 
-<figure><img src="../.gitbook/assets/AiG-lineages-overview-v2.jpg" alt=""><figcaption><p>Overview of all strengths &#x26; weaknesses of the three lineages of the Apes of Apelandia</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/AiG-lineages-overview-v2.jpg" alt=""><figcaption><p>Overview of all strengths &#x26; weaknesses of the three lineages of the Apes of Apelandia</p></figcaption></figure>
 
 
 
 ### The Three Archipelagos
 
-<figure><img src="../.gitbook/assets/AiG-lineages-separate-Grey-Apes-1.2-w-nova.jpg" alt="" width="563"><figcaption><p>Northern Archipelago is home of the <a href="aig-lore.md#nova-and-the-grey-apes-jupiters-fury">Grey Apes</a> &#x26; their leader Nova</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/AiG-lineages-separate-Grey-Apes-1.2-w-nova.jpg" alt="" width="563"><figcaption><p>Northern Archipelago is home of the <a href="aig-lore.md#nova-and-the-grey-apes-jupiters-fury">Grey Apes</a> &#x26; their leader Nova</p></figcaption></figure>
 
 <details>
 
@@ -117,7 +117,7 @@ Amidst this awe-inspiring tableau stands the Obsidian Ice Plate, a sentinel and 
 
 
 
-<figure><img src="../.gitbook/assets/AiG-lineages-separate-Golden-Apes-1.2-w-solus.jpg" alt="" width="563"><figcaption><p>Equatorian Archipelago is home of the <a href="aig-lore.md#solus-and-the-golden-apes-dirty-martian-dust">Golden Apes</a> &#x26; their leader Solus</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/AiG-lineages-separate-Golden-Apes-1.2-w-solus.jpg" alt="" width="563"><figcaption><p>Equatorian Archipelago is home of the <a href="aig-lore.md#solus-and-the-golden-apes-dirty-martian-dust">Golden Apes</a> &#x26; their leader Solus</p></figcaption></figure>
 
 <details>
 
@@ -133,7 +133,7 @@ Amidst this lush paradise, a portal to Mars beckons, ushering them from familiar
 
 
 
-<figure><img src="../.gitbook/assets/AiG-lineages-separate-Blue-Apes-1.2-w-atlas.jpg" alt="" width="563"><figcaption><p>Southern Archipelago is home of the <a href="aig-lore.md#atlas-and-the-blue-apes-amazonian-jungle-fever">Blue Apes</a> &#x26; their leader Atlas</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/AiG-lineages-separate-Blue-Apes-1.2-w-atlas.jpg" alt="" width="563"><figcaption><p>Southern Archipelago is home of the <a href="aig-lore.md#atlas-and-the-blue-apes-amazonian-jungle-fever">Blue Apes</a> &#x26; their leader Atlas</p></figcaption></figure>
 
 <details>
 
@@ -151,7 +151,7 @@ At its heart lies the legendary Endless Hole, a testament to their industrious s
 
 
 
-<figure><img src="../.gitbook/assets/Grey-Apes-Obsidian-Ice-Plate.jpeg" alt="" width="375"><figcaption><p>Obsidian Ice Plate in the <a href="aig-lore.md#northern-archipelago-home-of-the-grey-apes">Northern Archipelago</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Grey-Apes-Obsidian-Ice-Plate.jpeg" alt="" width="375"><figcaption><p>Obsidian Ice Plate in the <a href="aig-lore.md#northern-archipelago-home-of-the-grey-apes">Northern Archipelago</a></p></figcaption></figure>
 
 <details>
 
@@ -167,7 +167,7 @@ Neither Nova nor any other Grey Ape was surprised when the portal to Jupiter for
 
 ####
 
-<figure><img src="../.gitbook/assets/Golden-Apes-Black-Lagoon.jpeg" alt="" width="375"><figcaption><p>Black Lagoon in the <a href="aig-lore.md#equatorian-archipelago-home-of-the-golden-apes">Equatorian Archipelago</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Golden-Apes-Black-Lagoon.jpeg" alt="" width="375"><figcaption><p>Black Lagoon in the <a href="aig-lore.md#equatorian-archipelago-home-of-the-golden-apes">Equatorian Archipelago</a></p></figcaption></figure>
 
 <details>
 
@@ -181,7 +181,7 @@ Little did Solus and his band of wise apes know that this idyllic haven would be
 
 ####
 
-<figure><img src="../.gitbook/assets/Blue-Apes-Endless-Hole.jpeg" alt="" width="375"><figcaption><p>Endless Hole in the <a href="aig-lore.md#southern-archipelago-home-of-the-blue-apes">Southern Archipelago</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Blue-Apes-Endless-Hole.jpeg" alt="" width="375"><figcaption><p>Endless Hole in the <a href="aig-lore.md#southern-archipelago-home-of-the-blue-apes">Southern Archipelago</a></p></figcaption></figure>
 
 <details>
 

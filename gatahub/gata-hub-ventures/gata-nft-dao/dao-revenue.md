@@ -6,7 +6,7 @@ description: The simplest of GATA DAO revenue flow model
 
 ## Updated Revenue Model after Felis update
 
-[Check Details of Felis Update](../../../gata-constitution/governance-proposal-9.md)
+[Check Details of Felis Update](gata-constitution/governance-proposal-9.md)
 
 <figure><img src="../../../.gitbook/assets/WhatsApp Image 2023-01-27 at 09.34.39.jpg" alt=""><figcaption><p>GATA DAO updated revenue model after Felis update Feb 4, 2023</p></figcaption></figure>
 

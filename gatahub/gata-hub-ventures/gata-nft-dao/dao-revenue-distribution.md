@@ -8,7 +8,7 @@ ATOM holding wallet  [cosmos15pqtxqnntu64cw4m7v0nv2f35lfm3zzasz4z3d](https://www
 
 ## Reward accumulation&#x20;
 
-After the DAO [Proposal 7](../../../gata-constitution/governance-proposal-7.md); The reward distribution will occur on a monthly basis and in a month we will distribute a commission of 25 days and self-bond for the rest of the days in a month to increase and maintain the self-bonded ratio.&#x20;
+After the DAO [Proposal 7](gata-constitution/governance-proposal-7.md); The reward distribution will occur on a monthly basis and in a month we will distribute a commission of 25 days and self-bond for the rest of the days in a month to increase and maintain the self-bonded ratio.&#x20;
 
 ## GATA DAO EPOCH 1
 

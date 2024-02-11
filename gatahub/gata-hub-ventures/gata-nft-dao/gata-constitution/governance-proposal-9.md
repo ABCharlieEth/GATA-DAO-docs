@@ -31,4 +31,4 @@ Voting end time : 19 OCT 2022 12:35 pm UTC
 
 ## Result
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../../../../.gitbook/assets/image (9).png>)

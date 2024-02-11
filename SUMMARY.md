@@ -20,17 +20,34 @@
     * [💵 DAO Revenue Distribution](gatahub/gata-hub-ventures/gata-nft-dao/dao-revenue-distribution.md)
     * [💱 DAO Revenue](gatahub/gata-hub-ventures/gata-nft-dao/dao-revenue.md)
     * [🥩 GATA DAO Staking/Delegations](gatahub/gata-hub-ventures/gata-nft-dao/gata-dao-staking-delegations.md)
+    * [⚖ GATA Constitution](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/README.md)
+      * [Governance proposal 1](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-1.md)
+      * [Governance proposal 2](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-2.md)
+      * [Governance proposal 3](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-3.md)
+      * [Governance proposal 4](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-4.md)
+      * [Governance proposal 5](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-5.md)
+      * [Governance proposal 6](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-6.md)
+      * [Governance proposal 7](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-7.md)
+      * [Governance proposal 8](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-8.md)
+      * [Governance proposal 9](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-9.md)
+      * [Governance proposal 10](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-10.md)
+      * [Governance proposal 11](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-11.md)
+      * [Governance proposal 12](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-12.md)
+      * [Governance proposal 13](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-13.md)
+      * [Governance proposal 14](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-14.md)
+    * [⁉ GATA DAO FAQs](gatahub/gata-hub-ventures/gata-nft-dao/faqs.md)
   * [Yield Gorilla](gatahub/gata-hub-ventures/yield-gorilla/README.md)
     * [YG's Assets](gatahub/gata-hub-ventures/yield-gorilla/ygs-assets.md)
     * [YGs Reward Distribution](gatahub/gata-hub-ventures/yield-gorilla/ygs-reward-distribution.md)
     * [YG concept](gatahub/gata-hub-ventures/yield-gorilla/yg-concept.md)
-  * [Souvenir Series](gatahub/gata-hub-ventures/souvenir-series.md)
-  * [All NFT Collections](gatahub/gata-hub-ventures/all-nft-collections.md)
+  * [NFT Souvenirs](gatahub/gata-hub-ventures/nft-souvenirs.md)
+  * [Apes in Games — Rise of Apelandia](gatahub/gata-hub-ventures/apes-in-games-rise-of-apelandia/README.md)
+    * [AiG Lore](gatahub/gata-hub-ventures/apes-in-games-rise-of-apelandia/aig-lore.md)
+    * [AiG NFT Collection](gatahub/gata-hub-ventures/apes-in-games-rise-of-apelandia/aig-nft-collection.md)
 * [🛤 GATA HUB Road Map](gatahub/gata-hub-road-map/README.md)
   * [2024 Road Map](gatahub/gata-hub-road-map/2024-road-map.md)
   * [2023 Recap](gatahub/gata-hub-road-map/2023-recap.md)
   * [2022 Recap](gatahub/gata-hub-road-map/2022-recap.md)
-* [⁉ GATA DAO FAQs](gatahub/faqs.md)
 
 ## 🔯 Cosmos ecosystem
 
@@ -63,32 +80,8 @@
 
 ***
 
-* [⚖ GATA Constitution](gata-constitution/README.md)
-  * [Governance proposal 1](gata-constitution/governance-proposal-1.md)
-  * [Governance proposal 2](gata-constitution/governance-proposal-2.md)
-  * [Governance proposal 3](gata-constitution/governance-proposal-3.md)
-  * [Governance proposal 4](gata-constitution/governance-proposal-4.md)
-  * [Governance proposal 5](gata-constitution/governance-proposal-5.md)
-  * [Governance proposal 6](gata-constitution/governance-proposal-6.md)
-  * [Governance proposal 7](gata-constitution/governance-proposal-7.md)
-  * [Governance proposal 8](gata-constitution/governance-proposal-8.md)
-  * [Governance proposal 9](gata-constitution/governance-proposal-9.md)
-  * [Governance proposal 10](gata-constitution/governance-proposal-10.md)
-  * [Governance proposal 11](gata-constitution/governance-proposal-11.md)
-  * [Governance proposal 12](gata-constitution/governance-proposal-12.md)
-  * [Governance proposal 13](gata-constitution/governance-proposal-13.md)
-  * [Governance proposal 14](gata-constitution/governance-proposal-14.md)
 * [📙 Disclaimer](disclaimer.md)
 
 ## 🧑🤝🧑 What's cooking in DAO community
 
 * [Crew3](whats-cooking-in-dao-community/crew3.md)
-* [GATA Diary](whats-cooking-in-dao-community/gata-diary/README.md)
-  * [November 10, 2022](whats-cooking-in-dao-community/gata-diary/november-10-2022.md)
-  * [December 20, 2022](whats-cooking-in-dao-community/gata-diary/december-20-2022.md)
-
-## 🎮 GATA Game
-
-* [Apes in Games — Rise of Apelandia](gata-game/apes-in-games-rise-of-apelandia.md)
-* [AiG NFT Collection](gata-game/aig-nft-collection.md)
-* [AiG Lore](gata-game/aig-lore.md)

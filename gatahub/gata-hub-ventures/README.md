@@ -4,7 +4,7 @@ description: >-
   Validator nodes and DAO staked assets across Cosmos.
 ---
 
-# 🎯 Projects of GATA Ventures
+# 🎯 GATA HUB Ventures
 
 ### Infrastructure&#x20;
 
@@ -16,7 +16,7 @@ description: >-
 
 * [GATA D](gata-validators/)[AO NFTS](gata-nft-dao/)
 * [Yield Gorillas](yield-gorilla/)
-* [Souvenir NFTS ](souvenir-series.md)
+* [Souvenir NFTS ](nft-souvenirs.md)
 
 ### Apps&#x20;
 

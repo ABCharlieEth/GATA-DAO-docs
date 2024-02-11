@@ -1,6 +1,6 @@
 # AiG NFT Collection
 
-## AiG NFT Collection Information <a href="#9c94" id="9c94"></a>
+## AiG NFT Collection Information <a href="#id-9c94" id="id-9c94"></a>
 
 * Total Supply: 9999
 * Blockchain: Archway
@@ -10,4 +10,4 @@
 * [AiG Mint on Architech](https://architech.zone/nfts/mint/archway1yr5jel6egdldl6tzzm7tp295ly36v5kml4nw0q0rhhgguzdpej3s5alr5z)
 * [Architech Launchpad](https://architech.zone/)
 
-<figure><img src="../.gitbook/assets/AiG-general-info-v3.3.jpg" alt=""><figcaption><p>Apes in games</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/AiG-general-info-v3.3.jpg" alt=""><figcaption><p>Apes in games</p></figcaption></figure>
