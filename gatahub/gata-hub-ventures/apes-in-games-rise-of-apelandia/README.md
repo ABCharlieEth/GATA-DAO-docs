@@ -8,7 +8,7 @@ Initially launched in August 2023 but paused due to market conditions. See detai
 
 Apes in Games (AiG) is the beginning of an exciting journey and everyone minting them will be part of it: Not only can the NFTs of this collection be used as PFPs, but offer a bunch of other awesome utilities & perks:
 
-* Exclusive access to the game developed by GATA DAO (**ETA** **in Q4 2023**)
+* Exclusive access to the game developed by GATA HUB (**ETA** **in Q4 2023**)
 * In-game perks (depending on the different traits of the AiG NFTs)
 * Additional surprises further down the road
 

@@ -4,7 +4,7 @@ description: Your Gateway to Safe and Smart Cosmos Wallet Usage
 
 # ⁉ How to Cosmos
 
-The "How to Cosmos" series, brought to you by GATA DAO, is a comprehensive collection of tutorials designed to empower new and existing community members with the knowledge and skills needed to navigate the Cosmos ecosystem confidently and securely. These tutorials cover essential topics related to using Cosmos wallets, managing assets, and engaging with various blockchain applications within the Cosmos Hub. Whether you're a seasoned blockchain enthusiast or just stepping into the Cosmosverse, this series has something valuable to offer.
+The "How to Cosmos" series, brought to you by GATA HUB, is a comprehensive collection of tutorials designed to empower new and existing community members with the knowledge and skills needed to navigate the Cosmos ecosystem confidently and securely. These tutorials cover essential topics related to using Cosmos wallets, managing assets, and engaging with various blockchain applications within the Cosmos Hub. Whether you're a seasoned blockchain enthusiast or just stepping into the Cosmosverse, this series has something valuable to offer.
 
 **Why "How to Cosmos"?**
 
