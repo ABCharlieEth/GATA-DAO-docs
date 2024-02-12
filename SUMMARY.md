@@ -78,10 +78,8 @@
     * [Stride](cosmos-ecosystem/ics/atom-economic-zone-aez/stride.md)
     * [Neutron](cosmos-ecosystem/ics/atom-economic-zone-aez/neutron.md)
 
-***
+## 🧑🤝🧑 What's cooking in community
 
-* [📙 Disclaimer](disclaimer.md)
-
-## 🧑🤝🧑 What's cooking in DAO community
-
-* [Crew3](whats-cooking-in-dao-community/crew3.md)
+* [Crew3](whats-cooking-in-community/crew3.md)
+* [Quiz](whats-cooking-in-community/quiz.md)
+* [📙 Disclaimer](whats-cooking-in-community/disclaimer.md)
