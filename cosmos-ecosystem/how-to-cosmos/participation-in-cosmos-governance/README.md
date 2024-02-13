@@ -20,7 +20,7 @@ In this tutorial, we explore how you can participate in Cosmos governance, why b
 
 **Accessing Governance Proposals:** No matter the wallet you use, all contain a Cosmos Governance section in which you can see the active proposals and their respective details. To take part in governance proposals you can either vote through [Keplr Wallet governance](https://wallet.keplr.app/?tab=active-proposals) or via Leap Wallet governance by navigating to the governance tab.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="240"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="240"><figcaption></figcaption></figure>
 
 
 
@@ -78,7 +78,7 @@ In diesem Tutorial erfährst du, wie du dich an der Cosmos-Governance beteiligen
 
 **Zugriff auf Governance-Proposals:** Unabhängig davon, welche Wallet du verwendest, alle enthalten einen Cosmos Governance-Bereich, in dem du dir die aktiven Proposals und ihre jeweiligen Details anschauen kannst. Um aktiv an Governance-Vorschlägen teilzunehmen, kannst du entweder über die Keplr-Wallet-Governance oder über die Leap-Wallet-Governance abstimmen, indem du zum jeweiligen Wallet-Tab **Governance** navigierst.
 
-<img src="../../../.gitbook/assets/image (1) (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="original">
 
 
 
