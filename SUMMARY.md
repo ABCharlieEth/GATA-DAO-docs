@@ -12,6 +12,7 @@
     * [GATA testnet validator](gatahub/gata-hub-ventures/gata-validators/gata-testnet-validator.md)
     * [Foundation delegations](gatahub/gata-hub-ventures/gata-validators/foundation-delegations.md)
   * [GATA Relays](gatahub/gata-hub-ventures/gata-relays.md)
+  * [Deposit dApp](gatahub/gata-hub-ventures/deposit-dapp.md)
   * [GATA NFT DAO](gatahub/gata-hub-ventures/gata-nft-dao/README.md)
     * [ℹ About GATA series](gatahub/gata-hub-ventures/gata-nft-dao/about-gata-series/README.md)
       * [Origin of γάτα](gatahub/gata-hub-ventures/gata-nft-dao/about-gata-series/origin-of-gata.md)

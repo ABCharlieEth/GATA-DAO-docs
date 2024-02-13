@@ -1,7 +1,7 @@
 ---
 description: >-
-  GATA DAO currently manages many types of NFT collection launches, Active
-  Validator nodes and DAO staked assets across Cosmos.
+  GATA HUB provide infrastructural support like validators and  IBC relays and
+  we currently manage many types of NFT collection.
 ---
 
 # 🎯 GATA HUB Ventures
@@ -20,4 +20,4 @@ description: >-
 
 ### Apps&#x20;
 
-* soon&#x20;
+* Deposit dApp (Temp name)
