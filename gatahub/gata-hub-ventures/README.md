@@ -6,18 +6,18 @@ description: >-
 
 # 🎯 GATA HUB Ventures
 
-### Infrastructure&#x20;
+### Infrastructure /Network
 
 * [Validators](gata-validators/)
 * [Relays ](gata-relays.md)
 * [Staking and Delegations ](gata-nft-dao/gata-dao-staking-delegations.md) &#x20;
 
-### NFTS&#x20;
+### NFTs
 
-* [GATA D](gata-validators/)[AO NFTS](gata-nft-dao/)
-* [Yield Gorillas](yield-gorilla/)
-* [Souvenir NFTS ](nft-souvenirs.md)
+* [GATA D](gata-validators/)[AO NFTs](gata-nft-dao/); Validator Co-ownership and monthly rewards. &#x20;
+* [Yield Gorillas](yield-gorilla/); Monthly rewards, deflationary supply.
+* [Souvenir NFTs ](nft-souvenirs.md)
 
-### Apps&#x20;
+### Apps/Games&#x20;
 
-* Deposit dApp (Temp name)
+* [Deposit dApp](deposit-dapp.md) (Temp name)
