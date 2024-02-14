@@ -12,7 +12,7 @@ description: Epoch record of YG collection
 YG Epoch 11
 {% endfile %}
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## YG Epoch 10
 
@@ -20,7 +20,7 @@ YG Epoch 11
 
 {% file src="../../../.gitbook/assets/YG epoch 10.txt" %}
 
-<figure><img src="../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 ## YG Epoch 9
 

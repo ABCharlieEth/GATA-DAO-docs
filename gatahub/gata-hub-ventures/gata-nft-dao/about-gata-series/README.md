@@ -17,7 +17,7 @@ Launched on the Stargaze launchpad on March 11, 2022, comprising 999 GATAc ever.
 You can trade GATAc [here](https://app.stargaze.zone/marketplace/stars1yw4xvtc43me9scqfr2jr2gzvcxd3a9y4eq7gaukreugw2yd2f8tssqyvcm). \
 For analytics [visit.](https://info.stargaze.zone/collections/stars1yw4xvtc43me9scqfr2jr2gzvcxd3a9y4eq7gaukreugw2yd2f8tssqyvcm)&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Voyager Cats (GATAv)" %}
@@ -27,7 +27,7 @@ Launched on the Stargaze launchpad on June 3, 2022, comprising 888 GATAv ever.&#
 You can trade [here](https://app.stargaze.zone/launchpad/stars1puhek9hsvj9nnk6hxg7mjchh0pxxsuyjxjv5cy8qyjlj4tz7we7s6mclum). \
 For analytics[ visit](https://info.stargaze.zone/collections/stars19tedq0x8csy6v35cqcjy8f76j2f0fsljjytuxcvl3x4sj82tmxnqgxuu85).&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="GATA 3rd" %}

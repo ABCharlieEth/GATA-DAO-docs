@@ -34,7 +34,7 @@ Validator performance metrics include uptime, commissions, and historical perfor
 
 {% embed url="https://ping.pub/cosmos/uptime" %}
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 #### **Security Practices**
 
@@ -116,7 +116,7 @@ Zugleich is Reputation wichtig: Validatoren mit einer starken Erfolgsbilanz in B
 
 Zu den Leistungskennzahlen der Validatoren zählen Uptime, Commissions und die historische Performance. Validatoren mit hoher Uptime und wettbewerbsfähigen Commissions sind im Allgemeinen attraktiver. Tools wie das [Ping Dashboard](https://ping.pub/cosmos/uptime) sind nützlich, um diese Kennzahlen zu analysieren.
 
-<img src="../../../.gitbook/assets/image (2).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (3).png" alt="" data-size="original">
 
 #### Sicherheitspraktiken
 
