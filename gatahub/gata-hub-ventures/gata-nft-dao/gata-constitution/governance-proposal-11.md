@@ -46,4 +46,4 @@ Voting start time: 1 Feb 2022 6:30 pm UTC Voting end time: 4 Feb 2022 6:30 pm UT
 
 Prop 11 passed to execute the Felis update. \
 \
-![](<../../../../.gitbook/assets/image (19).png>)
+![](<../../../../.gitbook/assets/image (16).png>)

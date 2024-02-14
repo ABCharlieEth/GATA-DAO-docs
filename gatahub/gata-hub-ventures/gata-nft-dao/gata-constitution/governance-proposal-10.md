@@ -32,4 +32,4 @@ _Voting end time: 9 NOV 2022 7:45 pm UTC_
 
 Prop 10 passed in favor of shutting down the Rowan validator. \
 \
-![](<../../../../.gitbook/assets/image (26).png>)
+![](<../../../../.gitbook/assets/image (23).png>)
