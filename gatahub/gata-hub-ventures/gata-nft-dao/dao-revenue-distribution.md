@@ -390,3 +390,10 @@ GATA DOA epoch 18 form 1st Jan 2024 - 31st Jan 2024. Where 1727/1887 eligible GA
 Total Atom Distributed: 190 Atom\
 Distribution Date: February 01, 2024
 
+
+
+| Source    | Atom Revenue | USD Value (10/Atom) |
+| --------- | ------------ | ------------------- |
+|           |              |                     |
+|           |              |                     |
+| **Total** | **190 Atom** | **1900 USD**        |
