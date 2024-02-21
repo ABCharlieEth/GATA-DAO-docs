@@ -1,6 +1,6 @@
 ---
 description: Last updated Feb 3, 2023
-cover: ../../../../../.gitbook/assets/755.jpg
+cover: ../../../.gitbook/assets/755.jpg
 coverY: 0
 layout:
   cover:
@@ -69,7 +69,7 @@ Last updated Feb 3, 2024.&#x20;
 
 ## Airdrops for YG wallets
 
-<table><thead><tr><th width="172">Token/Network</th><th>Amount airdropped</th><th width="175">Amount distributed</th><th>Amount staked</th></tr></thead><tbody><tr><td>ARCH/Archway</td><td>2000 ARCH</td><td><a href="https://www.mintscan.io/osmosis/transactions/3FAF81E0D99AC7C32411E33C40C4157114FB9188DDE8D11663C36B5444438949">1500 ARCH</a> /20.5 Atom</td><td><a href="https://www.mintscan.io/archway/transactions/8313BE9D21576ADD3CCAD8106B6A8A6C9A9CAE335941229E0078EFDA8641FD14">500 ARCH</a></td></tr><tr><td>TIA/Celestia</td><td>357 TIA</td><td><a href="https://www.mintscan.io/cosmos/tx/$B6BB495396247C464E9DBF43D470CDE36A55BAA83A3017C90BFB6EA8284714ED">256 TIA</a>/ 166 Atom</td><td><a href="https://www.mintscan.io/celestia/tx/08FBD649897539E61204A0E33CB06DF70589DDD713CCF857C92426F56C8FFDFC?height=104722">100</a><a href="https://www.mintscan.io/celestia/tx/08FBD649897539E61204A0E33CB06DF70589DDD713CCF857C92426F56C8FFDFC?height=104722"> TIA</a></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="172">Token/Network</th><th>Amount airdropped</th><th width="175">Amount distributed</th><th>Amount staked</th></tr></thead><tbody><tr><td>ARCH/Archway</td><td>2000 ARCH</td><td><a href="https://www.mintscan.io/osmosis/transactions/3FAF81E0D99AC7C32411E33C40C4157114FB9188DDE8D11663C36B5444438949">1500 ARCH</a> /20.5 Atom</td><td><a href="https://www.mintscan.io/archway/transactions/8313BE9D21576ADD3CCAD8106B6A8A6C9A9CAE335941229E0078EFDA8641FD14">500 ARCH</a></td></tr><tr><td>TIA/Celestia</td><td>357 TIA</td><td><a href="https://www.mintscan.io/cosmos/tx/$B6BB495396247C464E9DBF43D470CDE36A55BAA83A3017C90BFB6EA8284714ED">256 TIA</a>/ 166 Atom</td><td><a href="https://www.mintscan.io/celestia/tx/08FBD649897539E61204A0E33CB06DF70589DDD713CCF857C92426F56C8FFDFC?height=104722">100</a><a href="https://www.mintscan.io/celestia/tx/08FBD649897539E61204A0E33CB06DF70589DDD713CCF857C92426F56C8FFDFC?height=104722"> TIA</a></td></tr><tr><td>Source</td><td>19680 Source</td><td></td><td><a href="https://explorer.tcnetwork.io/source/transaction/AC15273CB577557B5A3371F20A9D5465FB60FDCE9D69B89509570AADED1C73FF">5000 Source</a></td></tr></tbody></table>
 
 ## YG monthly earning Year 2023
 
