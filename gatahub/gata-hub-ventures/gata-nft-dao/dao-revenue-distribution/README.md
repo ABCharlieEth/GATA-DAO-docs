@@ -390,10 +390,17 @@ GATA DOA epoch 18 form 1st Jan 2024 - 31st Jan 2024. Where 1727/1887 eligible GA
 Total Atom Distributed: 190 Atom\
 Distribution Date: February 01, 2024
 
-
-
-| Source    | Atom Revenue | USD Value (10/Atom) |
-| --------- | ------------ | ------------------- |
-|           |              |                     |
-|           |              |                     |
-| **Total** | **190 Atom** | **1900 USD**        |
+| Source             | Atom Revenue | USD Value (10/Atom) |
+| ------------------ | ------------ | ------------------- |
+| Atom Validator     | 64 Atom      | 640 USD             |
+| Akash Validator    | 14 Atom      | 140 USD             |
+| Archway Validator  | 18.3 Atom    | 183 USD             |
+| Evmos Validator    | 3.5 Atom     | 35 USD              |
+| Juno Validator     | 3.2 Atom     | 32 USD              |
+| Omniflix Validator | 51 Atom      | 510 USD             |
+| Osmosis Validator  | 18.2 Atom    | 182 USD             |
+| Stargaze Validator | 4.6Atom      | 46 USD              |
+| Teritori Validator | 7 Atom       | 70 USD              |
+| Royalties          | 7 Atom       | 70 USD              |
+| Rollover           | 2 Atom       | 20 USD              |
+| **Total**          | **190 Atom** | **1900 USD**        |
