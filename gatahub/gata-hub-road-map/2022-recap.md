@@ -34,7 +34,7 @@ Phase 1 of the road map is about the foundation of DAO and its expansion.&#x20;
 4\)    DAO’s website, DAO’s  on-chain voting (Magic transactions using memo) , and Reward distribution module.&#x20;
 
 * On chain Voting process using the memo and on chain transactions.&#x20;
-* Reward distribution started in August 2022 ( [details here](../gata-hub-ventures/gata-nft-dao/dao-revenue-distribution.md))
+* Reward distribution started in August 2022 ( [details here](../gata-hub-ventures/gata-nft-dao/dao-revenue-distribution/))
 
 ### Expansion  (Q3-4 2022)
 
