@@ -27,11 +27,13 @@ Because every network has different slashing parameters, we cannot give you esti
 \
 **Eligible Chains**
 
-* **Evmos**
+* **Cosmos HUB**
+* **Osmosis HUB**
 * **Juno**
-* **Atom**
 * **Teritori**
 * **Omniflix**
+* **AKASH**
+* **Stargaze**
 
 ## **Slash/Refund events**
 
