@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🐈⬛ GATA HUB](README.md)
+* [🐈‍⬛ GATA HUB](README.md)
 * [Useful links](https://linktr.ee/gatadao)
 
 ## 📌 GATA HUB  <a href="#gatahub" id="gatahub"></a>
@@ -14,14 +14,14 @@
   * [GATA Relays](gatahub/gata-hub-ventures/gata-relays.md)
   * [Deposit dApp](gatahub/gata-hub-ventures/deposit-dapp.md)
   * [GATA NFT DAO](gatahub/gata-hub-ventures/gata-nft-dao/README.md)
-    * [ℹ About GATA series](gatahub/gata-hub-ventures/gata-nft-dao/about-gata-series/README.md)
+    * [ℹ️ About GATA series](gatahub/gata-hub-ventures/gata-nft-dao/about-gata-series/README.md)
       * [Origin of γάτα](gatahub/gata-hub-ventures/gata-nft-dao/about-gata-series/origin-of-gata.md)
       * [Origin of Voyagers](gatahub/gata-hub-ventures/gata-nft-dao/about-gata-series/origin-of-voyagers.md)
     * [💰 GATA DAO Treasury](gatahub/gata-hub-ventures/gata-nft-dao/gata-dao-treasury.md)
     * [💵 DAO Revenue Distribution](gatahub/gata-hub-ventures/gata-nft-dao/dao-revenue-distribution/README.md)
       * [💱 DAO Revenue Share model](gatahub/gata-hub-ventures/gata-nft-dao/dao-revenue-distribution/dao-revenue-share-model.md)
     * [🥩 GATA DAO Staking/Delegations](gatahub/gata-hub-ventures/gata-nft-dao/gata-dao-staking-delegations.md)
-    * [⚖ GATA Constitution](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/README.md)
+    * [⚖️ GATA Constitution](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/README.md)
       * [Governance proposal 1](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-1.md)
       * [Governance proposal 2](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-2.md)
       * [Governance proposal 3](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-3.md)
@@ -36,7 +36,7 @@
       * [Governance proposal 12](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-12.md)
       * [Governance proposal 13](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-13.md)
       * [Governance proposal 14](gatahub/gata-hub-ventures/gata-nft-dao/gata-constitution/governance-proposal-14.md)
-    * [⁉ GATA DAO FAQs](gatahub/gata-hub-ventures/gata-nft-dao/faqs.md)
+    * [⁉️ GATA DAO FAQs](gatahub/gata-hub-ventures/gata-nft-dao/faqs.md)
   * [Yield Gorilla](gatahub/gata-hub-ventures/yield-gorilla/README.md)
     * [YG's Assets](gatahub/gata-hub-ventures/yield-gorilla/ygs-assets.md)
     * [YGs Reward Distribution](gatahub/gata-hub-ventures/yield-gorilla/ygs-reward-distribution.md)
@@ -45,16 +45,17 @@
   * [Apes in Games — Rise of Apelandia](gatahub/gata-hub-ventures/apes-in-games-rise-of-apelandia/README.md)
     * [AiG Lore](gatahub/gata-hub-ventures/apes-in-games-rise-of-apelandia/aig-lore.md)
     * [AiG NFT Collection](gatahub/gata-hub-ventures/apes-in-games-rise-of-apelandia/aig-nft-collection.md)
-* [🛤 GATA HUB Road Map](gatahub/gata-hub-road-map/README.md)
+* [🛤️ GATA HUB Road Map](gatahub/gata-hub-road-map/README.md)
   * [2024 Road Map](gatahub/gata-hub-road-map/2024-road-map.md)
   * [2023 Recap](gatahub/gata-hub-road-map/2023-recap.md)
   * [2022 Recap](gatahub/gata-hub-road-map/2022-recap.md)
+* [🙋‍♀️ FAQs](gatahub/faqs.md)
 
 ## 🔯 Cosmos ecosystem
 
-* [ℹ Introduction to Cosmos](cosmos-ecosystem/introduction-to-cosmos/README.md)
+* [ℹ️ Introduction to Cosmos](cosmos-ecosystem/introduction-to-cosmos/README.md)
   * [Interoperability](cosmos-ecosystem/introduction-to-cosmos/interoperability.md)
-* [⁉ How to Cosmos](cosmos-ecosystem/how-to-cosmos/README.md)
+* [⁉️ How to Cosmos](cosmos-ecosystem/how-to-cosmos/README.md)
   * [Creating and Securing Your Cosmos Wallet](cosmos-ecosystem/how-to-cosmos/creating-and-securing-your-cosmos-wallet/README.md)
     * [Keplr Wallet](cosmos-ecosystem/how-to-cosmos/creating-and-securing-your-cosmos-wallet/keplr-wallet.md)
     * [Leap Wallet](cosmos-ecosystem/how-to-cosmos/creating-and-securing-your-cosmos-wallet/leap-wallet.md)
@@ -66,7 +67,7 @@
   * [Participation in Cosmos Governance](cosmos-ecosystem/how-to-cosmos/participation-in-cosmos-governance/README.md)
     * [Choosing a validator](cosmos-ecosystem/how-to-cosmos/participation-in-cosmos-governance/choosing-a-validator.md)
     * [Cosmos Governance](cosmos-ecosystem/how-to-cosmos/participation-in-cosmos-governance/cosmos-governance.md)
-* [⛓ What is the Interchain?](cosmos-ecosystem/what-is-the-interchain/README.md)
+* [⛓️ What is the Interchain?](cosmos-ecosystem/what-is-the-interchain/README.md)
   * [A whole universe](cosmos-ecosystem/what-is-the-interchain/a-whole-universe.md)
   * [The Cosmos SDK](cosmos-ecosystem/what-is-the-interchain/the-cosmos-sdk.md)
   * [IBC](cosmos-ecosystem/what-is-the-interchain/ibc.md)
@@ -79,7 +80,7 @@
     * [Stride](cosmos-ecosystem/ics/atom-economic-zone-aez/stride.md)
     * [Neutron](cosmos-ecosystem/ics/atom-economic-zone-aez/neutron.md)
 
-## 🧑🤝🧑 What's cooking in community
+## 🧑‍🤝‍🧑 What's cooking in community
 
 * [Crew3](whats-cooking-in-community/crew3.md)
 * [Quiz](whats-cooking-in-community/quiz.md)
